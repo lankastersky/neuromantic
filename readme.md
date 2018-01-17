@@ -1,4 +1,4 @@
-# TOC
+﻿# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
   - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Go game](https://github.com/lankastersky/neuromantic#go-game)
@@ -44,7 +44,9 @@ Code repositories
 
 ## Image Recognition
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
-- [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception)
+- [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
+- [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception) - 1.4M images and 1000 classes
+- [ImageNet](http://image-net.org/)
 
 ## Neural Style Transfer
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
