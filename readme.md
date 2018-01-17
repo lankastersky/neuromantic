@@ -1,5 +1,11 @@
-#TOC
+# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
+  - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
+  - [Go game](https://github.com/lankastersky/neuromantic#go-game)
+  - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
+  - [Image Recongition](https://github.com/lankastersky/neuromantic#image-recognition)
+  - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
+  - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
@@ -11,6 +17,9 @@
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
   - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
+
+## Go game
+- (Mastering the game of Go without human knowledge by David Silver et al, 2017)[https://www.gwern.net/docs/rl/2017-silver.pdf]
 
 ## Gesture Recognition
 
@@ -30,6 +39,13 @@ Apps
 Code repositories
 - https://github.com/droiddeveloper1/android-wear-gestures-recognition
 - https://github.com/drejkim/AndroidWearMotionSensors
+
+## Image Recongition
+- [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
+- [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception)
+
+## Neural Style Transfer
+- [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
 
 ## Sound recognition
 
