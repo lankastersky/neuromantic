@@ -3,10 +3,12 @@
   - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Go game](https://github.com/lankastersky/neuromantic#go-game)
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
-  - [Image Recongition](https://github.com/lankastersky/neuromantic#image-recognition)
+  - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
+  - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
+  - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
@@ -19,7 +21,7 @@
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
 
 ## Go game
-- (Mastering the game of Go without human knowledge by David Silver et al, 2017)[https://www.gwern.net/docs/rl/2017-silver.pdf]
+- [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
 
 ## Gesture Recognition
 
@@ -40,7 +42,7 @@ Code repositories
 - https://github.com/droiddeveloper1/android-wear-gestures-recognition
 - https://github.com/drejkim/AndroidWearMotionSensors
 
-## Image Recongition
+## Image Recognition
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception)
 
