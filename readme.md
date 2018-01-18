@@ -89,7 +89,7 @@ Cons:
 - limited to image recognition (2018-Q1)
 - doesn't allow to download a trained model
 
-## (Google Mobile Vision)[https://developers.google.com/vision/]
+## [Google Mobile Vision](https://developers.google.com/vision/)
 
 Pros:
 - Detect Faces (finds facial landmarks such as the eyes, nose, and mouth; doesn't identifies a person)
