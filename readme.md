@@ -117,11 +117,14 @@ Pros:
 - do not require enormous data sets
 
 Cons:
+- tend to overfit
+  - fixed by building a decision forest with boosting
 - unstable/undeterministic (generate different results while trained on the same data)
-  - fixed using bootstrap aggregation/bagging
+  - fixed by using bootstrap aggregation/bagging (a boosted forest)
 
 Hyperparameters:
-- Depth
+- depth
+- min number of elements in leafs
 
 # MOOC
 
