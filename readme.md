@@ -11,8 +11,10 @@
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
-- [Books](https://github.com/lankastersky/neuromantic#books)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
+- [Models](https://github.com/lankastersky/neuromantic#models)
+  - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
+- [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 
 # Use Cases
@@ -101,11 +103,20 @@ Cons:
 ## Playgrounds
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
-# Books
-
 # Articles
 ## Deep learning
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
 
+# Models
+
+## Decision Trees
+Pros:
+- can model nonlinearities
+- are highly interpretable
+- do not require extensive feature preprocessing
+- do not require enormous data sets
 # MOOC
+
+# Books
+
 
