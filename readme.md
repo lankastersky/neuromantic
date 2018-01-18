@@ -5,6 +5,7 @@
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
+  - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
@@ -43,11 +44,15 @@ Code repositories
 - https://github.com/drejkim/AndroidWearMotionSensors
 
 ## Image Recognition
+- [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/pdf/1703.01041.pdf)
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception)
 
 ## Neural Style Transfer
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
+
+## Search
+- [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 
 ## Sound recognition
 
