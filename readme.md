@@ -5,6 +5,7 @@
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
+  - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
@@ -36,6 +37,7 @@
 Articles
 - [Physical Human Activity Recognition Using Wearable Sensors by Ferhat Attal et al, 2015](http://www.mdpi.com/1424-8220/15/12/29858)
 - [Activity Recognition with Smartphone Sensors by Xing Su et al, 2014](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6838194&tag=1)
+- [Motion gesture detection using Tensorflow on Android](http://blog.lemberg.co.uk/motion-gesture-detection-using-tensorflow-android)
 - [Run or Walk : Detecting Motion Activity Type with Machine Learning and Core ML](https://towardsdatascience.com/run-or-walk-detecting-user-activity-with-machine-learning-and-core-ml-part-1-9658c0dcdd90)
 - Android [DetectedActivity class](https://developers.google.com/android/reference/com/google/android/gms/location/DetectedActivity)
 - Android [ActivityRecognitionApi](https://developers.google.com/android/reference/com/google/android/gms/location/ActivityRecognitionApi)
@@ -49,6 +51,7 @@ Code repositories
 - https://github.com/drejkim/AndroidWearMotionSensors
 
 ## Image Recognition
+- [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/pdf/1703.01041.pdf)
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception) - 1.4M images and 1000 classes
@@ -59,6 +62,9 @@ Code repositories
 
 ## Neural Style Transfer
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
+
+## Search
+- [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 
 ## Sound recognition
 
