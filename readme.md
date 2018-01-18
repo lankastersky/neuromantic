@@ -19,7 +19,8 @@
 ## Distributed Neural Networks
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
-- [Distilling the Knowledge in a Neural Network by Geoffrey Hinton, 2015](https://arxiv.org/abs/1503.02531)
+- Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
+- [Distilling the Knowledge in a Neural Network by Geoffrey Hinton et al, 2015](https://arxiv.org/abs/1503.02531)
   - trains a model to mimic the behavior of a pretrained model so it can work independently of the pretrained model
   - can train the smaller model with unlabeled examples
   - not all target classes need to be represented in the distillation training set
@@ -52,6 +53,7 @@ Code repositories
 - [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
 - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception) - 1.4M images and 1000 classes
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications by Andrew G. Howard et al, 2017](https://arxiv.org/abs/1704.04861)
+  - Similar approach on practice: [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
 - [ImageNet](http://image-net.org/)
 - [Xception: Deep Learning with Depthwise Separable Convolutions by François Chollet, 2017](https://arxiv.org/abs/1610.02357)
 
