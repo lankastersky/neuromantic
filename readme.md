@@ -115,6 +115,14 @@ Pros:
 - are highly interpretable
 - do not require extensive feature preprocessing
 - do not require enormous data sets
+
+Cons:
+- unstable/undeterministic (generate different results while trained on the same data)
+  - fixed using bootstrap aggregation/bagging
+
+Hyperparameters:
+- Depth
+
 # MOOC
 
 # Books
