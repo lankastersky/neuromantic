@@ -28,6 +28,8 @@
   - can train the smaller model with unlabeled examples
   - not all target classes need to be represented in the distillation training set
   - reduces the need for regularization
+  - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro et al, 2016](https://arxiv.org/abs/1602.04938)
+  - [Detecting Bias in Black-Box Models Using Transparent Model Distillation by Sarah Tan et al, 2017](https://arxiv.org/abs/1710.06169)
 
 ## Go game
 - [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
