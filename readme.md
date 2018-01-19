@@ -6,6 +6,8 @@
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
+    - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
+    - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
@@ -68,11 +70,15 @@ Code repositories
 ## NLP
 
 ### Crossword question answerers
-- [Learning to Understand Phrases by Embedding the Dictionary by Felix Hill et al, 2016](http://www.aclweb.org/anthology/Q16-1002)
+- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
-### Reverse dictionaries 
-Return the name of a concept given a definition ordescription:
+### Reverse dictionaries (concept finders)
+Return the name of a concept given a definition or description:
 - [Learning to Understand Phrases by Embedding the Dictionary by Felix Hill et al, 2016](http://www.aclweb.org/anthology/Q16-1002)
+  - 
+- comparing definitions in a database to the input query, and returning the word whose definitionis ‘closest’ to that query
+- see RNNs (with LSTMs)
+- see bag-of-word
 
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
@@ -150,11 +156,15 @@ Hyperparameters:
 ## Embedding models
 - https://github.com/Hironsan/awesome-embedding-models
 - [word2vec](https://code.google.com/archive/p/word2vec/source) (embedded words and phrases)
+- see recursive autoencoders
+- see bag-of-words models
 
 ### Phrase embeddings
+- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 - [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
+  - word2vec based on Mikolov's Skip-gram model
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
-- see recursive autoencoders
+  - based on context-sensitive recursive neural networks (CRNN)
 
 # MOOC
 
