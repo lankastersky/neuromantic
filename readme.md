@@ -13,7 +13,6 @@
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
-- [Problems](https://github.com/lankastersky/neuromantic#problems)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - [Books](https://github.com/lankastersky/neuromantic#books)
@@ -70,7 +69,7 @@ Code repositories
 - [Xception: Deep Learning with Depthwise Separable Convolutions by François Chollet, 2017](https://arxiv.org/abs/1610.02357)
 
 ## Interpretability
--[Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
+- [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
 - see [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - see [Distillation](https://github.com/lankastersky/neuromantic#distillation)
 
