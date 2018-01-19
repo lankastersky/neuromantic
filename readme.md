@@ -138,7 +138,7 @@ Hyperparameters:
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
 
 ## Embedding models
-- (https://github.com/Hironsan/awesome-embedding-models)
+- https://github.com/Hironsan/awesome-embedding-models
 
 # MOOC
 
