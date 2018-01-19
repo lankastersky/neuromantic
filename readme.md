@@ -75,7 +75,7 @@ Code repositories
 ### Reverse dictionaries (concept finders)
 Return the name of a concept given a definition or description:
 - [Learning to Understand Phrases by Embedding the Dictionary by Felix Hill et al, 2016](http://www.aclweb.org/anthology/Q16-1002)
-  - 
+  - ?
 - comparing definitions in a database to the input query, and returning the word whose definitionis ‘closest’ to that query
 - see RNNs (with LSTMs)
 - see bag-of-word
