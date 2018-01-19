@@ -15,6 +15,8 @@
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
+  - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
+  - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 
@@ -134,6 +136,9 @@ Hyperparameters:
 
 ## Deep learning
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
+
+## Embedding models
+- (https://github.com/Hironsan/awesome-embedding-models)
 
 # MOOC
 
