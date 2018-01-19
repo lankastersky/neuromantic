@@ -1,9 +1,11 @@
 ﻿# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
+  - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
   - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Go game](https://github.com/lankastersky/neuromantic#go-game)
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
+  - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
@@ -11,7 +13,7 @@
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
-- [Articles](https://github.com/lankastersky/neuromantic#articles)
+- [Problems](https://github.com/lankastersky/neuromantic#problems)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - [Books](https://github.com/lankastersky/neuromantic#books)
@@ -19,17 +21,19 @@
 
 # Use Cases
 
-## Distributed Neural Networks
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
-- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
-- Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
-- [Distilling the Knowledge in a Neural Network by Geoffrey Hinton et al, 2015](https://arxiv.org/abs/1503.02531)
+## Distillation
   - trains a model to mimic the behavior of a pretrained model so it can work independently of the pretrained model
   - can train the smaller model with unlabeled examples
   - not all target classes need to be represented in the distillation training set
   - reduces the need for regularization
+  - [Distilling the Knowledge in a Neural Network by Geoffrey Hinton et al, 2015](https://arxiv.org/abs/1503.02531)
   - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro et al, 2016](https://arxiv.org/abs/1602.04938)
   - [Detecting Bias in Black-Box Models Using Transparent Model Distillation by Sarah Tan et al, 2017](https://arxiv.org/abs/1710.06169)
+
+## Distributed Neural Networks
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
+- Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
 
 ## Go game
 - [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
@@ -64,6 +68,11 @@ Code repositories
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky et al, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
   - [ImageNet](http://image-net.org/)
 - [Xception: Deep Learning with Depthwise Separable Convolutions by François Chollet, 2017](https://arxiv.org/abs/1610.02357)
+
+## Interpretability
+-[Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
+- see [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
+- see [Distillation](https://github.com/lankastersky/neuromantic#distillation)
 
 ## Neural Style Transfer
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
@@ -105,10 +114,6 @@ Cons:
 ## Playgrounds
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
-# Articles
-## Deep learning
-- [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
-
 # Models
 
 ## Decision Trees
@@ -127,6 +132,9 @@ Cons:
 Hyperparameters:
 - depth
 - min number of elements in leafs
+
+## Deep learning
+- [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
 
 # MOOC
 
