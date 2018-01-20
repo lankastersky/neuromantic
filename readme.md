@@ -133,8 +133,8 @@ Cons:
   - fixed by using bootstrap aggregation/bagging (a boosted forest)
 
 Hyperparameters:
-- depth
-- min number of elements in leafs
+- tree depth
+- maximum number of leaf nodes
 
 ## Deep learning
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
