@@ -148,6 +148,7 @@ Hyperparameters:
 
 ## Deep learning
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
+- [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 ## Distillation
   - trains a model to mimic the behavior of a pretrained model so it can work independently of the pretrained model
@@ -172,14 +173,15 @@ Hyperparameters:
 ### Phrase embeddings
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
+  - the model: Sent2Vec based on vec2vec
 - [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
+  - based on RNN encoder-decoder models
 - [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
   - word2vec based on Mikolov's Skip-gram model
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
 
 # Articles
-- [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # MOOC
 
