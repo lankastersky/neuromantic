@@ -63,6 +63,7 @@ Code repositories
 
 ## Interpretability
 - [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
+- [A unified approach to interpreting model predictions by Scott M Lundberg et al, 2017](https://nips.cc/Conferences/2017/Schedule?showEvent=10008)
 - see [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - see [Distillation](https://github.com/lankastersky/neuromantic#distillation)
 
