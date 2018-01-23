@@ -6,7 +6,7 @@
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
-    - [sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
+    - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
   - [Search](https://github.com/lankastersky/neuromantic#search)
@@ -74,7 +74,7 @@ Code repositories
 
 ## NLP
 
-## Sequence 2 sequence
+## Sequence to sequence
 - [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
