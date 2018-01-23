@@ -75,7 +75,8 @@ Code repositories
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
-### Reverse dictionaries (concept finders)
+### Reverse dictionaries
+Other name is concept finders
 Return the name of a concept given a definition or description:
 - [Learning to Understand Phrases by Embedding the Dictionary by Felix Hill et al, 2016](http://www.aclweb.org/anthology/Q16-1002)
   - ?
