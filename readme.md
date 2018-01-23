@@ -171,15 +171,18 @@ Hyperparameters:
 - see bag-of-words models
 
 ### Phrase embeddings
-- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
+- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
 - [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
   - based on RNN encoder-decoder models
+- [Distributed Representations of Sentences and Documents by Quoc V. Le, Mikolov, 2014](https://arxiv.org/abs/1405.4053)
+  - [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
 - [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
   - word2vec based on Mikolov's Skip-gram model
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
+- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
 # Articles
 
