@@ -74,22 +74,10 @@ Code repositories
 
 ## NLP
 
-## Sequence to sequence
-- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
-- [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
-  - the model: Sent2Vec based on vec2vec
-- [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
-  - based on RNN encoder-decoder models
-- [Sequence to Sequence Learning with Neural Networks by Ilya Sutskever et al, 2014](https://arxiv.org/abs/1409.3215)
-  - the model: seq2seq
-- [Distributed Representations of Sentences and Documents by Quoc V. Le, Mikolov, 2014](https://arxiv.org/abs/1405.4053)
-  - [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
-- [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
-  - word2vec based on Mikolov's Skip-gram model
-- [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
-  - based on context-sensitive recursive neural networks (CRNN)
-- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
-
+### Chatbot examples
+- [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
+  - based on Tensorflow’s embedding_rnn_seq2seq() with custom dataset. Deployed as a Facebook chatbot using heroku (hosting)+express(frontend)+flask(backend)
+  
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
@@ -101,6 +89,22 @@ Return the name of a concept given a definition or description:
 - comparing definitions in a database to the input query, and returning the word whose definitionis ‘closest’ to that query
 - see RNNs (with LSTMs)
 - see bag-of-word
+
+### Sequence to sequence
+- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
+- [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
+  - the model: Sent2Vec based on vec2vec
+- [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
+  - based on RNN encoder-decoder models
+- [Sequence to Sequence Learning with Neural Networks by Ilya Sutskever et al, 2014](https://arxiv.org/abs/1409.3215)
+  - the model: seq2seq based on LSTM
+- [Distributed Representations of Sentences and Documents by Quoc V. Le, Mikolov, 2014](https://arxiv.org/abs/1405.4053)
+  - [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
+- [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
+  - word2vec based on Mikolov's Skip-gram model
+- [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
+  - based on context-sensitive recursive neural networks (CRNN)
+- see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
