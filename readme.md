@@ -10,6 +10,8 @@
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
+  - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
+    - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
@@ -91,6 +93,11 @@ Annotated Datasets
 - [AudioSet](https://research.google.com/audioset/) - consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos
 - [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
+## Video recognition
+
+### Video segmentation
+Detects when one program ends and another begins
+- [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
 
 # Tools
 
