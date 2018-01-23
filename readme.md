@@ -22,6 +22,7 @@
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
   - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
+- [Articles](https://github.com/lankastersky/neuromantic#articles)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 
@@ -176,6 +177,9 @@ Hyperparameters:
   - word2vec based on Mikolov's Skip-gram model
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
+
+# Articles
+- [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # MOOC
 
