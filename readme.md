@@ -77,6 +77,10 @@ Code repositories
 ### Chatbot examples
 - [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
   - based on Tensorflow’s embedding_rnn_seq2seq() with custom dataset. Deployed as a Facebook chatbot using heroku (hosting)+express(frontend)+flask(backend)
+- [Deep Learning for Chatbots, Part 1 – Introduction, 2016](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+- https://pypi.python.org/pypi/ChatterBot/0.4.3
+- see [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
+
   
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
@@ -91,6 +95,9 @@ Return the name of a concept given a definition or description:
 - see bag-of-word
 
 ### Sequence to sequence
+- [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models by Louis Shao et al, 2017](https://research.google.com/pubs/pub45936.html)
+  - trained on a combined data set of over 2.3B conversation messages mined from the web
+  - The model: LSTM on tensorflow
 - [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
