@@ -6,9 +6,10 @@
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
-    - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
+    - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
+    - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
@@ -74,7 +75,7 @@ Code repositories
 
 ## NLP
 
-### Chatbot examples
+### Chatbots
 - [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
   - based on Tensorflow’s embedding_rnn_seq2seq() with custom dataset. Deployed as a Facebook chatbot using heroku (hosting)+express(frontend)+flask(backend)
 - [Deep Learning for Chatbots, Part 1 – Introduction, 2016](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
