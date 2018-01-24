@@ -3,6 +3,7 @@
   - [Go game](https://github.com/lankastersky/neuromantic#go-game)
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
+    - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
@@ -64,6 +65,10 @@ Code repositories
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky et al, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
   - [ImageNet](http://image-net.org/)
 - [Xception: Deep Learning with Depthwise Separable Convolutions by François Chollet, 2017](https://arxiv.org/abs/1610.02357)
+
+### Face Recognition
+- [FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff et al, 2015](https://arxiv.org/abs/1503.03832)
+  - the model: FaceNet
 
 ## Interpretability
 - [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
@@ -135,8 +140,23 @@ Annotated Datasets
 ## Video recognition
 
 ### Video segmentation
-Detects when one program ends and another begins
+Detects when one video (shot/scene/chapter) ends and another begins
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
+- [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
+- Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
+- Recurrent Switching Linear Dynamical Systems, CVPR, 2016
+- DeepStory: Video Story QA by Deep Embedded Memory Networks, Arxiv, 2017
+- Hierarchical Deep Recurrent Architecture for Video Understanding, Arxiv, 2017
+- Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm, Networking and Information Systems Journal, 2000
+- Video Scene Segmentation Using Markov Chain Monte Carlo, TMM, 2006
+
+
+
+Sound:
+- C. Szegedy et al., Going Deeper with Convolutions, CVPR 2015.
+- S. Hershey et al., CNN Architectures for Large-Scale Audio Classification, Arxiv 2017.
+- A. Jansen et al., Large-Scale Audio Event Discovery in One Million YouTube Videos, ICASSP 2017
+
 
 # Tools
 
