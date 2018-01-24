@@ -10,6 +10,7 @@
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
+    - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
@@ -109,11 +110,15 @@ Return the name of a concept given a definition or description:
   - the model: seq2seq based on LSTM
 - [Distributed Representations of Sentences and Documents by Quoc V. Le, Mikolov, 2014](https://arxiv.org/abs/1405.4053)
   - [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
+  - [python example to train doc2vec model (with or without pre-trained word embeddings)](https://github.com/jhlau/doc2vec)
 - [Distributed Representations of Words and Phrases and their Compositionality by Tomas Mikolov et al, 2013](https://arxiv.org/abs/1310.4546)
   - word2vec based on Mikolov's Skip-gram model
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
+
+### Sentiment analysis
+- [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
 
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
@@ -198,6 +203,8 @@ Hyperparameters:
 ## Embedding models
 - https://github.com/Hironsan/awesome-embedding-models
 - [word2vec](https://code.google.com/archive/p/word2vec/source) (embedded words and phrases)
+- [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
+- https://github.com/jhlau/doc2vec
 - see recursive autoencoders
 - see bag-of-words models
 
