@@ -86,10 +86,14 @@ Code repositories
 - [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta)](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
   - Short-Text Conversations generative model based on Tensorflow’s embedding_rnn_seq2seq() with custom dataset. Deployed as a Facebook chatbot using heroku (hosting)+express(frontend)+flask(backend)
 - [Deep Learning for Chatbots, Part 1 – Introduction, 2016](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+- [Deep Learning for Chatbots, Part 2 – Implementing a Retrieval-Based Model in Tensorflow, 2016](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)
 - https://github.com/gunthercox/ChatterBot
   - Retrieval-based model based on [naive Bayesian classification and search algorithms](http://chatterbot.readthedocs.io/en/stable/faq.html#what-kinds-of-machine-learning-does-chatterbot-use) 
   - see [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
-
+- [A Persona-Based Neural Conversation Model by Jiwei Li et al, 2016](https://arxiv.org/abs/1603.06155)
+- Smart reply
+  - [Smart Reply: Automated Response Suggestion for Emai by Anjuli Kannan et al, 2016](https://arxiv.org/abs/1606.04870)
+  - [Computer, respond to this email, 2015](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
   
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
