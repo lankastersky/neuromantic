@@ -26,6 +26,7 @@
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
   - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
+  - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
@@ -227,6 +228,22 @@ Hyperparameters:
 - https://github.com/jhlau/doc2vec
 - see recursive autoencoders
 - see bag-of-words models
+
+## Metrics of dataset quality
+- Statistical metrics
+  - descriptive statistics: dimensionality, unique subject counts, systematic replicates counts, pdfs, cdfs (probability and cumulative distribution fx's)
+  - cohort design
+  - power analysis
+  - sensitivity analysis
+  - multiple testing correction analysis
+  - dynamic range sensitivity
+- Numerical analysis metrics
+  - number of clusters
+  - PCA dimensions
+  - MDS space dimensions/distances/curves/surfaces
+  - variance between buckets/bags/trees/branches
+  - informative/discriminative indices (i.e. how much does the top 10 features differ from one another and the group)
+  - feature engineering differnetiators
 
 # Articles
 
