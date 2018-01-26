@@ -95,6 +95,8 @@ Code repositories
   - [Smart Reply: Automated Response Suggestion for Emai by Anjuli Kannan et al, 2016](https://arxiv.org/abs/1606.04870)
   - [Computer, respond to this email, 2015](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 - Chatbot projects: https://github.com/fendouai/Awesome-Chatbot
+- [Oscova Machine Learning](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
+  - https://github.com/SynHub/syn-bot-samples
   
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
