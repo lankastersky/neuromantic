@@ -24,9 +24,10 @@
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
-  - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
   - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
+  - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
+    - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
@@ -225,11 +226,6 @@ Hyperparameters:
   - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro et al, 2016](https://arxiv.org/abs/1602.04938)
   - [Detecting Bias in Black-Box Models Using Transparent Model Distillation by Sarah Tan et al, 2017](https://arxiv.org/abs/1710.06169)
 
-## Distributed Neural Networks
-- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
-- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
-- Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
-
 ## Embedding models
 - https://github.com/Hironsan/awesome-embedding-models
 - [word2vec](https://code.google.com/archive/p/word2vec/source) (embedded words and phrases)
@@ -253,6 +249,22 @@ Hyperparameters:
   - variance between buckets/bags/trees/branches
   - informative/discriminative indices (i.e. how much does the top 10 features differ from one another and the group)
   - feature engineering differnetiators
+
+## Neural Networks
+[Approaches](https://medium.com/@sayondutta/nuts-and-bolts-of-applying-deep-learning-by-andrew-ng-89e1cab8b602) when our model doesn’t work:
+- Fetch more data
+- Add more layers to Neural Network
+- Try some new approach in Neural Network
+- Train longer (increase the number of iterations)
+- Change batch size
+- Try Regularisation
+- Check Bias Variance trade-off to avoid under and overfitting
+- Use more GPUs for faster computation
+
+### Distributed Neural Networks
+- [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
+- Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
 
 # Articles
 
