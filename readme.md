@@ -205,6 +205,8 @@ Cons:
   - fixed by building a decision forest with boosting
 - unstable/undeterministic (generate different results while trained on the same data)
   - fixed by using bootstrap aggregation/bagging (a boosted forest)
+- do mapping directly from the raw input to the label
+  - better use neural nets that can learn intermediate representations
 
 Hyperparameters:
 - tree depth
