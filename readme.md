@@ -19,6 +19,8 @@
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
+  - [Chatbot platforms](https://github.com/lankastersky/neuromantic#chatbot-platforms)
+    - [Oscova](https://github.com/lankastersky/neuromantic#oscova)
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
@@ -96,9 +98,8 @@ Code repositories
   - [Smart Reply: Automated Response Suggestion for Emai by Anjuli Kannan et al, 2016](https://arxiv.org/abs/1606.04870)
   - [Computer, respond to this email, 2015](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 - Chatbot projects: https://github.com/fendouai/Awesome-Chatbot
-- [Oscova Machine Learning](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
-  - https://github.com/SynHub/syn-bot-samples
-  
+- see [Oscova](https://github.com/lankastersky/neuromantic#oscova)
+
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
@@ -188,6 +189,13 @@ Pros:
 - Recognize Text
 
 Cons:
+
+## Chatbot platforms
+### [Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
+- https://github.com/SynHub/syn-bot-samples
+  - MS Visual Studio is required (doesn't work with VS Code)
+- activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
+- number of requests to the server is limited by the license
 
 ## Playgrounds
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
