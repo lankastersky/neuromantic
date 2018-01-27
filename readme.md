@@ -98,7 +98,7 @@ Code repositories
   - [Smart Reply: Automated Response Suggestion for Emai by Anjuli Kannan et al, 2016](https://arxiv.org/abs/1606.04870)
   - [Computer, respond to this email, 2015](https://research.googleblog.com/2015/11/computer-respond-to-this-email.html)
 - Chatbot projects: https://github.com/fendouai/Awesome-Chatbot
-- see [Oscova](https://github.com/lankastersky/neuromantic#oscova)
+- see [Chatbot platforms](https://github.com/lankastersky/neuromantic#chatbot-platforms)
 
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
@@ -193,7 +193,7 @@ Cons:
 ## Chatbot platforms
 ### [Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
 - https://github.com/SynHub/syn-bot-samples
-  - MS Visual Studio is required (doesn't work with VS Code)
+- MS Visual Studio is required (doesn't work with VS Code)
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
 - number of requests to the server is limited by the license
 
