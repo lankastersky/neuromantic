@@ -191,7 +191,9 @@ Pros:
 Cons:
 
 ## Chatbot platforms
+
 ### [Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
+- [finds similarity between the expressions](https://forum.syn.co.in/viewtopic.php?t=1845&p=3209)
 - https://github.com/SynHub/syn-bot-samples
 - MS Visual Studio is required (doesn't work with VS Code)
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
