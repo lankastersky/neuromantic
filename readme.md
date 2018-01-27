@@ -15,6 +15,7 @@
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
+    - [Body recognition](https://github.com/lankastersky/neuromantic#body-recognition)
     - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
@@ -148,6 +149,9 @@ Annotated Datasets
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
 
 ## Video recognition
+
+### Body recognition
+- [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
