@@ -76,8 +76,10 @@ Code repositories
   - the model: FaceNet
 
 ## Interpretability
-- [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
 - [A unified approach to interpreting model predictions by Scott M Lundberg et al, 2017](https://nips.cc/Conferences/2017/Schedule?showEvent=10008)
+- ["Why Should I Trust You?": Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro et al, 2016](https://arxiv.org/abs/1602.04938)
+  - [Lime Framework: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
+- [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
 - see [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - see [Distillation](https://github.com/lankastersky/neuromantic#distillation)
 
