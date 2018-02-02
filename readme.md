@@ -210,6 +210,7 @@ Cons:
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
 # Models
+- [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
 
 ## Decision Trees
 Pros:
