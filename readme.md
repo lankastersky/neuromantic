@@ -295,7 +295,7 @@ Hyperparameters:
 ### Perceptrons
 
 ### Recurrent Neural Networks
-- see [Long-Short Term Memory Networks]()
+- see [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic/blob/master/readme.md#long-short-term-memory-networks)
 
 # Articles
 
