@@ -25,13 +25,13 @@
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
-  - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
   - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
   - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
     - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
+  - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 
@@ -167,14 +167,10 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - Hierarchical Deep Recurrent Architecture for Video Understanding, Arxiv, 2017
 - Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm, Networking and Information Systems Journal, 2000
 - Video Scene Segmentation Using Markov Chain Monte Carlo, TMM, 2006
-
-
-
-Sound:
-- C. Szegedy et al., Going Deeper with Convolutions, CVPR 2015.
-- S. Hershey et al., CNN Architectures for Large-Scale Audio Classification, Arxiv 2017.
-- A. Jansen et al., Large-Scale Audio Event Discovery in One Million YouTube Videos, ICASSP 2017
-
+- Sound:
+  - S. Hershey et al., CNN Architectures for Large-Scale Audio Classification, Arxiv 2017.
+  - A. Jansen et al., Large-Scale Audio Event Discovery in One Million YouTube Videos, ICASSP 2017
+  - C. Szegedy et al., Going Deeper with Convolutions, CVPR 2015.
 
 # Tools
 
@@ -211,7 +207,6 @@ Cons:
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
 # Models
-- [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
 
 ## Decision Trees
 Pros:
@@ -231,10 +226,6 @@ Cons:
 Hyperparameters:
 - tree depth
 - maximum number of leaf nodes
-
-## Deep learning
-- [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
-- [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 ## Distillation
   - trains a model to mimic the behavior of a pretrained model so it can work independently of the pretrained model
@@ -298,6 +289,39 @@ Hyperparameters:
 - see [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic/blob/master/readme.md#long-short-term-memory-networks)
 
 # Articles
+- [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
+  - Complex Models Erode Boundaries
+    - Entanglement
+    - Hidden Feedback Loops
+    - Undeclared Consumers
+  - Data Dependencies Cost More than Code Dependencies
+    - Unstable Data Dependencies
+    - Underutilized Data Dependencies
+    - Static Analysis of Data Dependencies
+    - Correction Cascades
+  - System-level Spaghetti
+    - Glue Code
+    - Pipeline Jungles
+    - Dead Experimental Codepaths
+    - Configuration Debt
+  - Dealing with Changes in the External World
+    - Fixed Thresholds in Dynamic Systems
+    - When Correlations No Longer Correlate
+    - Monitoring and Testing
+
+## Deep learning
+- [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
+  - Deep learning thus far is data hungry 
+  - Deep learning thus far is shallow and has limited capacity for transfer
+  - Deep learning thus far has no natural way to deal with hierarchical structure
+  - Deep learning thus far has struggled with open-ended inference 
+  - Deep learning thus far is not sufficiently transparent 
+  - Deep learning thus far has not been well integrated with prior knowledge
+  - Deep learning thus far cannot inherently distinguish causation from correlation
+  - Deep learning presumes a largely stable world, in ways that may be problematic
+  - Deep learning thus far works well as an approximation, but its answers often cannot be fully trusted
+  - Deep learning thus far is difficult to engineer with 
+- [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # MOOC
 
