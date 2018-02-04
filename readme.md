@@ -69,6 +69,7 @@ Code repositories
   - Similar approach on practice: [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky et al, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
   - [ImageNet](http://image-net.org/)
+  - the model is based on CNN
 - [Xception: Deep Learning with Depthwise Separable Convolutions by François Chollet, 2017](https://arxiv.org/abs/1610.02357)
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
@@ -279,10 +280,22 @@ Hyperparameters:
 - Check Bias Variance trade-off to avoid under and overfitting
 - Use more GPUs for faster computation
 
+### Convolutional Neural Networks
+
 ### Distributed Neural Networks
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
 - Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
+
+### Long-Short Term Memory Networks
+- [Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks by Graves & Schmidhuber, 2009](http://people.idsia.ch/~juergen/nips2009.pdf)
+  - showed that RNNs with LSTM are currently the best systems for reading cursive writing
+- [LONG SHORT-TERM MEMORY by Hochreiter & Schmidhuber, 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
+
+### Perceptrons
+
+### Recurrent Neural Networks
+- see [Long-Short Term Memory Networks]()
 
 # Articles
 
