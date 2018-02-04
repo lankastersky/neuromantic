@@ -278,15 +278,21 @@ Hyperparameters:
 - [PathNet: Evolution Channels Gradient Descent in Super Neural Networks by deepmind](https://deepmind.com/research/publications/pathnet-evolution-channels-gradient-descent-super-neural-networks/)
 - Feature extraction - uses layers of a pretrained model as inputs to another model, effectively chaining two models together
 
+### Feed-Forward Neural Networks
+- Perceptrons
+
 ### Long-Short Term Memory Networks
 - [Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks by Graves & Schmidhuber, 2009](http://people.idsia.ch/~juergen/nips2009.pdf)
   - showed that RNNs with LSTM are currently the best systems for reading cursive writing
 - [LONG SHORT-TERM MEMORY by Hochreiter & Schmidhuber, 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
 
-### Perceptrons
-
 ### Recurrent Neural Networks
 - see [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic/blob/master/readme.md#long-short-term-memory-networks)
+
+### Symmetrically Connected Networks
+- Hopfield Nets (without hidden units)
+  - [Neural networks and physical systems with emergent collective computational abilities by Hopfield, 1982](http://www.pnas.org/content/pnas/79/8/2554.full.pdf)
+- Boltzmann machines (stochastic recurrent neural network with hidden units)
 
 # Articles
 - [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
