@@ -271,6 +271,11 @@ Hyperparameters:
 - Check Bias Variance trade-off to avoid under and overfitting
 - Use more GPUs for faster computation
 
+Back-propagation problems:
+- it requires labeled training data; while almost all data is unlabeled
+- the learning time does not scale well, which means it is very slow in networks with multiple hidden layers
+- it can get stuck in poor local optima, so for deep nets they are far from optimal.
+
 ### Convolutional Neural Networks
 
 ### Distributed Neural Networks
@@ -293,6 +298,9 @@ Hyperparameters:
 - Hopfield Nets (without hidden units)
   - [Neural networks and physical systems with emergent collective computational abilities by Hopfield, 1982](http://www.pnas.org/content/pnas/79/8/2554.full.pdf)
 - Boltzmann machines (stochastic recurrent neural network with hidden units)
+ -  Restricted Boltzmann Machines by Salakhutdinov and Hinton, 2014
+ - [Deep Boltzmann Machines by Salakhutdinov and Hinton, 2012](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
+ 
 
 # Articles
 - [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
