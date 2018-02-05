@@ -5,6 +5,7 @@
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
     - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
+  - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
   - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
@@ -84,6 +85,12 @@ Code repositories
 - [Monotonic Calibrated Interpolated Look-Up Tables by Maya Gupta et al, 2016](http://jmlr.org/papers/v17/15-243.html)
 - see [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
 - see [Distillation](https://github.com/lankastersky/neuromantic#distillation)
+
+## Programming and ML
+- [Software	is	eating	the	world,	but	ML	is	going	to	eat	software by Erik Meijer, Facebook, 2018](https://pps2018.soic.indiana.edu/files/2017/12/PPS2018Meijer.pdf)
+- [To type or not to type: quantifying detectable bugs in JavaScript by Gao et al, 2017](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/)
+- [A Survey of Machine Learning for Big Code and Naturalness by Miltiadis Allamanis et al, 2017](https://arxiv.org/abs/1709.06182)
+- https://www.deepcode.ai/
 
 ## Neural Style Transfer
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
