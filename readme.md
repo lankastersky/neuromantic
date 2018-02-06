@@ -20,6 +20,7 @@
     - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
+  - [Google Cloud ML Engine](https://github.com/lankastersky/neuromantic#google-cloud-ml-engine)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
   - [Chatbot platforms](https://github.com/lankastersky/neuromantic#chatbot-platforms)
     - [Oscova](https://github.com/lankastersky/neuromantic#oscova)
@@ -192,6 +193,9 @@ Pros:
 Cons:
 - limited to image recognition (2018-Q1)
 - doesn't allow to download a trained model
+
+## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
+- [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
 
 ## [Google Mobile Vision](https://developers.google.com/vision/)
 
