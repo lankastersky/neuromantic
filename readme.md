@@ -6,7 +6,6 @@
     - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
-  - [Neural Style Transfer](https://github.com/lankastersky/neuromantic#neural-style-transfer)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
@@ -15,6 +14,7 @@
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
+  - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
     - [Body recognition](https://github.com/lankastersky/neuromantic#body-recognition)
     - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
@@ -92,9 +92,6 @@ Code repositories
 - [A Survey of Machine Learning for Big Code and Naturalness by Miltiadis Allamanis et al, 2017](https://arxiv.org/abs/1709.06182)
 - https://www.deepcode.ai/
 
-## Neural Style Transfer
-- [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
-
 ## NLP
 
 ### Chatbots
@@ -158,6 +155,10 @@ Annotated Datasets
 - [AudioSet](https://research.google.com/audioset/) - consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos
 - [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
+
+## Transfer Learning
+- [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
+- [Image Classification using Flowers dataset on Cloud ML Enginge](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
 
 ## Video recognition
 
