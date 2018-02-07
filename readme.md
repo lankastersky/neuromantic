@@ -148,7 +148,7 @@ Return the name of a concept given a definition or description:
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 - [Can word2vec be used for search?](https://www.reddit.com/r/MachineLearning/comments/4mw927/can_word2vec_be_used_for_search/)
-  - search query can be built using approximate nearest neighbors in embedding vectors space (using https://github.com/spotify/annoy e.g.) 
+  - alternative search queries can be built using approximate nearest neighbors in embedding vectors space of terms (using https://github.com/spotify/annoy e.g.) 
 
 ## Sound recognition
 
