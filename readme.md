@@ -252,7 +252,9 @@ Hyperparameters:
 
 ## Embedding models
 - https://github.com/Hironsan/awesome-embedding-models
-- [word2vec](https://code.google.com/archive/p/word2vec/source) (embedded words and phrases)
+- [gensim's word2vec](https://code.google.com/archive/p/word2vec/source) (embedded words and phrases)
+  - [online vocaburary update tutorial](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/online_w2v_tutorial.ipynb)
+  - [How to Develop Word Embeddings in Python with Gensim](https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 - [gensim's doc2vec](https://radimrehurek.com/gensim/models/doc2vec.html)
 - https://github.com/jhlau/doc2vec
 - see recursive autoencoders
