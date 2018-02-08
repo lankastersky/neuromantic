@@ -128,7 +128,7 @@ Return the name of a concept given a definition or description:
   - trained on a combined data set of over 2.3B conversation messages mined from the web
   - The model: LSTM on tensorflow
 - [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
-  - https://github.com/peter3125/sentence2vec
+  - https://github.com/peter3125/sentence2vec - requires writing the get_word_frequency() method which can be easily accomplished by using Python's Counter() and returning a dict with keys: unique words w, values: #w/#total doc len
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
 - [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
@@ -143,6 +143,8 @@ Return the name of a concept given a definition or description:
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
+- [How to calculate the sentence similarity using word2vec model of gensim with python
+](https://stackoverflow.com/questions/22129943/how-to-calculate-the-sentence-similarity-using-word2vec-model-of-gensim-with-pyt)
 
 ### Sentiment analysis
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
