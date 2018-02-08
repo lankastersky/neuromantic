@@ -128,6 +128,7 @@ Return the name of a concept given a definition or description:
   - trained on a combined data set of over 2.3B conversation messages mined from the web
   - The model: LSTM on tensorflow
 - [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
+  - https://github.com/peter3125/sentence2vec
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
 - [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
