@@ -114,6 +114,15 @@ Code repositories
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
 
+### Named entity resolution
+Also known as deduplication and record linkage (but not as entity recognition)
+- [Collective Entity Resolution in Familial Networks by Pigi Kouki et al, 2017](https://linqspub.soe.ucsc.edu/basilic/web/Publications/2017/kouki:icdm17/kouki-icdm17.pdf)
+  - combines machine learning (although not NNs) with collective inference
+- [Entity Resolution Using Convolutional Neural Network by Ram DeepakGottapu et al, 2016](https://www.sciencedirect.com/science/article/pii/S1877050916324796)
+- [Adaptive Blocking: Learning to Scale Up Record Linkage by Mikhail Bilenko et al, 2006](http://www.cs.utexas.edu/~ml/papers/blocking-icdm-06.pdf)
+  - extremely high recall but low precision
+- https://stats.stackexchange.com/questions/136755/popular-named-entity-resolution-software
+
 ### Reverse dictionaries
 Other name is concept finders
 Return the name of a concept given a definition or description:
