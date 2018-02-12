@@ -9,6 +9,7 @@
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
+    - [Named entity resolution](https://github.com/lankastersky/neuromantic#named-entity-resolution)
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
