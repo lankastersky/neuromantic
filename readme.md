@@ -157,6 +157,9 @@ Return the name of a concept given a definition or description:
 - [How to calculate the sentence similarity using word2vec model of gensim with python
 ](https://stackoverflow.com/questions/22129943/how-to-calculate-the-sentence-similarity-using-word2vec-model-of-gensim-with-pyt)
 
+Evaluation:
+- [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
+
 ### Sentiment analysis
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
 
