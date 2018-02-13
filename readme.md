@@ -10,6 +10,7 @@
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
+    - [Database queries](https://github.com/lankastersky/neuromantic#database-queries)
     - [Named entity resolution](https://github.com/lankastersky/neuromantic#named-entity-resolution)
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
@@ -43,6 +44,7 @@
 
 ## Design
 - [Google Design: People + AI Research](https://design.google/library/ai/)
+- [PAIR | People+AI Research Initiative](https://ai.google/pair)
 
 ## Games
 - [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
@@ -120,6 +122,11 @@ Code repositories
 
 ### Crossword question answerers
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
+
+### Database queries
+- [LEARNING A NATURAL LANGUAGE INTERFACE WITH NEURAL PROGRAMMER by Arvind Neelakantan et al, 2017](https://arxiv.org/pdf/1611.08945.pdf)
+  - weakly supervised, end-to-end neural network model mapping natural language queries to logical forms or programs that
+provide the desired response when executed on the database
 
 ### Named entity resolution
 Also known as deduplication and record linkage (but not as entity recognition)
