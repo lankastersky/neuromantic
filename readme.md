@@ -1,6 +1,7 @@
 ﻿# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
-  - [Go game](https://github.com/lankastersky/neuromantic#go-game)
+  - [Design](https://github.com/lankastersky/neuromantic#design)
+  - [Games](https://github.com/lankastersky/neuromantic#games)
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
     - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
@@ -40,7 +41,10 @@
 
 # Use Cases
 
-## Go game
+## Design
+- [Google Design: People + AI Research](https://design.google/library/ai/)
+
+## Games
 - [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
 
 ## Gesture Recognition
@@ -81,6 +85,8 @@ Code repositories
   - the model: FaceNet
 
 ## Interpretability
+- [Attributing a deep network’s prediction to its input features by MUKUND SUNDARARAJAN, 2017](http://www.unofficialgoogledatascience.com/2017/03/attributing-deep-networks-prediction-to.html)
+  - Integrated Gradients method
 - [A unified approach to interpreting model predictions by Scott M Lundberg et al, 2017](https://nips.cc/Conferences/2017/Schedule?showEvent=10008)
 - ["Why Should I Trust You?": Explaining the Predictions of Any Classifier by Marco Tulio Ribeiro et al, 2016](https://arxiv.org/abs/1602.04938)
   - [Lime Framework: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
