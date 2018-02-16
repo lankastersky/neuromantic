@@ -15,6 +15,7 @@
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
+  - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
@@ -176,6 +177,11 @@ Evaluation:
 
 ### Sentiment analysis
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
+
+## Personality recognition
+- Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
+- Personality Traits Recognition on Social Network — Facebook (Firoj Alam, Evgeny A. Stepanov, Giuseppe Riccardi)
+- The Relationship Between Dimensions of Love, Personality, and Relationship Length (Gorkan Ahmetoglu, Viren Swami, Tomas Chamorro-Premuzic)
 
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
