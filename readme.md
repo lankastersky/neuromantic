@@ -186,7 +186,9 @@ Evaluation:
 ## Search
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 - [Can word2vec be used for search?](https://www.reddit.com/r/MachineLearning/comments/4mw927/can_word2vec_be_used_for_search/)
-  - alternative search queries can be built using approximate nearest neighbors in embedding vectors space of terms (using https://github.com/spotify/annoy e.g.) 
+  - alternative search queries can be built using approximate nearest neighbors in embedding vectors space of terms (using https://github.com/spotify/annoy e.g.)
+  - [Improving Document Ranking with Dual Word Embeddings by Eric Nalisnick et al, 2016](https://www.microsoft.com/en-us/research/publication/improving-document-ranking-with-dual-word-embeddings/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2Fdefault.aspx%3Fid%3D260867)
+  
 
 ## Sound recognition
 
