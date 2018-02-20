@@ -130,7 +130,7 @@ Code repositories
 provide the desired response when executed on the database
 
 ### Named entity resolution
-Also known as deduplication and record linkage (but not as entity recognition)
+Also known as deduplication and record linkage (but [not entity recognition](https://stackoverflow.com/questions/8589005/difference-between-named-entity-recognition-and-resolution) which is picking up the names and classifying them in running text)
 - [Collective Entity Resolution in Familial Networks by Pigi Kouki et al, 2017](https://linqspub.soe.ucsc.edu/basilic/web/Publications/2017/kouki:icdm17/kouki-icdm17.pdf)
   - combines machine learning (although not NNs) with collective inference
 - [Entity Resolution Using Convolutional Neural Network by Ram DeepakGottapu et al, 2016](https://www.sciencedirect.com/science/article/pii/S1877050916324796)
