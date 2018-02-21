@@ -15,6 +15,7 @@
     - [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
+    - [Spelling](https://github.com/lankastersky/neuromantic#spelling)
   - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
@@ -177,6 +178,9 @@ Evaluation:
 
 ### Sentiment analysis
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
+
+### Spelling
+- [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
 
 ## Personality recognition
 - Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
