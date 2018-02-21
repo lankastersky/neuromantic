@@ -152,10 +152,6 @@ Return the name of a concept given a definition or description:
 - [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models by Louis Shao et al, 2017](https://research.google.com/pubs/pub45936.html)
   - trained on a combined data set of over 2.3B conversation messages mined from the web
   - The model: LSTM on tensorflow
-- [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
-  - computing the weighted average of word vectors in the sentence and then remove the projections of the average vectors on their first principal component
-  - [example](http://sujitpal.blogspot.com/2017/05/evaluating-simple-but-tough-to-beat.html)
-  - https://github.com/peter3125/sentence2vec - requires writing the get_word_frequency() method which can be easily accomplished by using Python's Counter() and returning a dict with keys: unique words w, values: #w/#total doc len
 - [Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features by Matteo Pagliardini et al, 2017](https://arxiv.org/pdf/1703.02507.pdf)
   - the model: Sent2Vec based on vec2vec
 - [Skip-Thought Vectors by Ryan Kiros et al, 2015](https://arxiv.org/abs/1506.06726)
@@ -170,8 +166,18 @@ Return the name of a concept given a definition or description:
 - [Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks by Richard Socher et al, 2010](http://ai.stanford.edu/~ang/papers/nipsdlufl10-LearningContinuousPhraseRepresentations.pdf)
   - based on context-sensitive recursive neural networks (CRNN)
 - see [Reverse dictionaries](https://github.com/lankastersky/neuromantic#reverse-dictionaries)
-- [How to calculate the sentence similarity using word2vec model of gensim with python
-](https://stackoverflow.com/questions/22129943/how-to-calculate-the-sentence-similarity-using-word2vec-model-of-gensim-with-pyt)
+- [How to calculate the sentence similarity using word2vec model](https://stackoverflow.com/questions/22129943/how-to-calculate-the-sentence-similarity-using-word2vec-model-of-gensim-with-pyt)
+  - Doc2Vec
+  - Average w2v vectors
+  - Weighted average w2v vectors (e.g. tf-idf)
+  - RNN-based embeddings (e.g. deep LSTM networks)
+  - [Document Similarity With Word Movers Distance](http://jxieeducation.com/2016-06-13/Document-Similarity-With-Word-Movers-Distance/)
+    - [From Word Embeddings To Document Distances by Matt J. Kusner et al, 2015](http://proceedings.mlr.press/v37/kusnerb15.pdf)
+  - [A SIMPLE BUT TOUGH-TO-BEAT BASELINE FOR SENTENCE EMBEDDINGS by Sanjeev Arora et al, 2017](https://openreview.net/pdf?id=SyK00v5xx)
+    - uses smooth inverse frequency
+    - computing the weighted average of word vectors in the sentence and then remove the projections of the average vectors on their first principal component
+    - [example](http://sujitpal.blogspot.com/2017/05/evaluating-simple-but-tough-to-beat.html)
+    - https://github.com/peter3125/sentence2vec - requires writing the get_word_frequency() method which can be easily accomplished by using Python's Counter() and returning a dict with keys: unique words w, values: #w/#total doc len
 
 Evaluation:
 - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
