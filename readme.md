@@ -5,7 +5,7 @@
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
     - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
-    - [Portrait Segmentation](https://github.com/lankastersky/neuromantic#portrait-segmentation)
+    - [Person Detection](https://github.com/lankastersky/neuromantic#person-detection)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
@@ -89,7 +89,8 @@ Code repositories
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff et al, 2015](https://arxiv.org/abs/1503.03832)
   - the model: FaceNet
 
-### Portrait Segmentation
+### Person Detection
+- https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
 ## Interpretability
