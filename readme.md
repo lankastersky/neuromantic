@@ -6,6 +6,7 @@
   - [Image Recognition](https://github.com/lankastersky/neuromantic#image-recognition)
     - [Face Recognition](https://github.com/lankastersky/neuromantic#face-recognition)
     - [Person Detection](https://github.com/lankastersky/neuromantic#person-detection)
+    - [Semantic segmentation](https://github.com/lankastersky/neuromantic#semantic-segmentation)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
@@ -90,8 +91,13 @@ Code repositories
   - the model: FaceNet
 
 ### Person Detection
-- https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
+
+### Semantic Segmentation
+- https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
+- [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
+- [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1606.00915.pdf)
+- [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
 
 ## Interpretability
 - [Attributing a deep network’s prediction to its input features by MUKUND SUNDARARAJAN, 2017](http://www.unofficialgoogledatascience.com/2017/03/attributing-deep-networks-prediction-to.html)
