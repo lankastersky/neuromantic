@@ -18,6 +18,7 @@
     - [Sequence to sequence](https://github.com/lankastersky/neuromantic#sequence-to-sequence)
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
     - [Spelling](https://github.com/lankastersky/neuromantic#spelling)
+    - [Summarization](https://github.com/lankastersky/neuromantic#summarization)
   - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
@@ -198,6 +199,9 @@ Evaluation:
 
 ### Spelling
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
+
+### Summarization
+- [Generating Wikipedia by Summarizing Long Sequences by Peter J. Liu et al, 2018](https://arxiv.org/abs/1801.10198)
 
 ## Personality recognition
 - Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
