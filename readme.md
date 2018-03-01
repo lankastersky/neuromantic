@@ -88,6 +88,7 @@ Code repositories
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 ### Face Recognition
+- [Умные фотографии ВКонтакте, 2018](https://vk.com/@td-highload-face-recognition) (Smart photos in Vkontakte)
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff et al, 2015](https://arxiv.org/abs/1503.03832)
   - the model: FaceNet
 
