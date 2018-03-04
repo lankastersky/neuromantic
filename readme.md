@@ -10,6 +10,7 @@
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
     - [Predict defects](https://github.com/lankastersky/neuromantic#predict-defects)  
+    - [Predict performance](https://github.com/lankastersky/neuromantic#predict-performance)  
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
@@ -128,6 +129,11 @@ Code repositories
   - used the number of failures in a component as dependent variable and the imported resources used from this component as input features
 - [Mining Version Histories to Guide Software Changes by T Zimmermann at al, 2004](http://www.ics.uci.edu/~andre/ics228s2006/zimmermanweissgerberdiehlzeller.pdf)
   - used [apriory algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm) to predict likely changes in files/modules
+
+# Predict performance
+  - [3 ways AI will change project management for the better, 2017](https://www.atlassian.com/blog/software-teams/3-ways-ai-will-change-project-management-better)
+- [A deep learning model for estimating story points by Morakot Choetkiertikul et al, 2016](https://arxiv.org/pdf/1609.00489.pdf)
+  - estimating story points based on long short-term memory and recurrent highway network
 
 ## NLP
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
