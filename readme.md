@@ -121,6 +121,12 @@ Code repositories
 
 ### Predict defects
 - [Predicting Defects for Eclipse by T Zimmermann at al, 2007](http://thomas-zimmermann.com/publications/files/zimmermann-promise-2007.pdf)
+  - used code complexity metrics as features and logistic regression for classification (if file/module has defects) and linear regression for ranking (how many defects)
+- [Predicting Component Failures at Design Time by Adrian Schroter et al, 2006](http://thomas-zimmermann.com/publications/files/schroeter-isese-2006.pdf)
+  - showed that design data such as import relationships can predict failures
+  - used the number of failures in a component as dependent variable and the imported resources used from this component as input features
+- [Mining Version Histories to Guide Software Changes by T Zimmermann at al, 2004](http://www.ics.uci.edu/~andre/ics228s2006/zimmermanweissgerberdiehlzeller.pdf)
+  - used [apriory algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm) to predict likely changes in files/modules
 
 ## NLP
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
