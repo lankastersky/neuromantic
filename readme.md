@@ -9,6 +9,7 @@
     - [Semantic segmentation](https://github.com/lankastersky/neuromantic#semantic-segmentation)
   - [Interpretability](https://github.com/lankastersky/neuromantic#interpretability)
   - [Programming and ML](https://github.com/lankastersky/neuromantic#programming-and-ml)
+    - [Predict defects](https://github.com/lankastersky/neuromantic#predict-defects)  
   - [NLP](https://github.com/lankastersky/neuromantic#nlp)
     - [Chatbots](https://github.com/lankastersky/neuromantic#chatbots)
     - [Crossword question answerers](https://github.com/lankastersky/neuromantic#crossword-question-answerers)
@@ -117,6 +118,9 @@ Code repositories
 - [To type or not to type: quantifying detectable bugs in JavaScript by Gao et al, 2017](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/)
 - [A Survey of Machine Learning for Big Code and Naturalness by Miltiadis Allamanis et al, 2017](https://arxiv.org/abs/1709.06182)
 - https://www.deepcode.ai/
+
+### Predict defects
+- [Predicting Defects for Eclipse by T Zimmermann at al, 2007](http://thomas-zimmermann.com/publications/files/zimmermann-promise-2007.pdf)
 
 ## NLP
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
