@@ -181,6 +181,7 @@ Return the name of a concept given a definition or description:
 - see bag-of-word
 
 ### Sequence to sequence
+- [Keras LSTM tutorial – How to easily build a powerful deep learning language model by Andy, 2018](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models by Louis Shao et al, 2017](https://research.google.com/pubs/pub45936.html)
   - trained on a combined data set of over 2.3B conversation messages mined from the web
   - The model: LSTM on tensorflow
@@ -215,6 +216,7 @@ Evaluation:
 - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
 
 ### Sentiment analysis
+- [Twitter Sentiment Analysis Using Combined LSTM-CNN Models by SOSAVPM, 2018](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
 
 ### Spelling
@@ -441,5 +443,7 @@ Back-propagation problems:
 # MOOC
 
 # Books
-
+ ## NLP
+ - [Natural Language Processing with Python by Steven Bird et al, 2014](http://www.nltk.org/book/)
+ 
 
