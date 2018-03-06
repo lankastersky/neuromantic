@@ -52,6 +52,10 @@
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
+- [Datasets](https://github.com/lankastersky/neuromantic#datasets)
+  - [Images](https://github.com/lankastersky/neuromantic#images)
+  - [Videos](https://github.com/lankastersky/neuromantic#videos)
+
 
 # Use Cases
 
@@ -459,4 +463,10 @@ Back-propagation problems:
  ## NLP
  - [Natural Language Processing with Python by Steven Bird et al, 2014](http://www.nltk.org/book/)
  
+# Datasets
 
+## Images
+- https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html
+
+## Videos
+- https://research.google.com/youtube8m/
