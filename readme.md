@@ -469,4 +469,5 @@ Back-propagation problems:
 - https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html
 
 ## Videos
-- https://research.google.com/youtube8m/
+- https://research.google.com/youtube8m/ 2017
+- http://crcv.ucf.edu/data/UCF101.php 2013
