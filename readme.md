@@ -45,6 +45,7 @@
     - [Convolutional Neural Networks](https://github.com/lankastersky/neuromantic#convolutional-neural-networks)
     - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
     - [Feed-Forward Neural Networks](https://github.com/lankastersky/neuromantic#feed-forward-neural-networks)
+    - [Gated Recurrent Neural Networks](https://github.com/lankastersky/neuromantic#gated-recurrent-neural-networks)
     - [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic#long-short-term-memory-networks)
     - [Recurrent Neural Networks](https://github.com/lankastersky/neuromantic#recurrent-neural-networks)
     - [Symmetrically Connected Networks](https://github.com/lankastersky/neuromantic#symmetrically-connected-networks)
@@ -401,6 +402,9 @@ Back-propagation problems:
 
 ### Feed-Forward Neural Networks
 - Perceptrons
+
+### Gated Recurrent Neural Networks
+- [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung et al, 2014](https://arxiv.org/pdf/1412.3555v1.pdf)
 
 ### Long-Short Term Memory Networks
 - [Understanding LSTM Networks by Christopher Olah, 2015](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
