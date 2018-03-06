@@ -42,7 +42,12 @@
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
   - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
   - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
+    - [Convolutional Neural Networks](https://github.com/lankastersky/neuromantic#convolutional-neural-networks)
     - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
+    - [Feed-Forward Neural Networks](https://github.com/lankastersky/neuromantic#feed-forward-neural-networks)
+    - [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic#long-short-term-memory-networks)
+    - [Recurrent Neural Networks](https://github.com/lankastersky/neuromantic#recurrent-neural-networks)
+    - [Symmetrically Connected Networks](https://github.com/lankastersky/neuromantic#symmetrically-connected-networks)
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
@@ -399,6 +404,7 @@ Back-propagation problems:
 - [LONG SHORT-TERM MEMORY by Hochreiter & Schmidhuber, 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ### Recurrent Neural Networks
+- [The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy, 2015](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - see [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic/blob/master/readme.md#long-short-term-memory-networks)
 
 ### Symmetrically Connected Networks
