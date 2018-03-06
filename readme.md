@@ -445,6 +445,7 @@ Back-propagation problems:
 - [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # MOOC
+- https://developers.google.com/machine-learning/crash-course/
 
 # Books
  ## NLP
