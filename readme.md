@@ -27,6 +27,7 @@
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
     - [Body recognition](https://github.com/lankastersky/neuromantic#body-recognition)
+    - [Video classification](https://github.com/lankastersky/neuromantic#video-classification)
     - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
@@ -254,6 +255,9 @@ Annotated Datasets
 
 ### Body recognition
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
+
+### Video classification
+- [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
