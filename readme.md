@@ -399,6 +399,8 @@ Back-propagation problems:
 - Perceptrons
 
 ### Long-Short Term Memory Networks
+- [Understanding LSTM Networks by Christopher Olah, 2015](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  - “Almost all exciting results based on recurrent neural networks are achieved with [LSTMs].”
 - [Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks by Graves & Schmidhuber, 2009](http://people.idsia.ch/~juergen/nips2009.pdf)
   - showed that RNNs with LSTM are currently the best systems for reading cursive writing
 - [LONG SHORT-TERM MEMORY by Hochreiter & Schmidhuber, 1997](http://www.bioinf.jku.at/publications/older/2604.pdf)
