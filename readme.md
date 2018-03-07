@@ -479,12 +479,18 @@ Back-propagation problems:
 # Datasets
 
 ## Images
-- https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html
+- [Landmarks 2018](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
+- [ImageNet](http://www.image-net.org/)
+- [COCO](http://cocodataset.org/#home)
+- [SUN](https://groups.csail.mit.edu/vision/SUN/)
+- [Caltech 256](https://authors.library.caltech.edu/7694/)
 
 ## Videos
-- https://research.google.com/youtube8m/ 2017
 - [Microsoft multimedia challenge dataset, 2017](http://ms-multimedia-challenge.com/2017/dataset)
   - largest dataset in terms of sentence and vocabulary
   - challenge: to automatically generate a complete and natural sentence to describe video content
-- [Sports 1 by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
+- https://research.google.com/youtube8m/ 2017
+- [Sports-1M by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
+- [FCVID](http://lsvc17.azurewebsites.net/#data)
+- [ActivityNet](http://activity-net.org/download.html)
 - http://crcv.ucf.edu/data/UCF101.php 2013
