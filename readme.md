@@ -276,7 +276,7 @@ Annotated Datasets
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
 - [Beyond Short Snippets: Deep Networks for Video Classification by Joe Yue-Hei Ng et al, 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
   In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
-- [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
+- [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
@@ -483,4 +483,8 @@ Back-propagation problems:
 
 ## Videos
 - https://research.google.com/youtube8m/ 2017
+- [Microsoft multimedia challenge dataset, 2017](http://ms-multimedia-challenge.com/2017/dataset)
+  - largest dataset in terms of sentence and vocabulary
+  - challenge: to automatically generate a complete and natural sentence to describe video content
+- [Sports 1 by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
 - http://crcv.ucf.edu/data/UCF101.php 2013
