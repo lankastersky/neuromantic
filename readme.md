@@ -269,6 +269,7 @@ Annotated Datasets
 
 ### Video classification
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+- [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
