@@ -59,6 +59,7 @@
 
 
 # Use Cases
+- [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
 
 ## Design
 - [Google Design: People + AI Research](https://design.google/library/ai/)
