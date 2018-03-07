@@ -27,6 +27,7 @@
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
     - [Body recognition](https://github.com/lankastersky/neuromantic#body-recognition)
+    - [Video captioning](https://github.com/lankastersky/neuromantic#video-captioning)
     - [Video classification](https://github.com/lankastersky/neuromantic#video-classification)
     - [Video segmentation](https://github.com/lankastersky/neuromantic#video-segmentation)
 - [Tools](https://github.com/lankastersky/neuromantic#tools)
@@ -267,8 +268,14 @@ Annotated Datasets
 ### Body recognition
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 
+### Video captioning
+- [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
+
 ### Video classification
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
+- [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
+- [Beyond Short Snippets: Deep Networks for Video Classification by Joe Yue-Hei Ng et al, 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
+  In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42455.pdf)
 
 ### Video segmentation
