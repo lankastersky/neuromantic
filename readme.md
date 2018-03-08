@@ -510,9 +510,11 @@ Back-propagation problems:
 - [Microsoft multimedia challenge dataset, 2017](http://ms-multimedia-challenge.com/2017/dataset)
   - largest dataset in terms of sentence and vocabulary
   - challenge: to automatically generate a complete and natural sentence to describe video content
+- [Kinetics, 2017](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 - https://research.google.com/youtube8m/ 2017
 - [Sports-1M by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
 - [FCVID](http://lsvc17.azurewebsites.net/#data)
 - [ActivityNet](http://activity-net.org/download.html)
 - http://crcv.ucf.edu/data/UCF101.php 2013
 - [Hollywood2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
+ -[CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
