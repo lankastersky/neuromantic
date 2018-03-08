@@ -46,6 +46,7 @@
   - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
     - [Capsule Networks](https://github.com/lankastersky/neuromantic#capsule-networks)
     - [Convolutional Neural Networks](https://github.com/lankastersky/neuromantic#convolutional-neural-networks)
+    - [Deep Residual Networks](https://github.com/lankastersky/neuromantic#deep-residual-networks)
     - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
     - [Feed-Forward Neural Networks](https://github.com/lankastersky/neuromantic#feed-forward-neural-networks)
     - [Gated Recurrent Neural Networks](https://github.com/lankastersky/neuromantic#gated-recurrent-neural-networks)
@@ -431,6 +432,9 @@ Back-propagation problems:
 - [Capsule Networks (CapsNets) – Tutorial, 2017](https://www.youtube.com/watch?v=pPN8d0E3900)
 
 ### Convolutional Neural Networks
+
+### Deep Residual Networks
+- [Understand Deep Residual Networks — a simple, modular learning framework that has redefined state-of-the-art, 2017](https://blog.waya.ai/deep-residual-learning-9610bb62c355)
 
 ### Distributed Neural Networks
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer by Jeff Dean et al](https://arxiv.org/abs/1701.06538)
