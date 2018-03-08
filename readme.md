@@ -418,8 +418,8 @@ Back-propagation problems:
 - it can get stuck in poor local optima, so for deep nets they are far from optimal.
 
 ### Capsule Networks
-- [Understanding Hinton’s Capsule Networks by Max Pechyonkin](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
-- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)
+- [Understanding Hinton’s Capsule Networks by Max Pechyonkin, 2017](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+- [Capsule Networks (CapsNets) – Tutorial, 2017](https://www.youtube.com/watch?v=pPN8d0E3900)
 
 ### Convolutional Neural Networks
 
