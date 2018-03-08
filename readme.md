@@ -290,17 +290,19 @@ Annotated Datasets
   - Rank #2 at kaggle.com/c/youtube8m
 - [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? by Kensho Hara et al, 2017](https://arxiv.org/abs/1711.09577)
   - https://github.com/kenshohara/video-classification-3d-cnn-pytorch
+    - trained on the Kinetics dataset from scratch using only RGB input
 - [Appearance-and-Relation Networks for Video Classification by Limin Wang et al, 2017](https://arxiv.org/abs/1711.09125)
   - https://github.com/wanglimin/ARTNet
+    - trained on the Kinetics dataset from scratch using only RGB input
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
-- [Video Classification using Two Stream CNNs](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
+- [Video Classification using Two Stream CNNs, 2016](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
   - Two-Stream Convolutional Networks for Action Recognition in Videos
   - Fusing Multi-Stream Deep Networks for Video Classification
   - Modeling Spatial-Temporal Clues in a Hybrid Deep Learning Framework for Video Classification
   - Towards Good Practices for Very Deep Two-Stream ConvNets
 - [Beyond Short Snippets: Deep Networks for Video Classification by Joe Yue-Hei Ng et al, 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
-  In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
+  - In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
 
 ### Video segmentation
@@ -492,7 +494,7 @@ Back-propagation problems:
   - Deep learning thus far is data hungry 
   - Deep learning thus far is shallow and has limited capacity for transfer
   - Deep learning thus far has no natural way to deal with hierarchical structure
-  - Deep learning thus far has struggled with open-ended inference 
+  - Deep learning thus far has struggled with open-ended inference
   - Deep learning thus far is not sufficiently transparent 
   - Deep learning thus far has not been well integrated with prior knowledge
   - Deep learning thus far cannot inherently distinguish causation from correlation
@@ -523,8 +525,12 @@ Back-propagation problems:
   - largest dataset in terms of sentence and vocabulary
   - challenge: to automatically generate a complete and natural sentence to describe video content
 - [Kinetics, 2017](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
-- https://research.google.com/youtube8m/ 2017
+- [YouTube-8M, 2017](https://research.google.com/youtube8m/)
+  - large, but annotations are slightly noisy and only video-level labels have been assigned (include frames that do not
+relate to target actions)
 - [Sports-1M by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
+  - large, but annotations are slightly noisy and only video-level labels have been assigned (include frames that do not
+relate to target actions)
 - [FCVID](http://lsvc17.azurewebsites.net/#data)
 - [ActivityNet](http://activity-net.org/download.html)
 - http://crcv.ucf.edu/data/UCF101.php 2013
