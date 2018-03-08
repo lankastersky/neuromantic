@@ -525,5 +525,5 @@ Back-propagation problems:
 - [ActivityNet](http://activity-net.org/download.html)
 - http://crcv.ucf.edu/data/UCF101.php 2013
 - [Hollywood2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
-- [HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
--[CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
+- [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+- [CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
