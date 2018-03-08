@@ -1,5 +1,6 @@
 ﻿# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
+  - [Data Agumentation](https://github.com/lankastersky/neuromantic#data-augmentation)
   - [Design](https://github.com/lankastersky/neuromantic#design)
   - [Games](https://github.com/lankastersky/neuromantic#games)
   - [Gesture Recognition](https://github.com/lankastersky/neuromantic#gesture-recognition)
@@ -43,6 +44,7 @@
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
   - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
   - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
+    - [Capsule Networks](https://github.com/lankastersky/neuromantic#capsule-networks)
     - [Convolutional Neural Networks](https://github.com/lankastersky/neuromantic#convolutional-neural-networks)
     - [Distributed Neural Networks](https://github.com/lankastersky/neuromantic#distributed-neural-networks)
     - [Feed-Forward Neural Networks](https://github.com/lankastersky/neuromantic#feed-forward-neural-networks)
@@ -61,6 +63,11 @@
 
 # Use Cases
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
+
+## Data Augmentation
+- [Data Augmentation Techniques in CNN using Tensorflow, 2017](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
+- [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native, 2017](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+- [My solution for the Galaxy Zoo challenge, 2014](http://benanne.github.io/2014/04/05/galaxy-zoo.html)
 
 ## Design
 - [Google Design: People + AI Research](https://design.google/library/ai/)
@@ -409,6 +416,10 @@ Back-propagation problems:
 - it requires labeled training data; while almost all data is unlabeled
 - the learning time does not scale well, which means it is very slow in networks with multiple hidden layers
 - it can get stuck in poor local optima, so for deep nets they are far from optimal.
+
+### Capsule Networks
+- [Understanding Hinton’s Capsule Networks by Max Pechyonkin](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
+- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)
 
 ### Convolutional Neural Networks
 
