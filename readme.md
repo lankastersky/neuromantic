@@ -287,6 +287,8 @@ Annotated Datasets
   - not clear about very long videos
 - [The Monkeytyping Solution to the YouTube-8M Video Understanding Challenge, 2017](https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2017/c04.pdf)
   - Rank #2 at kaggle.com/c/youtube8m
+- [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? by Kensho Hara et al, 2017](https://arxiv.org/abs/1711.09577)
+  - https://github.com/kenshohara/video-classification-3d-cnn-pytorch
 - [Appearance-and-Relation Networks for Video Classification by Limin Wang et al, 2017](https://arxiv.org/abs/1711.09125)
   - https://github.com/wanglimin/ARTNet
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
@@ -523,4 +525,5 @@ Back-propagation problems:
 - [ActivityNet](http://activity-net.org/download.html)
 - http://crcv.ucf.edu/data/UCF101.php 2013
 - [Hollywood2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
- -[CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
+- [HMDB51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
+-[CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
