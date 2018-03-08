@@ -287,9 +287,15 @@ Annotated Datasets
   - not clear about very long videos
 - [The Monkeytyping Solution to the YouTube-8M Video Understanding Challenge, 2017](https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2017/c04.pdf)
   - Rank #2 at kaggle.com/c/youtube8m
+- [Appearance-and-Relation Networks for Video Classification by Limin Wang et al, 2017](https://arxiv.org/abs/1711.09125)
+  - https://github.com/wanglimin/ARTNet
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
-- https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN
+- [Video Classification using Two Stream CNNs](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
+  - Two-Stream Convolutional Networks for Action Recognition in Videos
+  - Fusing Multi-Stream Deep Networks for Video Classification
+  - Modeling Spatial-Temporal Clues in a Hybrid Deep Learning Framework for Video Classification
+  - Towards Good Practices for Very Deep Two-Stream ConvNets
 - [Beyond Short Snippets: Deep Networks for Video Classification by Joe Yue-Hei Ng et al, 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
   In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
