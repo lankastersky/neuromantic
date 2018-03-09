@@ -291,9 +291,11 @@ Annotated Datasets
 - [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? by Kensho Hara et al, 2017](https://arxiv.org/abs/1711.09577)
   - https://github.com/kenshohara/video-classification-3d-cnn-pytorch
     - trained on the Kinetics dataset from scratch using only RGB input
+    - pretrained ResNeXt-101 achieved 94.5% and 70.2% on UCF-101 and HMDB-51
 - [Appearance-and-Relation Networks for Video Classification by Limin Wang et al, 2017](https://arxiv.org/abs/1711.09125)
   - https://github.com/wanglimin/ARTNet
     - trained on the Kinetics dataset from scratch using only RGB input
+    - 70.9% and 94.3% on HMDB51	UCF101
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
 - [Video Classification using Two Stream CNNs, 2016](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
@@ -304,6 +306,7 @@ Annotated Datasets
 - [Beyond Short Snippets: Deep Networks for Video Classification by Joe Yue-Hei Ng et al, 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf)
   - In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
+  - 63.3% on UCF-101
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
