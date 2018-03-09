@@ -281,13 +281,13 @@ Annotated Datasets
 
 ### Video classification
 - [Learnable pooling with Context Gating for video classification by Antoine Miech et al, 2018](https://arxiv.org/abs/1706.06905)
-  - Rank #1 at kaggle.com/c/youtube8m
+  - Rank #1 at [Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m)
   - Slow for inference/training
   - NOT a sequential problem
   - Needs lots of data for training
   - not clear about very long videos
 - [The Monkeytyping Solution to the YouTube-8M Video Understanding Challenge, 2017](https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2017/c04.pdf)
-  - Rank #2 at kaggle.com/c/youtube8m
+  - Rank #2 at [Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m)
 - [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? by Kensho Hara et al, 2017](https://arxiv.org/abs/1711.09577)
   - https://github.com/kenshohara/video-classification-3d-cnn-pytorch
     - trained on the Kinetics dataset from scratch using only RGB input
@@ -298,6 +298,7 @@ Annotated Datasets
     - 70.9% and 94.3% on HMDB51	UCF101
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
+  - https://github.com/harvitronix/five-video-classification-methods
 - [Video Classification using Two Stream CNNs, 2016](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
   - Two-Stream Convolutional Networks for Action Recognition in Videos
   - Fusing Multi-Stream Deep Networks for Video Classification
