@@ -297,8 +297,8 @@ Annotated Datasets
     - trained on the Kinetics dataset from scratch using only RGB input
     - 70.9% and 94.3% on HMDB51	UCF101
 - [Five video classification methods implemented in Keras and TensorFlow by Matt Harvey, 2017](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5)
-- [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
   - https://github.com/harvitronix/five-video-classification-methods
+- [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
 - [Video Classification using Two Stream CNNs, 2016](https://github.com/wadhwasahil/Video-Classification-2-Stream-CNN) code based on articles below
   - Two-Stream Convolutional Networks for Action Recognition in Videos
   - Fusing Multi-Stream Deep Networks for Video Classification
