@@ -56,7 +56,7 @@
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
-  - [NLP](https://github.com/lankastersky/neuromantic#nlp)
+  - [NLP](https://github.com/lankastersky/neuromantic#nlp-1)
   - [Statistics](https://github.com/lankastersky/neuromantic#statistics)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 - [Datasets](https://github.com/lankastersky/neuromantic#datasets)
@@ -519,6 +519,7 @@ Back-propagation problems:
 
 ## Statistics
 - [Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by Cameron Davidson-Pilon, 2015](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Statistics is Easy! by Dennis Shasha, 2010](https://www.amazon.com/Statistics-Second-Synthesis-Lectures-Mathematics/dp/160845570X)
 
 # Datasets
 
