@@ -56,6 +56,8 @@
 - [Articles](https://github.com/lankastersky/neuromantic#articles)
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
+  - [NLP](https://github.com/lankastersky/neuromantic#nlp)
+  - [Statistics](https://github.com/lankastersky/neuromantic#statistics)
 - [MOOC](https://github.com/lankastersky/neuromantic#mooc)
 - [Datasets](https://github.com/lankastersky/neuromantic#datasets)
   - [Images](https://github.com/lankastersky/neuromantic#images)
@@ -511,9 +513,13 @@ Back-propagation problems:
 - https://developers.google.com/machine-learning/crash-course/
 
 # Books
+
  ## NLP
  - [Natural Language Processing with Python by Steven Bird et al, 2014](http://www.nltk.org/book/)
- 
+
+## Statistics
+- [Bayesian Methods for Hackers: Probabilistic Programming and Bayesian Inference by Cameron Davidson-Pilon, 2015](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 # Datasets
 
 ## Images
