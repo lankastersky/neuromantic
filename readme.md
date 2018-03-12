@@ -475,6 +475,9 @@ Back-propagation problems:
  
 
 # Articles
+- [Rules of Machine Learning: Best Practices for ML Engineering by Martin Zinkevich, 2018](https://developers.google.com/machine-learning/rules-of-ml/)
+- [Practical advice for analysis of large, complex data sets by PATRICK RILEY, 2016](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
+- [What’s your ML test score? A rubric for ML production systems by Eric Breck, 2016](https://research.google.com/pubs/pub45742.html)
 - [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
   - Complex Models Erode Boundaries
     - Entanglement
@@ -494,6 +497,9 @@ Back-propagation problems:
     - Fixed Thresholds in Dynamic Systems
     - When Correlations No Longer Correlate
     - Monitoring and Testing
+- [Lessons learned developing a practical large scale machine learning system by Simon Tong, 2010](https://research.googleblog.com/2010/04/lessons-learned-developing-practical.html)
+- [The Professional Data Science Manifesto](http://www.datasciencemanifesto.org/)
+- [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
 
 ## Deep learning
 - [Deep Learning: A Critical Appraisal by Gary Marcus, 2018](https://arxiv.org/abs/1801.00631)
