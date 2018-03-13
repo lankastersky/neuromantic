@@ -22,6 +22,7 @@
     - [Sentiment analysis](https://github.com/lankastersky/neuromantic#sentiment-analysis)
     - [Spelling](https://github.com/lankastersky/neuromantic#spelling)
     - [Summarization](https://github.com/lankastersky/neuromantic#summarization)
+    - [Text to Image](https://github.com/lankastersky/neuromantic#text-to-image)
   - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
@@ -248,6 +249,10 @@ Evaluation:
 
 ### Summarization
 - [Generating Wikipedia by Summarizing Long Sequences by Peter J. Liu et al, 2018](https://arxiv.org/abs/1801.10198)
+
+### Text to Image
+- [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks by Tao Xu et al, 2017](https://arxiv.org/abs/1711.10485)
+  - [Microsoft researchers build a bot that draws what you tell it to, 2018](https://blogs.microsoft.com/ai/drawing-ai/)
 
 ## Personality recognition
 - Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
