@@ -26,6 +26,7 @@
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
+  - [Uber](https://github.com/lankastersky/neuromantic#uber)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
     - [Body recognition](https://github.com/lankastersky/neuromantic#body-recognition)
     - [Video captioning](https://github.com/lankastersky/neuromantic#video-captioning)
@@ -272,6 +273,9 @@ Annotated Datasets
 ## Transfer Learning
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
 - [Image Classification using Flowers dataset on Cloud ML Enginge](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
+
+## Uber
+- [Engineering More Reliable Transportation with Machine Learning and AI at Uber, 2017](https://eng.uber.com/machine-learning/)
 
 ## Video recognition
 
