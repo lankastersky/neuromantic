@@ -545,6 +545,7 @@ Back-propagation problems:
 - [YouTube-8M, 2017](https://research.google.com/youtube8m/)
   - large, but annotations are slightly noisy and only video-level labels have been assigned (include frames that do not
 relate to target actions)
+  - [youtube-dl](https://github.com/rg3/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [Sports-1M by A. Karpathy, 2016](https://github.com/gtoderici/sports-1m-dataset/blob/wiki/ProjectHome.md)
   - large, but annotations are slightly noisy and only video-level labels have been assigned (include frames that do not
 relate to target actions)
