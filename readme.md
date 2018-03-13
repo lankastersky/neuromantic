@@ -41,8 +41,10 @@
   - [Microsoft Azure Machine Learning](https://github.com/lankastersky/neuromantic#microsoft-azure-machine-learning)
   - [Microsoft Cognitive Services](https://github.com/lankastersky/neuromantic#microsoft-cognitive-services)
   - [Microsoft Cognitive Toolkit](https://github.com/lankastersky/neuromantic#microsoft-cognitive-toolkit)
-- [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
   - [Syn Bot Oscova](https://github.com/lankastersky/neuromantic#syn-botoscova)
+- [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
+- [IDEs](https://github.com/lankastersky/neuromantic#ides)
+- [Repositories](https://github.com/lankastersky/neuromantic#repositories)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
@@ -371,9 +373,6 @@ Cons:
 
 ## [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)
 
-## Playgrounds
-- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
-
 ## [Syn Bot Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
 - [finds similarity between the expressions](https://forum.syn.co.in/viewtopic.php?t=1845&p=3209)
 - https://github.com/SynHub/syn-bot-samples
@@ -381,6 +380,17 @@ Cons:
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
 - number of requests to the server is limited by the license
 
+# Playgrounds
+- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+
+# IDEs
+- https://colab.research.google.com
+- [Weka](https://www.cs.waikato.ac.nz/ml/weka/)
+  - [Getting Started with Weka - Machine Learning Recipes #10](https://www.youtube.com/watch?v=TF1yh5PKaqI)
+  
+# Repositories
+- https://github.com/bulutyazilim/awesome-datascience
+  
 # Models
 
 ## Decision Trees
