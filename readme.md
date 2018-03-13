@@ -38,10 +38,10 @@
   - [Google Cloud ML Engine](https://github.com/lankastersky/neuromantic#google-cloud-ml-engine)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
   - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
-  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
-  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
-  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
-  - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
+  - [Microsoft Azure Machine Learning](https://github.com/lankastersky/neuromantic#microsoft-azure-machine-learning)
+  - [Microsoft Cognitive Services](https://github.com/lankastersky/neuromantic#microsoft-cognitive-services)
+  - [Microsoft Cognitive Toolkit](https://github.com/lankastersky/neuromantic#microsoft-cognitive-toolkit)
+- [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
   - [Syn Bot Oscova](https://github.com/lankastersky/neuromantic#syn-botoscova)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
@@ -368,6 +368,8 @@ Cons:
 ## [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/overview/machine-learning/)
 
 ## [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services)
+
+## [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)
 
 ## Playgrounds
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
