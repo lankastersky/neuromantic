@@ -37,9 +37,12 @@
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Cloud ML Engine](https://github.com/lankastersky/neuromantic#google-cloud-ml-engine)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
-  - [Chatbot platforms](https://github.com/lankastersky/neuromantic#chatbot-platforms)
-    - [Oscova](https://github.com/lankastersky/neuromantic#oscova)
+  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
+  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
+  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
+  - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
   - [Playgrounds](https://github.com/lankastersky/neuromantic#playgrounds)
+  - [Syn Bot Oscova](https://github.com/lankastersky/neuromantic#syn-botoscova)
 - [Models](https://github.com/lankastersky/neuromantic#models)
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
@@ -360,17 +363,21 @@ Pros:
 
 Cons:
 
-## Chatbot platforms
+## [Microsoft Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
 
-### [Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
+## [Microsoft Azure Machine Learning](https://azure.microsoft.com/en-us/overview/machine-learning/)
+
+## [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services)
+
+## Playgrounds
+- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+
+## [Syn Bot Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
 - [finds similarity between the expressions](https://forum.syn.co.in/viewtopic.php?t=1845&p=3209)
 - https://github.com/SynHub/syn-bot-samples
 - MS Visual Studio is required (doesn't work with VS Code)
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
 - number of requests to the server is limited by the license
-
-## Playgrounds
-- [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
 # Models
 
