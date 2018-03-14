@@ -128,6 +128,8 @@ Code repositories
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
 ### Semantic Segmentation
+- [Semantic Image Segmentation with DeepLab in Tensorflow, 2018](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
+  - model DeepLab-v3+ built on top of CNN
 - https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
 - [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1606.00915.pdf)
@@ -327,6 +329,8 @@ Annotated Datasets
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
+- [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+  - integrated into Youtube stories
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
 - [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
 - Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
