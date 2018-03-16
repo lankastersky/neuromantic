@@ -49,6 +49,7 @@
   - [Decision trees](https://github.com/lankastersky/neuromantic#decision-trees)
   - [Distillation](https://github.com/lankastersky/neuromantic#distillation)
   - [Embedding models](https://github.com/lankastersky/neuromantic#embedding-models)
+  - [Evolutionary Algorithms](https://github.com/lankastersky/neuromantic#evolutionary-algorithms)
   - [Metrics of dataset quality](https://github.com/lankastersky/neuromantic#metrics-of-dataset-quality)
   - [Neural Networks](https://github.com/lankastersky/neuromantic#neural-networks)
     - [Capsule Networks](https://github.com/lankastersky/neuromantic#capsule-networks)
@@ -435,6 +436,15 @@ Hyperparameters:
 - see recursive autoencoders
 - see bag-of-words models
 
+## Evolutionary Algorithms
+- [Using Evolutionary AutoML to Discover Neural Network Architectures by by Esteban Real, 2018](https://research.googleblog.com/2018/03/using-evolutionary-automl-to-discover.html)
+- [Regularized Evolution for Image Classifier Architecture Search by Esteban Real et al, 2018](https://arxiv.org/abs/1802.01548)
+- [Welcoming the Era of Deep Neuroevolution by Jeff Clune, 2017](https://eng.uber.com/deep-neuroevolution/)
+- [Hierarchical Representations for Efficient Architecture Search by Hanxiao Liu et al, 2017](https://arxiv.org/abs/1711.00436)
+- [Learning Transferable Architectures for Scalable Image Recognition by Barret Zoph et al, 2017](https://arxiv.org/abs/1707.07012)
+- [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/abs/1703.01041)
+- [Evolving Neural Networks through Augmenting Topologies by  Stanley and Miikkulainen, 2002](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+
 ## Metrics of dataset quality
 - Statistical metrics
   - descriptive statistics: dimensionality, unique subject counts, systematic replicates counts, pdfs, cdfs (probability and cumulative distribution fx's)
@@ -568,6 +578,8 @@ Back-propagation problems:
 - [SUN](https://groups.csail.mit.edu/vision/SUN/)
 - [Caltech 256](https://authors.library.caltech.edu/7694/)
 - [Pascal](https://www.cs.stanford.edu/~roozbeh/pascal-context/)
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) - 60000 32x32 colour images in 10 classes, with 6000 images per class
+  - commonly used to train image classifiers
 
 ## Videos
 - [Microsoft multimedia challenge dataset, 2017](http://ms-multimedia-challenge.com/2017/dataset)
