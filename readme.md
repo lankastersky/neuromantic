@@ -61,7 +61,7 @@
     - [Long-Short Term Memory Networks](https://github.com/lankastersky/neuromantic#long-short-term-memory-networks)
     - [Recurrent Neural Networks](https://github.com/lankastersky/neuromantic#recurrent-neural-networks)
     - [Symmetrically Connected Networks](https://github.com/lankastersky/neuromantic#symmetrically-connected-networks)
-- [Articles](https://github.com/lankastersky/neuromantic#articles)
+- [Guidelines](https://github.com/lankastersky/neuromantic#guidelines)
   - [Deep learning](https://github.com/lankastersky/neuromantic#deep-learning)
 - [Books](https://github.com/lankastersky/neuromantic#books)
   - [NLP](https://github.com/lankastersky/neuromantic#nlp-1)
@@ -90,8 +90,6 @@
 ## Gesture Recognition
 
 ### Using wearable sensors (phones, watches etc.)
-
-Articles
 - [Physical Human Activity Recognition Using Wearable Sensors by Ferhat Attal et al, 2015](http://www.mdpi.com/1424-8220/15/12/29858)
 - [Activity Recognition with Smartphone Sensors by Xing Su et al, 2014](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6838194&tag=1)
 - [Motion gesture detection using Tensorflow on Android](http://blog.lemberg.co.uk/motion-gesture-detection-using-tensorflow-android)
@@ -514,9 +512,8 @@ Back-propagation problems:
 - Boltzmann machines (stochastic recurrent neural network with hidden units)
  -  Restricted Boltzmann Machines by Salakhutdinov and Hinton, 2014
  - [Deep Boltzmann Machines by Salakhutdinov and Hinton, 2012](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
- 
 
-# Articles
+# Guidelines
 - [Rules of Machine Learning: Best Practices for ML Engineering by Martin Zinkevich, 2018](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Practical advice for analysis of large, complex data sets by PATRICK RILEY, 2016](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [What’s your ML test score? A rubric for ML production systems by Eric Breck, 2016](https://research.google.com/pubs/pub45742.html)
