@@ -69,7 +69,7 @@
 - [Datasets](https://github.com/lankastersky/neuromantic#datasets)
   - [Images](https://github.com/lankastersky/neuromantic#images)
   - [Videos](https://github.com/lankastersky/neuromantic#videos)
-
+- [Research groups](https://github.com/lankastersky/neuromantic#research-groups)
 
 # Use Cases
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
@@ -587,3 +587,12 @@ relate to target actions)
 - [Hollywood2](http://www.di.ens.fr/~laptev/actions/hollywood2/)
 - [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/)
 - [CCV](http://www.ee.columbia.edu/ln/dvmm/CCV/)
+
+# Research Groups
+- [DeepMind](https://deepmind.com/)
+- [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research-fair/)
+- [Google Brain](https://research.google.com/teams/brain/)
+- [Microsoft Research AI](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai/)
+- [OpenAI](http://openai.com/)
+- [Sentient Labs](https://www.sentient.ai/)
+- [Uber Labs](https://eng.uber.com/tag/ai/) 
