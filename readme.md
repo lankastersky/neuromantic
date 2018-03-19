@@ -536,6 +536,8 @@ Back-propagation problems:
     - Fixed Thresholds in Dynamic Systems
     - When Correlations No Longer Correlate
     - Monitoring and Testing
+- [Principles of Research Code by Charles Sutton, 2012](http://www.theexclusive.org/2012/08/principles-of-research-code.html)
+- [Patterns for Research in Machine Learning by Ali Eslami, 2012](http://arkitus.com/patterns-for-research-in-machine-learning/)
 - [Lessons learned developing a practical large scale machine learning system by Simon Tong, 2010](https://research.googleblog.com/2010/04/lessons-learned-developing-practical.html)
 - [The Professional Data Science Manifesto](http://www.datasciencemanifesto.org/)
 - [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
