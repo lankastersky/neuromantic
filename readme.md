@@ -515,6 +515,8 @@ Back-propagation problems:
 
 # Guidelines
 - [Rules of Machine Learning: Best Practices for ML Engineering by Martin Zinkevich, 2018](https://developers.google.com/machine-learning/rules-of-ml/)
+- [How to Plan and Run Machine Learning Experiments Systematically by Jason Brownlee, 2017](https://machinelearningmastery.com/plan-run-machine-learning-experiments-systematically/)
+  - using a speadsheet with a template
 - [Practical advice for analysis of large, complex data sets by PATRICK RILEY, 2016](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [What’s your ML test score? A rubric for ML production systems by Eric Breck, 2016](https://research.google.com/pubs/pub45742.html)
 - [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
