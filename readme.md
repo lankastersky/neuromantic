@@ -37,6 +37,7 @@
   - [Google Cloud AutoML](https://github.com/lankastersky/neuromantic#google-cloud-automl)
   - [Google Cloud ML Engine](https://github.com/lankastersky/neuromantic#google-cloud-ml-engine)
   - [Google Mobile Vision](https://github.com/lankastersky/neuromantic#google-mobile-vision)
+  - [Jupyter Notebook](https://github.com/lankastersky/neuromantic#jupyter-notebook)
   - [Microsoft Azure Bot Service](https://github.com/lankastersky/neuromantic#microsoft-azure-bot-service)
   - [Microsoft Azure Machine Learning](https://github.com/lankastersky/neuromantic#microsoft-azure-machine-learning)
   - [Microsoft Cognitive Services](https://github.com/lankastersky/neuromantic#microsoft-cognitive-services)
@@ -367,6 +368,10 @@ Pros:
 - Recognize Text
 
 Cons:
+
+## Jupyter Notebook
+- [Top 5 Best Jupyter Notebook Extensions](https://www.kdnuggets.com/2018/03/top-5-best-jupyter-notebook-extensions.html)
+- [Version Control for Jupyter Notebook](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
 
 ## [Microsoft Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
 
