@@ -329,6 +329,8 @@ Annotated Datasets
 
 ### Video segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+  - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
   - integrated into Youtube stories
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
