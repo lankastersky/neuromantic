@@ -136,6 +136,8 @@ Code repositories
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
 
 ## Interpretability
+- [The Building Blocks of Interpretability, 2018](https://distill.pub/2018/building-blocks/)
+ - GoogleNet for image classification is used as an example
 - [Attributing a deep network’s prediction to its input features by MUKUND SUNDARARAJAN, 2017](http://www.unofficialgoogledatascience.com/2017/03/attributing-deep-networks-prediction-to.html)
   - Integrated Gradients method
 - [A unified approach to interpreting model predictions by Scott M Lundberg et al, 2017](https://nips.cc/Conferences/2017/Schedule?showEvent=10008)
