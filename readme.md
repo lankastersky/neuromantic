@@ -1,5 +1,6 @@
 ﻿# TOC
 - [Use Cases](https://github.com/lankastersky/neuromantic#use-cases)
+  - [Audio recognition](https://github.com/lankastersky/neuromantic#audio-recognition)
   - [Data Agumentation](https://github.com/lankastersky/neuromantic#data-augmentation)
   - [Design](https://github.com/lankastersky/neuromantic#design)
   - [Games](https://github.com/lankastersky/neuromantic#games)
@@ -25,7 +26,6 @@
     - [Text to Image](https://github.com/lankastersky/neuromantic#text-to-image)
   - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
-  - [Sound recognition](https://github.com/lankastersky/neuromantic#sound-recognition)
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
   - [Uber](https://github.com/lankastersky/neuromantic#uber)
   - [Video recognition](https://github.com/lankastersky/neuromantic#video-recognition)
@@ -75,6 +75,12 @@
 
 # Use Cases
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
+
+## Audio Recognition
+- [vggish model used to generate google's AudioSet](https://github.com/tensorflow/models/tree/master/research/audioset)
+  - [vggish model adapted for Keras](https://github.com/DTaoo/VGGish)
+- [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
+- The Sound Sensor Alert App [sentector](http://sentector.com/)
 
 ## Data Augmentation
 - [Data Augmentation Techniques in CNN using Tensorflow, 2017](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
@@ -273,16 +279,6 @@ Evaluation:
 - [Can word2vec be used for search?](https://www.reddit.com/r/MachineLearning/comments/4mw927/can_word2vec_be_used_for_search/)
   - alternative search queries can be built using approximate nearest neighbors in embedding vectors space of terms (using https://github.com/spotify/annoy e.g.)
   - [Improving Document Ranking with Dual Word Embeddings by Eric Nalisnick et al, 2016](https://www.microsoft.com/en-us/research/publication/improving-document-ranking-with-dual-word-embeddings/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2Fdefault.aspx%3Fid%3D260867)
-  
-
-## Sound recognition
-
-Annotated Datasets
-- [The VU sound corpus](https://github.com/CrowdTruth/vu-sound-corpus) - based on https://freesound.org/ database
-  - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
-- [AudioSet](https://research.google.com/audioset/) - consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos
-- [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
-- The Sound Sensor Alert App [sentector](http://sentector.com/)
 
 ## Transfer Learning
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
@@ -580,6 +576,12 @@ Back-propagation problems:
 - [Statistics is Easy! by Dennis Shasha, 2010](https://www.amazon.com/Statistics-Second-Synthesis-Lectures-Mathematics/dp/160845570X)
 
 # Datasets
+
+## Audios
+- [The VU sound corpus](https://github.com/CrowdTruth/vu-sound-corpus) - based on https://freesound.org/ database
+  - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
+- [AudioSet](https://research.google.com/audioset/) - consists of an expanding ontology of 632 audio event classes and a collection of 2,084,320 human-labeled 10-second sound clips drawn from YouTube videos
+
 
 ## Images
 - [Landmarks 2018](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
