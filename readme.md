@@ -505,6 +505,7 @@ Back-propagation problems:
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung et al, 2014](https://arxiv.org/pdf/1412.3555v1.pdf)
 
 ### Long-Short Term Memory Networks
+- [Exploring LSTMs, 2017](http://blog.echen.me/2017/05/30/exploring-lstms/)
 - [Understanding LSTM Networks by Christopher Olah, 2015](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - “Almost all exciting results based on recurrent neural networks are achieved with [LSTMs].”
 - [Offline Handwriting Recognition with Multidimensional Recurrent Neural Networks by Graves & Schmidhuber, 2009](http://people.idsia.ch/~juergen/nips2009.pdf)
