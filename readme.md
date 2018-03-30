@@ -24,6 +24,7 @@
     - [Spelling](https://github.com/lankastersky/neuromantic#spelling)
     - [Summarization](https://github.com/lankastersky/neuromantic#summarization)
     - [Text to Image](https://github.com/lankastersky/neuromantic#text-to-image)
+    - [Text to Speech](https://github.com/lankastersky/neuromantic#text-to-speech)
   - [Personality recognition](https://github.com/lankastersky/neuromantic#personality-recognition)
   - [Search](https://github.com/lankastersky/neuromantic#search)
   - [Transfer Learning](https://github.com/lankastersky/neuromantic#transfer-learning)
@@ -268,6 +269,9 @@ Evaluation:
 ### Text to Image
 - [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks by Tao Xu et al, 2017](https://arxiv.org/abs/1711.10485)
   - [Microsoft researchers build a bot that draws what you tell it to, 2018](https://blogs.microsoft.com/ai/drawing-ai/)
+
+### Text to Speech
+- [WaveNet: A Generative Model for Raw Audio, 2016](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Personality recognition
 - Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
