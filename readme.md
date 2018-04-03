@@ -44,6 +44,7 @@
   - [Microsoft Cognitive Services](#microsoft-cognitive-services)
   - [Microsoft Cognitive Toolkit](#microsoft-cognitive-toolkit)
   - [Syn Bot Oscova](#syn-botoscova)
+  - [TensorFlow](#tensorflow)
 - [Playgrounds](#playgrounds)
 - [IDEs](#ides)
 - [Repositories](#repositories)
@@ -395,6 +396,9 @@ Cons:
 - MS Visual Studio is required (doesn't work with VS Code)
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
 - number of requests to the server is limited by the license
+
+## [TensorFlow](https://www.tensorflow.org/)
+- [TensorFlow Hub](https://www.tensorflow.org/hub/)
 
 # Playgrounds
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
