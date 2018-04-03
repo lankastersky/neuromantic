@@ -79,8 +79,11 @@
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
 
 ## Audio Recognition
-- [vggish model used to generate google's AudioSet](https://github.com/tensorflow/models/tree/master/research/audioset)
+- [CNN Architectures for Large-Scale Audio Classification, S. Hershey et al, 2017](https://research.google.com/pubs/pub45611.html)
+  - [vggish model used to generate google's AudioSet](https://github.com/tensorflow/models/tree/master/research/audioset)
   - [vggish model adapted for Keras](https://github.com/DTaoo/VGGish)
+- [Audio Set: An ontology and human-labeled dataset for audio events, 2017](https://research.google.com/pubs/pub45857.html) 
+- [Large-Scale Audio Event Discovery in One Million YouTube Videos, A. Jansen et al, ICASSP 2017](https://research.google.com/pubs/pub45760.html)
 - [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
 
@@ -341,16 +344,13 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - https://github.com/tensorflow/models/tree/master/research/object_detection
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
 - [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
-- Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
-- Recurrent Switching Linear Dynamical Systems, CVPR, 2016
 - DeepStory: Video Story QA by Deep Embedded Memory Networks, Arxiv, 2017
 - Hierarchical Deep Recurrent Architecture for Video Understanding, Arxiv, 2017
-- Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm, Networking and Information Systems Journal, 2000
+- Recurrent Switching Linear Dynamical Systems, CVPR, 2016
+- Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
+- [Going Deeper with Convolutions by C. Szegedy et al, 2014](https://arxiv.org/abs/1409.4842)
 - Video Scene Segmentation Using Markov Chain Monte Carlo, TMM, 2006
-- Sound:
-  - S. Hershey et al., CNN Architectures for Large-Scale Audio Classification, Arxiv 2017.
-  - A. Jansen et al., Large-Scale Audio Event Discovery in One Million YouTube Videos, ICASSP 2017
-  - C. Szegedy et al., Going Deeper with Convolutions, CVPR 2015.
+- Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm, Networking and Information Systems Journal, 2000
 
 # Tools
 
