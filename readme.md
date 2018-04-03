@@ -7,6 +7,7 @@
   - [Gesture Recognition](#gesture-recognition)
   - [Image Recognition](#image-recognition)
     - [Face Recognition](#face-recognition)
+    - [Image Captioning](#image-captioning)
     - [Person Detection](#person-detection)
     - [Semantic segmentation](#semantic-segmentation)
   - [Interpretability](#interpretability)
@@ -136,6 +137,9 @@ Code repositories
 - [Умные фотографии ВКонтакте, 2018](https://vk.com/@td-highload-face-recognition) (Smart photos in Vkontakte)
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff et al, 2015](https://arxiv.org/abs/1503.03832)
   - the model: FaceNet
+
+### Image Captioning
+- [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge by Oriol Vinyals et al, 2016](https://arxiv.org/abs/1609.06647)
 
 ### Person Detection
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
