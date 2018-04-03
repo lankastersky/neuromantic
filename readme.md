@@ -73,6 +73,7 @@
   - [Images](https://github.com/lankastersky/neuromantic#images)
   - [Videos](https://github.com/lankastersky/neuromantic#videos)
 - [Research groups](https://github.com/lankastersky/neuromantic#research-groups)
+- [Cartoons](#cartoons)
 
 # Use Cases
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
@@ -625,3 +626,7 @@ relate to target actions)
 - [OpenAI](http://openai.com/)
 - [Sentient Labs](https://www.sentient.ai/)
 - [Uber Labs](https://eng.uber.com/tag/ai/) 
+
+# Cartoons
+[The Browser of a Data Scientist](https://www.datasciencecentral.com/profiles/blogs/the-browser-of-a-data-scientist)
+- ![The Browser of a Data Scientist](https://api.ning.com/files/R-lMgokaLrIz-u5lxqyR-EFKJTkzJjUKjXAFvQDvIWRIP5Hc4x2Q3XnnAzFyw4zPIURUCjfcFzGaBxgHtsZhuYMYmDQJhaS*/oxi.PNG "The Browser of a Data Scientist")
