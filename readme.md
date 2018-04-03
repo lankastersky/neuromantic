@@ -31,10 +31,11 @@
   - [Transfer Learning](#transfer-learning)
   - [Uber](#uber)
   - [Video recognition](#video-recognition)
-    - [Body recognition](#body-recognition)
-    - [Video captioning](#video-captioning)
-    - [Video classification](#video-classification)
-    - [Video segmentation](#video-segmentation)
+    - [Body Recognition](#body-recognition)
+    - [Object Detection](#object-detection)
+    - [Scene Segmentation](#scene-segmentation)
+    - [Video Captioning](#video-captioning)
+    - [Video Classification](#video-classification)
 - [Tools](#tools)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
@@ -306,6 +307,27 @@ Evaluation:
 ### Body recognition
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 
+### Object detection
+- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+  - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
+- [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+  - integrated into Youtube stories
+- [Supercharge your Computer Vision models with the TensorFlow Object Detection API, 2017](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+  - https://github.com/tensorflow/models/tree/master/research/object_detection
+- [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
+- [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
+
+### Scene Segmentation
+Detects when one video (shot/scene/chapter) ends and another begins
+- [DeepStory: Video Story QA by Deep Embedded Memory Networks by Kyung-Min Kim et al, 2017](https://arxiv.org/abs/1707.00836)
+  - https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks
+- [Hierarchical Deep Recurrent Architecture for Video Understanding by Luming Tang et al, 2017](https://arxiv.org/abs/1707.03296)
+- [Recurrent Switching Linear Dynamical Systems by Scott W. Linderman et al, 2016](https://arxiv.org/abs/1610.08466)
+- [Unsupervised Learning from Narrated Instruction Videos by Jean-Baptiste Alayrac et al, 2015](https://arxiv.org/abs/1506.09215)
+- [Going Deeper with Convolutions by C. Szegedy et al, 2014](https://arxiv.org/abs/1409.4842)
+- [Video Scene Segmentation Using Markov Chain Monte Carlo by Yun Zha et al, 2006](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1658031)
+- [Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm by Walid Mahdi et al, 2000](https://arxiv.org/abs/1412.4470)
+
 ### Video captioning
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
 
@@ -338,24 +360,6 @@ Evaluation:
   - In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
   - 63.3% on UCF-101
-
-### Video segmentation
-Detects when one video (shot/scene/chapter) ends and another begins
-- [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
-  - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
-- [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
-  - integrated into Youtube stories
-- [Supercharge your Computer Vision models with the TensorFlow Object Detection API, 2017](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
-  - https://github.com/tensorflow/models/tree/master/research/object_detection
-- [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
-- [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
-- DeepStory: Video Story QA by Deep Embedded Memory Networks, Arxiv, 2017
-- Hierarchical Deep Recurrent Architecture for Video Understanding, Arxiv, 2017
-- Recurrent Switching Linear Dynamical Systems, CVPR, 2016
-- Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
-- [Going Deeper with Convolutions by C. Szegedy et al, 2014](https://arxiv.org/abs/1409.4842)
-- Video Scene Segmentation Using Markov Chain Monte Carlo, TMM, 2006
-- Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm, Networking and Information Systems Journal, 2000
 
 # Tools
 
