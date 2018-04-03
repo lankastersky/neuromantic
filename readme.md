@@ -115,7 +115,7 @@ Code repositories
 - https://github.com/drejkim/AndroidWearMotionSensors
 
 ## Image Recognition
-- [MobileNetV2: The Next Generation of On-Device Computer Vision Networks](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
+- [MobileNetV2: The Next Generation of On-Device Computer Vision Networks, 2018](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 - [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/pdf/1703.01041.pdf)
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
@@ -337,6 +337,8 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
   - integrated into Youtube stories
+- [Supercharge your Computer Vision models with the TensorFlow Object Detection API, 2017](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
+  - https://github.com/tensorflow/models/tree/master/research/object_detection
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
 - [Video Shot Boundary Detection based on Color Histogram by J. Mas and G. Fernandez, 2003](http://www-nlpir.nist.gov/projects/tvpubs/tvpapers03/ramonlull.paper.pdf)
 - Unsupervised Learning from Narrated Instruction Videos, Arxiv, 2015
