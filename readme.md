@@ -115,6 +115,7 @@ Code repositories
 - https://github.com/drejkim/AndroidWearMotionSensors
 
 ## Image Recognition
+- [MobileNetV2: The Next Generation of On-Device Computer Vision Networks](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 - [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/pdf/1703.01041.pdf)
 - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
