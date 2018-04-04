@@ -40,7 +40,7 @@
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Mobile Vision](#google-mobile-vision)
-  - [Google Video Intelligence](##google-video-intelligence)
+  - [Google Video Intelligence](#google-video-intelligence)
   - [Experiments Frameworks](#experiments-frameworks)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Microsoft Azure Bot Service](#microsoft-azure-bot-service)
