@@ -124,11 +124,12 @@ Code repositories
 ## Image Recognition
 - [MobileNetV2: The Next Generation of On-Device Computer Vision Networks, 2018](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
 - [Large-Scale Evolution of Image Classifiers by Esteban Real et al, 2017](https://arxiv.org/pdf/1703.01041.pdf)
-- [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
 - [Rethinking the Inception Architecture for Computer Vision by Christian Szegedy et al, 2015](https://arxiv.org/abs/1512.00567)
-- [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception) - 1.4M images and 1000 classes
+  - [Inception in TensorFlow](https://github.com/tensorflow/models/tree/master/research/inception) - 1.4M images and 1000 classes
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications by Andrew G. Howard et al, 2017](https://arxiv.org/abs/1704.04861)
+  - [TensorFlow-Slim image classification model library](https://github.com/tensorflow/models/tree/master/research/slim)
   - Similar approach on practice: [How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native](https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3)
+- [Going Deeper with Convolutions by C. Szegedy et al, 2014](https://arxiv.org/abs/1409.4842)
 - [ImageNet Classification with Deep Convolutional Neural Networks by Alex Krizhevsky et al, 2012](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
   - [ImageNet](http://image-net.org/)
   - the model is based on CNN
@@ -320,10 +321,7 @@ Evaluation:
 
 ### Scene Segmentation
 Detects when one video (shot/scene/chapter) ends and another begins
-- [Hierarchical Deep Recurrent Architecture for Video Understanding by Luming Tang et al, 2017](https://arxiv.org/abs/1707.03296)
 - [Recurrent Switching Linear Dynamical Systems by Scott W. Linderman et al, 2016](https://arxiv.org/abs/1610.08466)
-- [Unsupervised Learning from Narrated Instruction Videos by Jean-Baptiste Alayrac et al, 2015](https://arxiv.org/abs/1506.09215)
-- [Going Deeper with Convolutions by C. Szegedy et al, 2014](https://arxiv.org/abs/1409.4842)
 - [Video Scene Segmentation Using Markov Chain Monte Carlo by Yun Zha et al, 2006](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1658031)
 - [Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm by Walid Mahdi et al, 2000](https://arxiv.org/abs/1412.4470)
 
@@ -331,6 +329,7 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [DeepStory: Video Story QA by Deep Embedded Memory Networks by Kyung-Min Kim et al, 2017](https://arxiv.org/abs/1707.00836)
   - https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
+- [Unsupervised Learning from Narrated Instruction Videos by Jean-Baptiste Alayrac et al, 2015](https://arxiv.org/abs/1506.09215)
 
 ### Video classification
 - [Learnable pooling with Context Gating for video classification by Antoine Miech et al, 2018](https://arxiv.org/abs/1706.06905)
@@ -341,6 +340,7 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - not clear about very long videos
 - [The Monkeytyping Solution to the YouTube-8M Video Understanding Challenge, 2017](https://static.googleusercontent.com/media/research.google.com/en//youtube8m/workshop2017/c04.pdf)
   - Rank #2 at [Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m)
+- [Hierarchical Deep Recurrent Architecture for Video Understanding by Luming Tang et al, 2017](https://arxiv.org/abs/1707.03296)
 - [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet? by Kensho Hara et al, 2017](https://arxiv.org/abs/1711.09577)
   - https://github.com/kenshohara/video-classification-3d-cnn-pytorch
     - trained on the Kinetics dataset from scratch using only RGB input
