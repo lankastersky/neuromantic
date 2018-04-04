@@ -40,6 +40,7 @@
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Mobile Vision](#google-mobile-vision)
+  - [Experiments Frameworks](#experiments-frameworks)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Microsoft Azure Bot Service](#microsoft-azure-bot-service)
   - [Microsoft Azure Machine Learning](#microsoft-azure-machine-learning)
@@ -386,6 +387,13 @@ Pros:
 
 Cons:
 
+## Experiments Frameworks
+Tools to help you configure, organize, log and reproduce experiments
+- https://www.reddit.com/r/MachineLearning/comments/5gyzqj/d_how_do_you_keep_track_of_your_experiments/, 2017
+- [How to Plan and Run Machine Learning Experiments Systematically by Jason Brownlee, 2017](https://machinelearningmastery.com/plan-run-machine-learning-experiments-systematically/)
+  - using a speadsheet with a template
+- https://github.com/IDSIA/sacred
+
 ## Jupyter Notebook
 - [Top 5 Best Jupyter Notebook Extensions](https://www.kdnuggets.com/2018/03/top-5-best-jupyter-notebook-extensions.html)
 - [Version Control for Jupyter Notebook](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
@@ -541,8 +549,6 @@ Back-propagation problems:
 
 # Guidelines
 - [Rules of Machine Learning: Best Practices for ML Engineering by Martin Zinkevich, 2018](https://developers.google.com/machine-learning/rules-of-ml/)
-- [How to Plan and Run Machine Learning Experiments Systematically by Jason Brownlee, 2017](https://machinelearningmastery.com/plan-run-machine-learning-experiments-systematically/)
-  - using a speadsheet with a template
 - [Practical advice for analysis of large, complex data sets by PATRICK RILEY, 2016](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
 - [What’s your ML test score? A rubric for ML production systems by Eric Breck, 2016](https://research.google.com/pubs/pub45742.html)
 - [Machine Learning: The High Interest Credit Card of Technical Debt by D. Sculley et al, 2014](https://research.google.com/pubs/pub43146.html)
