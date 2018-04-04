@@ -387,6 +387,12 @@ Pros:
 
 Cons:
 
+## [Google Video Intelligence](https://cloud.google.com/video-intelligence/)
+- Label Detection - Detect entities within the video, such as "dog", "flower" or "car"
+- Shot Change Detection - Detect scene changes within the video
+- Explicit Content Detection - Detect adult content within a video
+- Video Transcription - Automatically transcribes video content in English
+
 ## Experiments Frameworks
 Tools to help you configure, organize, log and reproduce experiments
 - https://www.reddit.com/r/MachineLearning/comments/5gyzqj/d_how_do_you_keep_track_of_your_experiments/, 2017
