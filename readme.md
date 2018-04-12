@@ -658,3 +658,6 @@ relate to target actions)
 # Cartoons
 [The Browser of a Data Scientist](https://www.datasciencecentral.com/profiles/blogs/the-browser-of-a-data-scientist)
 - ![The Browser of a Data Scientist](https://api.ning.com/files/R-lMgokaLrIz-u5lxqyR-EFKJTkzJjUKjXAFvQDvIWRIP5Hc4x2Q3XnnAzFyw4zPIURUCjfcFzGaBxgHtsZhuYMYmDQJhaS*/oxi.PNG "The Browser of a Data Scientist")
+## Jokes
+A statistician drowned crossing a river that was only three feet deep
+on average
