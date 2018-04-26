@@ -75,6 +75,7 @@
   - [NLP](#nlp-1)
   - [Statistics](#statistics)
 - [MOOC](#mooc)
+  - [Google oriented courses](#Google-oriented-courses)
 - [Datasets](#datasets)
   - [Images](#images)
   - [Videos](#videos)
@@ -602,7 +603,13 @@ Back-propagation problems:
 - [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # MOOC
+## Google oriented courses
 - https://developers.google.com/machine-learning/crash-course/
+  - for beginners, explains hard things with simple words
+  - from google gurus
+  - uses TensorFlow and codelabs
+- https://www.coursera.org/specializations/gcp-data-machine-learning
+  - shows how to use GCP for machine learning
 
 # Books
 
