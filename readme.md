@@ -75,7 +75,7 @@
   - [NLP](#nlp-1)
   - [Statistics](#statistics)
 - [MOOC](#mooc)
-  - [Google oriented courses](#Google-oriented-courses)
+  - [Google oriented courses](#google-oriented-courses)
 - [Datasets](#datasets)
   - [Images](#images)
   - [Videos](#videos)
