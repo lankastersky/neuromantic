@@ -64,6 +64,7 @@
     - [Deep Residual Networks](#deep-residual-networks)
     - [Distributed Neural Networks](#distributed-neural-networks)
     - [Feed-Forward Neural Networks](#feed-forward-neural-networks)
+    - [Generative Adversarial Networks](#generative-adversarial-networks)
     - [Gated Recurrent Neural Networks](#gated-recurrent-neural-networks)
     - [Long-Short Term Memory Networks](#long-short-term-memory-networks)
     - [Recurrent Neural Networks](#recurrent-neural-networks)
@@ -534,6 +535,9 @@ Back-propagation problems:
 
 ### Gated Recurrent Neural Networks
 - [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung et al, 2014](https://arxiv.org/pdf/1412.3555v1.pdf)
+
+### Generative Adversarial Networks
+- [Progressive Growing of GANs for Improved Quality, Stability, and Variation by Tero Karras et al, 2017](https://arxiv.org/abs/1710.10196)
 
 ### Long-Short Term Memory Networks
 - [Exploring LSTMs, 2017](http://blog.echen.me/2017/05/30/exploring-lstms/)
