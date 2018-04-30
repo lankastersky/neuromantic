@@ -238,6 +238,9 @@ Return the name of a concept given a definition or description:
 - see bag-of-word
 
 ### Sequence to sequence
+- [Introducing Semantic Experiences with Talk to Books and Semantris by Rey Kurzweil et al, 2018](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)
+  - [Universal Sentence Encoder Daniel Cer et al, 2018](https://arxiv.org/abs/1803.11175)
+  - [Pretrained semantic TensorFlow module](https://www.tensorflow.org/hub/modules/google/universal-sentence-encoder/1)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model by Andy, 2018](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models by Louis Shao et al, 2017](https://research.google.com/pubs/pub45936.html)
   - trained on a combined data set of over 2.3B conversation messages mined from the web
