@@ -278,6 +278,9 @@ Evaluation:
 
 ### Sentiment analysis
 - [Twitter Sentiment Analysis Using Combined LSTM-CNN Models by SOSAVPM, 2018](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
+  - https://github.com/pmsosa/CS291K
+  - used pre-trained embeddings with LSTM-CNN model with dropouts
+  - 75.2% accuracy for binary classification (positive-negative tweet)
 - [doc2vec example, 2015](http://linanqiu.github.io/2015/10/07/word2vec-sentiment/)
 
 ### Spelling
