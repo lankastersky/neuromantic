@@ -71,6 +71,7 @@
     - [Symmetrically Connected Networks](#symmetrically-connected-networks)
 - [Guidelines](#guidelines)
   - [Deep learning](#deep-learning)
+  - [Interview preparation](#interview-preparation)
 - [Books](#books)
   - [NLP](#nlp-1)
   - [Statistics](#statistics)
@@ -604,6 +605,9 @@ Back-propagation problems:
   - Deep learning thus far works well as an approximation, but its answers often cannot be fully trusted
   - Deep learning thus far is difficult to engineer with 
 - [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
+
+## Interview preparation
+- [Acing AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
 
 # MOOC
 ## Google oriented courses
