@@ -71,7 +71,7 @@
     - [Symmetrically Connected Networks](#symmetrically-connected-networks)
 - [Guidelines](#guidelines)
   - [Deep learning](#deep-learning)
-  - [Interview preparation](#interview-preparation)
+- [Interview preparation](#interview-preparation)
 - [Books](#books)
   - [NLP](#nlp-1)
   - [Statistics](#statistics)
@@ -194,6 +194,7 @@ Code repositories
   - estimating story points based on long short-term memory and recurrent highway network
 
 ## NLP
+- [Text Embedding Models Contain Bias. Here's Why That Matters, 2018](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
 
 ### Chatbots
@@ -609,7 +610,7 @@ Back-propagation problems:
   - Deep learning thus far is difficult to engineer with 
 - [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
-## Interview preparation
+# Interview preparation
 - [Acing AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
 
 # MOOC
