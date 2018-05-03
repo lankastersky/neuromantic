@@ -111,6 +111,7 @@
 - [PAIR | People+AI Research Initiative](https://ai.google/pair)
 
 ## Games
+- [Facebook Open Sources ELF OpenGo, 2018](https://research.fb.com/facebook-open-sources-elf-opengo/)
 - [Mastering the game of Go without human knowledge by David Silver et al, 2017](https://www.gwern.net/docs/rl/2017-silver.pdf)
 
 ## Gesture Recognition
