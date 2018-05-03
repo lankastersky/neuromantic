@@ -291,6 +291,7 @@ Evaluation:
 - [Generating Wikipedia by Summarizing Long Sequences by Peter J. Liu et al, 2018](https://arxiv.org/abs/1801.10198)
 
 ### Text to Image
+- [ChatPainter: Improving text-to-image generation by using dialogue](https://www.microsoft.com/en-us/research/blog/chatpainter-improving-text-image-generation-using-dialogue/)
 - [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks by Tao Xu et al, 2017](https://arxiv.org/abs/1711.10485)
   - [Microsoft researchers build a bot that draws what you tell it to, 2018](https://blogs.microsoft.com/ai/drawing-ai/)
 
