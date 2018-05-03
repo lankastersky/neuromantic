@@ -1,6 +1,7 @@
 ﻿# TOC
 - [Use Cases](#use-cases)
   - [Audio recognition](#audio-recognition)
+    - [Speech to Text](#speech-to-text)
   - [Data Agumentation](#data-augmentation)
   - [Design](#design)
   - [Games](#games)
@@ -94,6 +95,11 @@
 - [Large-Scale Audio Event Discovery in One Million YouTube Videos, A. Jansen et al, ICASSP 2017](https://research.google.com/pubs/pub45760.html)
 - [How do I listen for a sound that matches a pre-recorded sound?](https://arduino.stackexchange.com/questions/8781/how-do-i-listen-for-a-sound-that-matches-a-pre-recorded-sound)
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
+
+## Speech to Text
+- https://github.com/facebookresearch/wav2letter
+  - [Letter-Based Speech Recognition with Gated ConvNets by Vitaliy Liptchinsky et al, 2017](https://arxiv.org/abs/1712.09444)
+  - [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System by Ronan Collobert et al, 2016](https://arxiv.org/abs/1609.03193)
 
 ## Data Augmentation
 - [Data Augmentation Techniques in CNN using Tensorflow, 2017](https://medium.com/ymedialabs-innovation/data-augmentation-techniques-in-cnn-using-tensorflow-371ae43d5be9)
