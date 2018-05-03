@@ -374,6 +374,11 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - 63.3% on UCF-101
 
 # Tools
+- [50+ Useful Machine Learning & Prediction APIs, 2018](https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html)
+  - Face and Image Recognition
+  - Text Analysis, NLP, Sentiment Analysis
+  - Language Translation
+  - Machine Learning and prediction
 
 ## [Google Cloud AutoML](https://cloud.google.com/automl/)
 
