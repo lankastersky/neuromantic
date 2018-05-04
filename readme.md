@@ -22,7 +22,7 @@
     - [Named entity resolution](#named-entity-resolution)
     - [Reverse dictionaries](#reverse-dictionaries)
     - [Sequence to sequence](#sequence-to-sequence)
-    - [Sentiment analysis](#sentiment-analysis)
+    - [Semantic analysis](#semantic-analysis)
     - [Spelling](#spelling)
     - [Summarization](#summarization)
     - [Text to Image](#text-to-image)
@@ -284,7 +284,9 @@ Return the name of a concept given a definition or description:
 Evaluation:
 - [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
 
-### Sentiment analysis
+### Semantic analysis
+- [A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks by Soujanya Poria et al, 2017](https://arxiv.org/abs/1610.08815)
+  - Blog post: [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 - [Twitter Sentiment Analysis Using Combined LSTM-CNN Models by SOSAVPM, 2018](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
   - https://github.com/pmsosa/CS291K
   - used pre-trained embeddings with LSTM-CNN model with dropouts
