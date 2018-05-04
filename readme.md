@@ -37,6 +37,7 @@
     - [Scene Segmentation](#scene-segmentation)
     - [Video Captioning](#video-captioning)
     - [Video Classification](#video-classification)
+  - [Multiple Modalities](#multiple-modalities)
 - [Tools](#tools)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
@@ -383,6 +384,10 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
   - 63.3% on UCF-101
 
+## Multiple Modalities
+- [Multimodal Classification for Analysing Social Media by Chi Thang Duong et al, 2017](https://arxiv.org/abs/1708.02099)
+  - Blog post: [Detecting Emotions with CNN Fusion Models](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
+  - https://emoclassifier.github.io/
 # Tools
 - [50+ Useful Machine Learning & Prediction APIs, 2018](https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html)
   - Face and Image Recognition
