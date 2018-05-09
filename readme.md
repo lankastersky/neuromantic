@@ -14,8 +14,8 @@
     - [Semantic segmentation](#semantic-segmentation)
   - [Interpretability](#interpretability)
   - [Programming and ML](#programming-and-ml)
-    - [Predict defects](#predict-defects)  
-    - [Predict performance](#predict-performance)  
+    - [Predict defects](#predict-defects)
+    - [Predict performance](#predict-performance)
   - [NLP](#nlp)
     - [Chatbots](#chatbots)
     - [Crossword question answerers](#crossword-question-answerers)
@@ -39,6 +39,7 @@
     - [Video Captioning](#video-captioning)
     - [Video Classification](#video-classification)
   - [Multiple Modalities](#multiple-modalities)
+  - [Open problems](#open-problems)
 - [Tools](#tools)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
@@ -155,6 +156,8 @@ Code repositories
   - the model: FaceNet
 
 ### Food Recognition
+- [NutriNet: A Deep Learning Food and Drink Image Recognition System for Dietary Assessment by Simon Mezgec et al, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537777/)
+  - uses 520 food and drink items (in Slovene) and the [Google Custom Search API to search for these images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537777/#app1-nutrients-09-00657title)
 - [Food Classification with Deep Learning in Keras / Tensorflow, 2017](http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
   - [Creating a Deep Learning iOS App with Keras and Tensorflow](http://blog.stratospark.com/creating-a-deep-learning-ios-app-with-keras-and-tensorflow.html)
   - https://github.com/stratospark/food-101-keras
@@ -397,6 +400,13 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [Multimodal Classification for Analysing Social Media by Chi Thang Duong et al, 2017](https://arxiv.org/abs/1708.02099)
   - Blog post: [Detecting Emotions with CNN Fusion Models](https://medium.com/dair-ai/detecting-emotions-with-cnn-fusion-models-b066944969c8)
   - https://emoclassifier.github.io/
+
+## Open problems
+- Recycled goods (not solved, no dataset)
+  - [Recycling symbols explained](https://www.recyclenow.com/recycling-knowledge/packaging-symbols-explained)
+  - similar to traffic signs recognition
+- Safety symbols on cardboard boxes (not solved, no dataset)  
+
 # Tools
 - [50+ Useful Machine Learning & Prediction APIs, 2018](https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html)
   - Face and Image Recognition
