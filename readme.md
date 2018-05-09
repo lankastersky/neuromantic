@@ -8,6 +8,7 @@
   - [Gesture Recognition](#gesture-recognition)
   - [Image Recognition](#image-recognition)
     - [Face Recognition](#face-recognition)
+    - [Food Recognition](#food-recognition)
     - [Image Captioning](#image-captioning)
     - [Person Detection](#person-detection)
     - [Semantic segmentation](#semantic-segmentation)
@@ -152,6 +153,14 @@ Code repositories
 - [Умные фотографии ВКонтакте, 2018](https://vk.com/@td-highload-face-recognition) (Smart photos in Vkontakte)
 - [FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff et al, 2015](https://arxiv.org/abs/1503.03832)
   - the model: FaceNet
+
+### Food Recognition
+- [Food Classification with Deep Learning in Keras / Tensorflow, 2017](http://blog.stratospark.com/deep-learning-applied-food-classification-deep-learning-keras.html)
+  - [Creating a Deep Learning iOS App with Keras and Tensorflow](http://blog.stratospark.com/creating-a-deep-learning-ios-app-with-keras-and-tensorflow.html)
+  - https://github.com/stratospark/food-101-keras
+- [Im2Calories: towards an automated mobile vision food diary by Austin Myers et al, 2015](http://www.cs.ubc.ca/~murphyk/Papers/im2calories_iccv15.pdf)
+- [Food 101 Dataset, 2014](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
+- [Calories nutrition dataset](http://www.fatsecret.com/calories-nutrition/)
 
 ### Image Captioning
 - [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge by Oriol Vinyals et al, 2016](https://arxiv.org/abs/1609.06647)
