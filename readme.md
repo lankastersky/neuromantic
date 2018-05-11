@@ -100,6 +100,9 @@
 - The Sound Sensor Alert App [sentector](http://sentector.com/)
 
 ## Speech to Text
+- [Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone, 2018](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+- [Looking to Listen at the Cocktail Party: A Speaker-Independent Audio-Visual Model for Speech Separation by Ariel Ephrat et al, 2018](https://arxiv.org/abs/1804.03619)
+  - blogpost: [Looking to Listen: Audio-Visual Speech Separation, 2018](https://ai.googleblog.com/2018/04/looking-to-listen-audio-visual-speech.html)
 - https://github.com/facebookresearch/wav2letter
   - [Letter-Based Speech Recognition with Gated ConvNets by Vitaliy Liptchinsky et al, 2017](https://arxiv.org/abs/1712.09444)
   - [Wav2Letter: an End-to-End ConvNet-based Speech Recognition System by Ronan Collobert et al, 2016](https://arxiv.org/abs/1609.03193)
