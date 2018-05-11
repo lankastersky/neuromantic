@@ -174,6 +174,9 @@ Code repositories
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
 
 ### Semantic Segmentation
+- [What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)? 2018](https://medium.com/@jonathan_hui/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9)
+- [What do we learn from single shot object detectors (SSD, YOLOv3), FPN & Focal loss (RetinaNet)? 2018](https://medium.com/@jonathan_hui/what-do-we-learn-from-single-shot-object-detectors-ssd-yolo-fpn-focal-loss-3888677c5f4d)
+- [Design choices, lessons learned and trends for object detections?](https://medium.com/@jonathan_hui/design-choices-lessons-learned-and-trends-for-object-detections-4f48b59ec5ff)
 - [Semantic Image Segmentation with DeepLab in Tensorflow, 2018](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
   - model DeepLab-v3+ built on top of CNN
 - https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
