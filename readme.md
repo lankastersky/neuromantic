@@ -268,6 +268,7 @@ Return the name of a concept given a definition or description:
 - see bag-of-word
 
 ### Sequence to sequence
+- [Smart Compose: Using Neural Networks to Help Write Emails, 2018](https://ai.googleblog.com/2018/05/smart-compose-using-neural-networks-to.html)
 - [Introducing Semantic Experiences with Talk to Books and Semantris by Rey Kurzweil et al, 2018](https://research.googleblog.com/2018/04/introducing-semantic-experiences-with.html)
   - [Universal Sentence Encoder Daniel Cer et al, 2018](https://arxiv.org/abs/1803.11175)
   - [Pretrained semantic TensorFlow module](https://www.tensorflow.org/hub/modules/google/universal-sentence-encoder/1)
