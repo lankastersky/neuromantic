@@ -303,10 +303,11 @@ Return the name of a concept given a definition or description:
     - [example](http://sujitpal.blogspot.com/2017/05/evaluating-simple-but-tough-to-beat.html)
     - https://github.com/peter3125/sentence2vec - requires writing the get_word_frequency() method which can be easily accomplished by using Python's Counter() and returning a dict with keys: unique words w, values: #w/#total doc len
 
-Evaluation:
-- [Semantic Textual Similarity Wiki](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
-
 ### Semantic analysis
+- [Advances in Semantic Textual Similarity, 2018](https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html)
+  - [Learning Semantic Textual Similarity from Conversations by Yinfei Yang et al, 2018](https://arxiv.org/abs/1804.07754)
+  - [Universal Sentence Encoder by Daniel Cer et al, 2018](https://arxiv.org/abs/1803.11175)
+- [Semantic Textual Similarity Wiki, 2017](http://ixa2.si.ehu.es/stswiki/index.php/Main_Page)
 - [A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks by Soujanya Poria et al, 2017](https://arxiv.org/abs/1610.08815)
   - Blog post: [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 - [Twitter Sentiment Analysis Using Combined LSTM-CNN Models by SOSAVPM, 2018](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
