@@ -374,6 +374,9 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm by Walid Mahdi et al, 2000](https://arxiv.org/abs/1412.4470)
 
 ### Video captioning
+- [Deep Video Analytics](https://www.deepvideoanalytics.com/)
+  - Data-centric platform for Computer Vision
+   - https://github.com/akshayubhat/deepvideoanalytics
 - [DeepStory: Video Story QA by Deep Embedded Memory Networks by Kyung-Min Kim et al, 2017](https://arxiv.org/abs/1707.00836)
   - https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
