@@ -687,7 +687,8 @@ Back-propagation problems:
 - [Statistics is Easy! by Dennis Shasha, 2010](https://www.amazon.com/Statistics-Second-Synthesis-Lectures-Mathematics/dp/160845570X)
 
 # Datasets
-
+- [Microsoft Research Open Data](https://msropendata.com/)
+  - users can also copy datasets directly to an Azure based Data Science virtual machine
 ## Audios
 - [The VU sound corpus](https://github.com/CrowdTruth/vu-sound-corpus) - based on https://freesound.org/ database
   - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
