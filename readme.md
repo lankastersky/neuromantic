@@ -427,6 +427,7 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - Text Analysis, NLP, Sentiment Analysis
   - Language Translation
   - Machine Learning and prediction
+- [Command-line tricks data scientists](https://www.kdnuggets.com/2018/06/command-line-tricks-data-scientists.html)
 - [Deep Video Analytics](https://www.deepvideoanalytics.com/)
   - Data-centric platform for Computer Vision
    - https://github.com/akshayubhat/deepvideoanalytics
