@@ -16,6 +16,8 @@
   - [Programming and ML](#programming-and-ml)
     - [Predict defects](#predict-defects)
     - [Predict performance](#predict-performance)
+    - [Searchinng code](#searching-code)
+    - [Writing code](#writing-code)
   - [NLP](#nlp)
     - [Chatbots](#chatbots)
     - [Crossword question answerers](#crossword-question-answerers)
@@ -202,12 +204,10 @@ Code repositories
 ## Programming and ML
 - [TREE-TO-TREE NEURAL NETWORKS FOR PROGRAM TRANSLATION by Xinyun Chen et al, 2018](https://openreview.net/pdf?id=rkxY-sl0W)
 - [Software	is	eating	the	world,	but	ML	is	going	to	eat	software by Erik Meijer, Facebook, 2018](https://pps2018.soic.indiana.edu/files/2017/12/PPS2018Meijer.pdf)
-- [To type or not to type: quantifying detectable bugs in JavaScript by Gao et al, 2017](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/)
 - [A Survey of Machine Learning for Big Code and Naturalness by Miltiadis Allamanis et al, 2017](https://arxiv.org/abs/1709.06182)
-- https://www.deepcode.ai
-- https://codescene.io
 
 ### Predict defects
+- [To type or not to type: quantifying detectable bugs in JavaScript by Gao et al, 2017](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/)
 - [Predicting Defects for Eclipse by T Zimmermann at al, 2007](http://thomas-zimmermann.com/publications/files/zimmermann-promise-2007.pdf)
   - used code complexity metrics as features and logistic regression for classification (if file/module has defects) and linear regression for ranking (how many defects)
 - [Predicting Component Failures at Design Time by Adrian Schroter et al, 2006](http://thomas-zimmermann.com/publications/files/schroeter-isese-2006.pdf)
@@ -216,10 +216,19 @@ Code repositories
 - [Mining Version Histories to Guide Software Changes by T Zimmermann at al, 2004](http://www.ics.uci.edu/~andre/ics228s2006/zimmermanweissgerberdiehlzeller.pdf)
   - used [apriory algorithm](https://en.wikipedia.org/wiki/Apriori_algorithm) to predict likely changes in files/modules
 
-# Predict performance
-  - [3 ways AI will change project management for the better, 2017](https://www.atlassian.com/blog/software-teams/3-ways-ai-will-change-project-management-better)
+### Predict performance
+- https://codescene.io
+- [3 ways AI will change project management for the better, 2017](https://www.atlassian.com/blog/software-teams/3-ways-ai-will-change-project-management-better)
 - [A deep learning model for estimating story points by Morakot Choetkiertikul et al, 2016](https://arxiv.org/pdf/1609.00489.pdf)
   - estimating story points based on long short-term memory and recurrent highway network
+
+### Searching code
+- [Deep code search by Xiaodong Gu1 et al, 2018](https://guxd.github.io/papers/deepcs.pdf)
+  - [blog post](https://blog.acolyer.org/2018/06/26/deep-code-search/)
+- [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning, 2018](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+
+### Writing code
+- https://www.deepcode.ai
 
 ## NLP
 - [Text Embedding Models Contain Bias. Here's Why That Matters, 2018](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
