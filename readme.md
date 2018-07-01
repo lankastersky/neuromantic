@@ -43,6 +43,7 @@
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
+  - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Mobile Vision](#google-mobile-vision)
@@ -441,6 +442,21 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - Data-centric platform for Computer Vision
    - https://github.com/akshayubhat/deepvideoanalytics
    
+## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
+- Uses Google Cloud APIs under the hood
+- Uses custom TensorFlow Lite models
+- Can compress TensorFlow to TensorFlow Lite models
+- Runs on a device (fast, inaccurate) or on a cloud
+- codelabs
+  - [Recognize text in images with ML Kit for Firebase: iOS](https://codelabs.developers.google.com/codelabs/mlkit-ios/#0)
+  - [Recognize text in images with ML Kit for Firebase: Android](https://codelabs.developers.google.com/codelabs/mlkit-android/#0)
+  - (Identify objects in images using custom machine learning models with ML Kit for Firebase: Android)[https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#0]
+
+- https://github.com/firebase/quickstart-ios/tree/master/mlvision
+- https://github.com/firebase/quickstart-ios/tree/master/shared 
+- https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter 
+
+
 ## [Google Cloud AutoML](https://cloud.google.com/automl/)
 
 Pros:
