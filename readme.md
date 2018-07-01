@@ -43,7 +43,7 @@
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
-  - [Firebase ML Kit](#firebase-ml-kit)
+  - [' ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Mobile Vision](#google-mobile-vision)
@@ -443,19 +443,18 @@ Detects when one video (shot/scene/chapter) ends and another begins
    - https://github.com/akshayubhat/deepvideoanalytics
    
 ## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
+- [ML Kit: Machine Learning SDK for mobile developers (Google I/O '18)](https://www.youtube.com/watch?v=Z-dqGRSsaBs)
 - Uses Google Cloud APIs under the hood
 - Uses custom TensorFlow Lite models
 - Can compress TensorFlow to TensorFlow Lite models
 - Runs on a device (fast, inaccurate) or on a cloud
-- codelabs
+- Examples and codelabs
   - [Recognize text in images with ML Kit for Firebase: iOS](https://codelabs.developers.google.com/codelabs/mlkit-ios/#0)
   - [Recognize text in images with ML Kit for Firebase: Android](https://codelabs.developers.google.com/codelabs/mlkit-android/#0)
   - (Identify objects in images using custom machine learning models with ML Kit for Firebase: Android)[https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#0]
-
-- https://github.com/firebase/quickstart-ios/tree/master/mlvision
-- https://github.com/firebase/quickstart-ios/tree/master/shared 
-- https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter 
-
+  - https://github.com/firebase/quickstart-ios/tree/master/mlvision
+  - https://github.com/firebase/quickstart-ios/tree/master/shared 
+  - https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter 
 
 ## [Google Cloud AutoML](https://cloud.google.com/automl/)
 
@@ -472,13 +471,9 @@ Cons:
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
 
 ## [Google Mobile Vision](https://developers.google.com/vision/)
-
-Pros:
 - Detect Faces (finds facial landmarks such as the eyes, nose, and mouth; doesn't identifies a person)
 - Scan barcodes
 - Recognize Text
-
-Cons:
 
 ## [Google Video Intelligence](https://cloud.google.com/video-intelligence/)
 - Label Detection - Detect entities within the video, such as "dog", "flower" or "car"
