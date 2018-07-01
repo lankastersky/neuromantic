@@ -43,7 +43,7 @@
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
-  - [' ML Kit](#firebase-ml-kit)
+  - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Mobile Vision](#google-mobile-vision)
