@@ -28,6 +28,7 @@
     - [Semantic analysis](#semantic-analysis)
     - [Spelling](#spelling)
     - [Summarization](#summarization)
+    - [Text classification](#text-classification)
     - [Text to Image](#text-to-image)
     - [Text to Speech](#text-to-speech)
   - [Personality recognition](#personality-recognition)
@@ -331,6 +332,12 @@ Return the name of a concept given a definition or description:
 
 ### Summarization
 - [Generating Wikipedia by Summarizing Long Sequences by Peter J. Liu et al, 2018](https://arxiv.org/abs/1801.10198)
+
+### Text classification
+- [Universal Language Model Fine-tuning for Text Classification by Jeremy Howard et al, 2018](https://arxiv.org/pdf/1801.06146.pdf)
+  - outperforms the state-of-the-art on six text classification tasks, reducing the error by 18-24% on the majority of datasets.
+  - with only 100 labeled examples, it matches the performance of training from scratch on 100× more data
+  - http://nlp.fast.ai/ulmfit
 
 ### Text to Image
 - [ChatPainter: Improving text-to-image generation by using dialogue](https://www.microsoft.com/en-us/research/blog/chatpainter-improving-text-image-generation-using-dialogue/)
