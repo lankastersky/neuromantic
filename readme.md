@@ -336,6 +336,9 @@ Return the name of a concept given a definition or description:
 - [How to Write a Spelling Corrector](http://norvig.com/spell-correct.html)
 
 ### Summarization
+- [How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
+  - A tutorial on how to summarize text and generate features from Github Issues using deep learning with Keras and TensorFlow
+  - https://github.com/hamelsmu/Seq2Seq_Tutorial
 - [Generating Wikipedia by Summarizing Long Sequences by Peter J. Liu et al, 2018](https://arxiv.org/abs/1801.10198)
 
 ### Text classification
