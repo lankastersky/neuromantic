@@ -233,6 +233,9 @@ Code repositories
 - https://www.deepcode.ai
 
 ## NLP
+- [SentEval: An Evaluation Toolkit for Universal Sentence Representations by A. Conneau et al, 2018](https://arxiv.org/abs/1803.05449)
+  - https://github.com/facebookresearch/SentEval
+  - the benchmarks may not be appropriate for domain-specific problems
 - [Text Embedding Models Contain Bias. Here's Why That Matters, 2018](https://developers.googleblog.com/2018/04/text-embedding-models-contain-bias.html)
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
 
