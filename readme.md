@@ -229,6 +229,7 @@ Code repositories
   - [blog post](https://blog.acolyer.org/2018/06/26/deep-code-search/)
 - [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning, 2018](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
   - https://github.com/hamelsmu/code_search
+  - you can use similar techniques to search video, audio, and other objects
 
 ### Writing code
 - https://www.deepcode.ai
