@@ -228,6 +228,7 @@ Code repositories
 - [Deep code search by Xiaodong Gu1 et al, 2018](https://guxd.github.io/papers/deepcs.pdf)
   - [blog post](https://blog.acolyer.org/2018/06/26/deep-code-search/)
 - [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning, 2018](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+  - https://github.com/hamelsmu/code_search
 
 ### Writing code
 - https://www.deepcode.ai
