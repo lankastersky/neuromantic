@@ -525,6 +525,7 @@ Tools to help you configure, organize, log and reproduce experiments
 - [TensorFlow Hub](https://www.tensorflow.org/hub/)
 
 # Playgrounds
+- [SEEDBANK](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples
 - [AI Lab: Learn to Code with the Cutting-Edge Microsoft AI Platform, 2018](https://blogs.technet.microsoft.com/machinelearning/2018/06/19/ai-lab-learn-about-experience-code-with-the-cutting-edge-microsoft-ai-platform/)
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
