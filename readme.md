@@ -706,6 +706,7 @@ Back-propagation problems:
 
 # Interview preparation
 - [20 Questions to Detect Fake Data Scientists and How to Answer Them, 2018](https://medium.com/@kojinoshiba/20-questions-to-detect-fake-data-scientists-and-how-to-answer-them-16c816829294)
+- [Собеседование по Data Science: чего от вас ждут, 2018](https://habr.com/company/epam_systems/blog/350654/)
 - [Acing AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
 
 # MOOC
