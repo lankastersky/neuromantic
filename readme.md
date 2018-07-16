@@ -705,6 +705,7 @@ Back-propagation problems:
 - [Software 2.0 by Andrej Karpathy, 2017](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 
 # Interview preparation
+- [20 Questions to Detect Fake Data Scientists and How to Answer Them, 2018](https://medium.com/@kojinoshiba/20-questions-to-detect-fake-data-scientists-and-how-to-answer-them-16c816829294)
 - [Acing AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
 
 # MOOC
