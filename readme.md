@@ -36,7 +36,7 @@
   - [Transfer Learning](#transfer-learning)
   - [Uber](#uber)
   - [Video recognition](#video-recognition)
-    - [Body Recognition](#body-recognition)
+    - [Pose Recognition](#pose-recognition)
     - [Object Detection](#object-detection)
     - [Scene Segmentation](#scene-segmentation)
     - [Video Captioning](#video-captioning)
@@ -189,9 +189,9 @@ Code repositories
 - [Design choices, lessons learned and trends for object detections?](https://medium.com/@jonathan_hui/design-choices-lessons-learned-and-trends-for-object-detections-4f48b59ec5ff)
 - [Semantic Image Segmentation with DeepLab in Tensorflow, 2018](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
   - model DeepLab-v3+ built on top of CNN
+  - https://github.com/tensorflow/models/tree/master/research/deeplab
 - https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
-- [DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1606.00915.pdf)
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
 
 ## Interpretability
@@ -383,7 +383,8 @@ Return the name of a concept given a definition or description:
 
 ## Video recognition
 
-### Body recognition
+### Pose recognition
+- [Pose Detection in the Browser: PoseNet Model](https://github.com/tensorflow/tfjs-models/tree/master/posenet) (github)
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 
 ### Object detection
