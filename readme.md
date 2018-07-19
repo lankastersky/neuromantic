@@ -235,6 +235,7 @@ Code repositories
   - you can use similar techniques to search video, audio, and other objects
 
 ### Writing code
+- [Program Synthesis in 2017-18](https://alexpolozov.com/blog/program-synthesis-2018/)
 - https://www.deepcode.ai
 
 ## NLP
