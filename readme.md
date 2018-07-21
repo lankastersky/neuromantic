@@ -31,6 +31,7 @@
     - [Text classification](#text-classification)
     - [Text to Image](#text-to-image)
     - [Text to Speech](#text-to-speech)
+  - [Performance](#performance)
   - [Personality recognition](#personality-recognition)
   - [Search](#search)
   - [Transfer Learning](#transfer-learning)
@@ -179,6 +180,12 @@ Code repositories
 - [Exploring the Limits of Weakly Supervised Pretraining by Dhruv Mahajan et al, 2018](https://arxiv.org/abs/1805.00932)
   - blogpost: [Advancing state-of-the-art image recognition with deep learning on hashtags](https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/)
 - [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge by Oriol Vinyals et al, 2016](https://arxiv.org/abs/1609.06647)
+
+### Performance
+- [Quantizing deep convolutional networks for efficient inference: A whitepaper by Raghuraman Krishnamoorthi, 2018](https://arxiv.org/abs/1806.08342)
+  - Model sizes can be reduced by a factor of 4 by quantizing weights to 8-bits
+  - speedup of 2x-3x for quantized implementations compared to floating point on CPUs
+  - [Fixed Point Quantization with tensorflow](https://www.tensorflow.org/performance/quantization)
 
 ### Person Detection
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
