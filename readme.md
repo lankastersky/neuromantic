@@ -48,6 +48,7 @@
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
+  - [Google Deep Learning Virtual Machine](#google-deep-learning-virtual-machine)
   - [Google Mobile Vision](#google-mobile-vision)
   - [Google Video Intelligence](#google-video-intelligence)
   - [Experiments Frameworks](#experiments-frameworks)
@@ -497,6 +498,9 @@ Cons:
 
 ## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
+
+## [Google Deep Learning Virtual Machine](https://cloud.google.com/deep-learning-vm/docs/)
+- VMs with CPU and GPU 
 
 ## [Google Mobile Vision](https://developers.google.com/vision/)
 - Detect Faces (finds facial landmarks such as the eyes, nose, and mouth; doesn't identifies a person)
