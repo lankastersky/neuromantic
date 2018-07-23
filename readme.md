@@ -179,6 +179,8 @@ Code repositories
 ### Image Captioning
 - [Exploring the Limits of Weakly Supervised Pretraining by Dhruv Mahajan et al, 2018](https://arxiv.org/abs/1805.00932)
   - blogpost: [Advancing state-of-the-art image recognition with deep learning on hashtags](https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/)
+- [https://github.com/neural-nuts/Cam2Caption](https://github.com/neural-nuts/Cam2Caption)
+  - An Android application which converts camera feed to natural language captions in real time
 - [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge by Oriol Vinyals et al, 2016](https://arxiv.org/abs/1609.06647)
 
 ### Performance
