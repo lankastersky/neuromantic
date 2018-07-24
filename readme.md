@@ -404,8 +404,11 @@ Return the name of a concept given a definition or description:
 ## Video recognition
 
 ### Pose recognition
-- [Pose Detection in the Browser: PoseNet Model](https://github.com/tensorflow/tfjs-models/tree/master/posenet) (github)
+- [Real-time Human Pose Estimation in the Browser with TensorFlow.js, 2018](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) (Medium post)
+  - [Pose Detection in the Browser: PoseNet Model](https://github.com/tensorflow/tfjs-models/tree/master/posenet) (github)
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
+- [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model by George Papandreou et al, 2018](https://arxiv.org/abs/1803.08225)
+- [Towards Accurate Multi-person Pose Estimation in the Wild by George Papandreou et al, 2017](https://arxiv.org/abs/1701.01779)
 
 ### Object detection
 - [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs, 2018](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
