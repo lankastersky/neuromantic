@@ -408,6 +408,8 @@ Return the name of a concept given a definition or description:
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 
 ### Object detection
+- [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs, 2018](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
+  - includes checkpoints
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
   - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
