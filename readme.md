@@ -497,9 +497,10 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - Examples and codelabs
   - [Recognize text in images with ML Kit for Firebase: iOS](https://codelabs.developers.google.com/codelabs/mlkit-ios/#0)
   - [Recognize text in images with ML Kit for Firebase: Android](https://codelabs.developers.google.com/codelabs/mlkit-android/#0)
-  - (Identify objects in images using custom machine learning models with ML Kit for Firebase: Android)[https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#0]
-  - ML Vision https://github.com/firebase/quickstart-ios/tree/master/mlvision
-  - Custom model https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter 
+  - [Identify objects in images using custom machine learning models with ML Kit for Firebase: Android](https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#0)
+  - [ML Vision iOS example](https://github.com/firebase/quickstart-ios/tree/master/mlvision) 
+  - [Custom model iOS example](https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter)
+  - [android examples](https://github.com/firebase/quickstart-android/tree/master/mlkit)
 
 ## [Google Cloud AutoML](https://cloud.google.com/automl/)
 
