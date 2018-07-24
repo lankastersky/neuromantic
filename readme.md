@@ -181,7 +181,6 @@ Code repositories
 - [Building an image caption generator with Deep Learning in Tensorflow, 2018](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
   - https://github.com/ColeMurray/medium-show-and-tell-caption-generator with docker
   - [Show and Tell: A Neural Image Caption Generator by Oriol Vinyals et al, 2014](https://arxiv.org/abs/1411.4555)
-  - 
 - [Exploring the Limits of Weakly Supervised Pretraining by Dhruv Mahajan et al, 2018](https://arxiv.org/abs/1805.00932)
   - blogpost: [Advancing state-of-the-art image recognition with deep learning on hashtags](https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/)
 - [https://github.com/neural-nuts/Cam2Caption](https://github.com/neural-nuts/Cam2Caption)
@@ -190,6 +189,8 @@ Code repositories
   - https://github.com/tensorflow/models/tree/master/research/im2txt 
     - training python scripts
     - requires a pretrained Inception v3 checkpoint
+  - https://github.com/KranthiGV/Pretrained-Show-and-Tell-model with checkpoints
+    - [TensorFlow Deep Learning Machine ezDIY](https://jeffxtang.github.io/deep/learning,/hardware,/gpu,/performance/2017/02/14/deep-learning-machine.html)
   - https://github.com/LitleCarl/ShowAndTell - swift app and training scripts using Keras
 
 ### Performance
