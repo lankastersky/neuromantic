@@ -178,6 +178,9 @@ Code repositories
 - [Calories nutrition dataset](http://www.fatsecret.com/calories-nutrition/)
 
 ### Image Captioning
+- [Building an image caption generator with Deep Learning in Tensorflow, 2018](https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f)
+  - https://github.com/ColeMurray/medium-show-and-tell-caption-generator with docker
+  - [Show and Tell: A Neural Image Caption Generator by Oriol Vinyals et al, 2014](https://arxiv.org/abs/1411.4555)
 - [Exploring the Limits of Weakly Supervised Pretraining by Dhruv Mahajan et al, 2018](https://arxiv.org/abs/1805.00932)
   - blogpost: [Advancing state-of-the-art image recognition with deep learning on hashtags](https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/)
 - [https://github.com/neural-nuts/Cam2Caption](https://github.com/neural-nuts/Cam2Caption)
@@ -542,6 +545,12 @@ Tools to help you configure, organize, log and reproduce experiments
 
 ## [TensorFlow](https://www.tensorflow.org/)
 - [TensorFlow Hub](https://www.tensorflow.org/hub/)
+- https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples
+  - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+    - TF Classify
+    - TF Detect
+    - TF Stylize
+    - TF Speech
 
 # Playgrounds
 - [SEEDBANK](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples
