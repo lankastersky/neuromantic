@@ -45,6 +45,7 @@
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
+  - [ARCore](#arcore)
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
@@ -493,6 +494,11 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - Data-centric platform for Computer Vision
    - https://github.com/akshayubhat/deepvideoanalytics
    
+## [ARCore](https://developers.google.com/ar/develop/)
+- https://github.com/google-ar/arcore-android-sdk
+- https://github.com/google-ar/sceneform-android-sdk
+- https://github.com/google-ar/arcore-ios-sdk
+
 ## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
 - [ML Kit: Machine Learning SDK for mobile developers (Google I/O '18)](https://www.youtube.com/watch?v=Z-dqGRSsaBs)
 - Uses Google Cloud APIs under the hood
