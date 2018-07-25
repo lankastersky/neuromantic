@@ -583,6 +583,7 @@ Tools to help you configure, organize, log and reproduce experiments
     - TF Speech
   - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite/java/demo
     - TF classify using tflite model
+  - [Freeze tensorflow model graph](https://www.tensorflow.org/mobile/tflite/devguide#freeze_graph)
     
 # Playgrounds
 - [SEEDBANK](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples
