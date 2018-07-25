@@ -213,7 +213,7 @@ Code repositories
   - model DeepLab-v3+ built on top of CNN
   - https://github.com/tensorflow/models/tree/master/research/deeplab
   - [Deeplab demo on python](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
-  - https://github.com/dailystudio/ml/tree/master/deeplab (android)
+  - https://github.com/lankastersky/deeplab_background_segmentation (android)
 - https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
