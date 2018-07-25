@@ -420,6 +420,8 @@ Return the name of a concept given a definition or description:
   - [YOLOv3: An Incremental Improvement by Joseph Redmon, Ali Farhadi, 2018](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
 - [Mobile Real-time Video Segmentation, 2018](https://research.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
   - integrated into Youtube stories
+- [The Instant Motion Tracking Behind Motion Stills AR, 2018](https://ai.googleblog.com/2018/02/the-instant-motion-tracking-behind.html)
+- [Behind the Motion Photos Technology in Pixel 2, 2018](https://ai.googleblog.com/2018/03/behind-motion-photos-technology-in.html)
 - [Supercharge your Computer Vision models with the TensorFlow Object Detection API, 2017](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
   - https://github.com/tensorflow/models/tree/master/research/object_detection
 - [Ridiculously Fast Shot Boundary Detection with Fully Convolutional Neural Networks by Michael Gygli, 2017](https://arxiv.org/abs/1705.08214)
