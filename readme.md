@@ -193,6 +193,7 @@ Code repositories
   - https://github.com/KranthiGV/Pretrained-Show-and-Tell-model with checkpoints
     - [TensorFlow Deep Learning Machine ezDIY](https://jeffxtang.github.io/deep/learning,/hardware,/gpu,/performance/2017/02/14/deep-learning-machine.html)
   - https://github.com/LitleCarl/ShowAndTell - swift app and training scripts using Keras
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention by Kelvin Xu et al, 2016](https://arxiv.org/abs/1502.03044)
 
 ### Performance
 - [Quantizing deep convolutional networks for efficient inference: A whitepaper by Raghuraman Krishnamoorthi, 2018](https://arxiv.org/abs/1806.08342)
