@@ -185,6 +185,7 @@ Code repositories
   - blogpost: [Advancing state-of-the-art image recognition with deep learning on hashtags](https://code.facebook.com/posts/1700437286678763/advancing-state-of-the-art-image-recognition-with-deep-learning-on-hashtags/)
 - [https://github.com/neural-nuts/Cam2Caption](https://github.com/neural-nuts/Cam2Caption)
   - An Android application which converts camera feed to natural language captions in real time
+  - tested: low accuracy, slow (big .pb file is used)
 - [Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge by Oriol Vinyals et al, 2016](https://arxiv.org/abs/1609.06647)
   - https://github.com/tensorflow/models/tree/master/research/im2txt 
     - training python scripts
@@ -198,6 +199,7 @@ Code repositories
   - Model sizes can be reduced by a factor of 4 by quantizing weights to 8-bits
   - speedup of 2x-3x for quantized implementations compared to floating point on CPUs
   - [Fixed Point Quantization with tensorflow](https://www.tensorflow.org/performance/quantization)
+- [Removing training-only nodes](https://www.tensorflow.org/mobile/prepare_models#removing_training_only_nodes) with Tensorflow
 
 ### Person Detection
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
