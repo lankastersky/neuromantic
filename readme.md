@@ -497,6 +497,7 @@ Detects when one video (shot/scene/chapter) ends and another begins
 ## [ARCore](https://developers.google.com/ar/develop/)
 - https://github.com/google-ar/arcore-android-sdk
 - https://github.com/google-ar/sceneform-android-sdk
+- [Cloud Anchors android codelab](https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors/#0)
 - https://github.com/google-ar/arcore-ios-sdk
 
 ## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
