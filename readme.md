@@ -402,8 +402,9 @@ Return the name of a concept given a definition or description:
   - [Improving Document Ranking with Dual Word Embeddings by Eric Nalisnick et al, 2016](https://www.microsoft.com/en-us/research/publication/improving-document-ranking-with-dual-word-embeddings/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2Fdefault.aspx%3Fid%3D260867)
 
 ## Transfer Learning
-- [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
-- [Image Classification using Flowers dataset on Cloud ML Enginge](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
+- [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python, 2018](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
+- [Image Classification using Flowers dataset on Cloud ML Enginge, 2018](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
+- [Android & TensorFlow: Artistic Style Transfer, 2018](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/index.html#0) codelab
 
 ## Uber
 - [Engineering More Reliable Transportation with Machine Learning and AI at Uber, 2017](https://eng.uber.com/machine-learning/)
