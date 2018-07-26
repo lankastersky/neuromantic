@@ -205,7 +205,7 @@ Code repositories
 - [Graph transform](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/tools/graph_transforms/README.md) with TensorFlow
   - [Removing training-only nodes](https://www.tensorflow.org/mobile/prepare_models#removing_training_only_nodes) with Tensorflow
 - [Optimize for inference](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/tools/optimize_for_inference.py)  with TensorFlow
-  - [Optimize for inference](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#3) codelab
+  - See example in [TensorFlow for Poets 2: TFMobile](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#3) codelab
 
 ### Person Detection
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
