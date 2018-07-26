@@ -203,6 +203,7 @@ Code repositories
   - speedup of 2x-3x for quantized implementations compared to floating point on CPUs
   - [Fixed Point Quantization with tensorflow](https://www.tensorflow.org/performance/quantization)
 - [Removing training-only nodes](https://www.tensorflow.org/mobile/prepare_models#removing_training_only_nodes) with Tensorflow
+- [Optimize for inference](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/#3) codelab with TensorFlow
 
 ### Person Detection
 - [Automatic Portrait Segmentation for Image Stylization by Xiaoyong Shen1 et al, 2016](http://www.cse.cuhk.edu.hk/leojia/papers/portrait_eg16.pdf)
