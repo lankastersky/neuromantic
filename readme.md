@@ -416,7 +416,7 @@ Return the name of a concept given a definition or description:
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
 - [PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model by George Papandreou et al, 2018](https://arxiv.org/abs/1803.08225)
 - [Towards Accurate Multi-person Pose Estimation in the Wild by George Papandreou et al, 2017](https://arxiv.org/abs/1701.01779)
-- [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields by Zhe Cao et al, 2017]
+- [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields by Zhe Cao et al, 2017](https://arxiv.org/abs/1611.08050)
   - https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 
 ### Object detection
