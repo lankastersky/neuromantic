@@ -58,6 +58,7 @@
   - [Microsoft Azure Machine Learning](#microsoft-azure-machine-learning)
   - [Microsoft Cognitive Services](#microsoft-cognitive-services)
   - [Microsoft Cognitive Toolkit](#microsoft-cognitive-toolkit)
+  - [Supervisely](#supervisely)
   - [Syn Bot Oscova](#syn-botoscova)
   - [TensorFlow](#tensorflow)
 - [Playgrounds](#playgrounds)
@@ -568,6 +569,10 @@ Tools to help you configure, organize, log and reproduce experiments
 ## [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services)
 
 ## [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)
+
+### [Supervisely](https://supervise.ly/)
+- Annotate images for computer vision tasks using AI
+- https://github.com/supervisely/supervisely
 
 ## [Syn Bot Oscova](https://developer.syn.co.in/tutorial/bot/oscova/machine-learning.html)
 - [finds similarity between the expressions](https://forum.syn.co.in/viewtopic.php?t=1845&p=3209)
