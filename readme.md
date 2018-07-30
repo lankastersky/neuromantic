@@ -218,10 +218,13 @@ Code repositories
 - [Semantic Image Segmentation with DeepLab in Tensorflow, 2018](https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html)
   - model DeepLab-v3+ built on top of CNN
   - https://github.com/tensorflow/models/tree/master/research/deeplab
+  - has [Checkpoints and frozen inference graphs](https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md)
   - [Deeplab demo on python](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
-  - https://github.com/lankastersky/deeplab_background_segmentation (android)
+  -  support adopting MobileNetv2 for mobile devices and Xception for server-side deployment
+  - evaluates results in terms of mIOU (mean intersection-over-union)
+  - use PASCAL VOC 2012 and Cityscapes semantic segmentation benchmarks as an example in the code
+  - https://github.com/lankastersky/deeplab_background_segmentation (not working android app)
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
-- [
 MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features by Liang-Chieh Chen et al, 2017](https://arxiv.org/abs/1712.04837)
   - present a model, called MaskLab, which produces three outputs: box detection, semantic segmentation, and direction prediction	
   - built on top of the Faster-RCNN object detector
