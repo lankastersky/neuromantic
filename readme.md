@@ -6,7 +6,7 @@
   - [Design](#design)
   - [Games](#games)
   - [Gesture Recognition](#gesture-recognition)
-  - [Hyperparameter Tuning]*(#hyperparameter-tuning)
+  - [Hyperparameter Tuning](#hyperparameter-tuning)
   - [Image Recognition](#image-recognition)
     - [Face Recognition](#face-recognition)
     - [Food Recognition](#food-recognition)
