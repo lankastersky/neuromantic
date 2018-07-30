@@ -236,6 +236,7 @@ MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Di
   - simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps
   - easy to generalize to other tasks, e.g., allowing us to estimate human poses in the same framework
   - outperforms all existing, single-model entries on every task, including the COCO 2016 challenge winners
+  - uses [the area under the precision recall curve (AP)](https://github.com/cocodataset/cocoapi/issues/56) metrics
 - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, 2017](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 ## Interpretability
