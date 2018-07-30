@@ -229,6 +229,10 @@ MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Di
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
   - https://github.com/facebookresearch/Detectron
   - see links to articles at the end of the page
+  - extends Faster R-CNN by adding a branch for predicting an object mask in parallel with the existing branch for bounding box recognition
+  - simple to train and adds only a small overhead to Faster R-CNN, running at 5 fps
+  - easy to generalize to other tasks, e.g., allowing us to estimate human poses in the same framework
+  - outperforms all existing, single-model entries on every task, including the COCO 2016 challenge winners
 - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, 2017](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 ## Interpretability
