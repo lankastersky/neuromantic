@@ -46,6 +46,7 @@
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
+  - [Amazon SageMaker](#amazon-sagemaker)
   - [ARCore](#arcore)
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
@@ -523,7 +524,17 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [Deep Video Analytics](https://www.deepvideoanalytics.com/)
   - Data-centric platform for Computer Vision
    - https://github.com/akshayubhat/deepvideoanalytics
-   
+
+## [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
+- Distributed Training: You can’t choose the number of workers and parameter servers independently
+- Job Startup Latency: Up to 5 minutes single node
+- Hyper Parameters Tuning: In-Preview, and only supports the built-in algorithms
+- Batch Prediction: Not supported
+- GPU readiness: Bring your own docker image with CUDA installed
+- Auto-scale Online Serving: You need to specify the number of nodes
+- Training Job Monitoring: No monitoring
+
+
 ## [ARCore](https://developers.google.com/ar/develop/)
 - https://github.com/google-ar/arcore-android-sdk
 - https://github.com/google-ar/sceneform-android-sdk
@@ -558,6 +569,16 @@ Cons:
 ## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
 - [Samples for usage](https://github.com/GoogleCloudPlatform/cloudml-samples)
+- Distributed Training: Specify number of nodes, types, (workers/PS), associated accelerators, and sizes
+- Job Startup Latency: 90 seconds for single node
+- Hyper Parameters Tuning: Grid Search, Random Search, and Bayesian Optimisation
+- Batch Prediction: You can submit a batch prediction job for high throughputs
+- GPU readiness: Out-of-the box, either via scale-tier, or config file
+- Auto-scale Online Serving: Scaled up to your specified maximum number of nodes, down to 0 nodes if no requests for 5 minutes
+- Training Job Monitoring: Full monitoring to the cluster nodes (CPU, Memory, etc.)
+- Automation of ML: AutoML - Vision, NLP, Speech, etc.
+- Specialised Hardware: Tensor Processing Units (TPUs)
+- SQL-supported ML: [BQML](https://cloud.google.com/blog/big-data/2018/07/bridging-the-gap-between-data-and-insights)
 
 ## [Google Deep Learning Virtual Machine](https://cloud.google.com/deep-learning-vm/docs/)
 - VMs with CPU and GPU 
@@ -828,6 +849,7 @@ Back-propagation problems:
 # Datasets
 - [Microsoft Research Open Data](https://msropendata.com/)
   - users can also copy datasets directly to an Azure based Data Science virtual machine
+  
 ## Audios
 - [The VU sound corpus](https://github.com/CrowdTruth/vu-sound-corpus) - based on https://freesound.org/ database
   - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
