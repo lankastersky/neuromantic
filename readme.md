@@ -43,6 +43,7 @@
     - [Scene Segmentation](#scene-segmentation)
     - [Video Captioning](#video-captioning)
     - [Video Classification](#video-classification)
+  - [Visualization](#visualization)
   - [Multiple Modalities](#multiple-modalities)
   - [Open problems](#open-problems)
 - [Tools](#tools)
@@ -506,6 +507,14 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - In order to learn a global description of the video while maintaining a low computational footprint, we propose processing only one frame per second
 - [Large-scale Video Classification with Convolutional Neural Networks by Andrej Karpathy et al, 2014](https://cs.stanford.edu/people/karpathy/deepvideo/)
   - 63.3% on UCF-101
+
+## Visualization
+- [Google Brain: Big Picture Group](https://research.google.com/bigpicture/)
+- [Deeplearn.js](https://github.com/tensorflow/tfjs-core) - open source hardware-accelerated machine intelligence library for the web
+- [Facets](https://pair-code.github.io/facets/) - open source visualizations for machine learning datasets
+  - [Facets: An Open Source Visualization Tool for Machine Learning Training Data, 2017](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+  - https://github.com/PAIR-code/facets
+- [Embedding Projector](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/projector) - an open source, visualization tool for high-dimensional data
 
 ## Multiple Modalities
 - [Multimodal Classification for Analysing Social Media by Chi Thang Duong et al, 2017](https://arxiv.org/abs/1708.02099)
