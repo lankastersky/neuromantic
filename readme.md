@@ -6,6 +6,7 @@
   - [Design](#design)
   - [Games](#games)
   - [Gesture Recognition](#gesture-recognition)
+  - [Hyperparameter Tuning]*(#hyperparameter-tuning)
   - [Image Recognition](#image-recognition)
     - [Face Recognition](#face-recognition)
     - [Food Recognition](#food-recognition)
@@ -145,6 +146,10 @@ Apps
 Code repositories
 - https://github.com/droiddeveloper1/android-wear-gestures-recognition
 - https://github.com/drejkim/AndroidWearMotionSensors
+
+## Hyperparameter Tuning
+- [Hyperparameter tuning on Google Cloud Platform is now faster and smarter](https://cloud.google.com/blog/big-data/2018/03/hyperparameter-tuning-on-google-cloud-platform-is-now-faster-and-smarter)
+- [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization, 2017](https://cloud.google.com/blog/big-data/2017/08/hyperparameter-tuning-in-cloud-machine-learning-engine-using-bayesian-optimization)
 
 ## Image Recognition
 - [MobileNetV2: The Next Generation of On-Device Computer Vision Networks, 2018](https://research.googleblog.com/2018/04/mobilenetv2-next-generation-of-on.html)
