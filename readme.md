@@ -54,7 +54,10 @@
   - [Google Cloud Natural language](#google-cloud-natural-language)
   - [Google Deep Learning Virtual Machine](#google-deep-learning-virtual-machine)
   - [Google Mobile Vision](#google-mobile-vision)
+  - [Google Speech API](#google-speech-api)
+  - [Google Translation API](#google-translation-api)
   - [Google Video Intelligence](#google-video-intelligence)
+  - [Gogle Vision API](#google-vision-api)
   - [Experiments Frameworks](#experiments-frameworks)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Microsoft Azure Bot Service](#microsoft-azure-bot-service)
@@ -595,11 +598,30 @@ Cons:
 - Scan barcodes
 - Recognize Text
 
+## [Google Speech API](https://cloud.google.com/speech-to-text/)
+- speech recognition
+- word hints: Can provide context hints for improved accuracy.  Especially useful for device and app use cases.
+- noise robustness: No need for signal processing or noise cancellation before calling API; can handle noisy audio from a variety of environments
+- realtime results: can stream text results, returning partial recognition results as they become available.  Can also be run on buffered or archived audio files.  
+- over 80 languages
+- can also filter inappropriate content in text results
+
+## [Google Translation API](https://cloud.google.com/translate/)
+- Supports more than 100 languages and thousands of language pairs
+- automatic language detection
+- continuous updates: Translation API is learning from logs analysis and human translation examples. Existing language pairs improve and new language pairs come online at no additional cost
+
 ## [Google Video Intelligence](https://cloud.google.com/video-intelligence/)
 - Label Detection - Detect entities within the video, such as "dog", "flower" or "car"
 - Shot Change Detection - Detect scene changes within the video
 - Explicit Content Detection - Detect adult content within a video
 - Video Transcription - Automatically transcribes video content in English
+
+## [Gogle Vision API](https://cloud.google.com/vision/)
+- Object recognition: detect broad sets of categories within an image, ranging from modes of transportation to animals
+- Facial sentiment and logos: Analyze facial features to detect emotions: joy, sorrow, anger; detect logos
+- Extract text: detect and extract text within an image, with support of many languages and automatic language identification
+- Detect inapropriate content: fetect different types of inappropriate content from adult to violent content
 
 ## Experiments Frameworks
 Tools to help you configure, organize, log and reproduce experiments
