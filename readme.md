@@ -51,6 +51,7 @@
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
+  - [Google Cloud Natural language](#google-cloud-natural-language)
   - [Google Deep Learning Virtual Machine](#google-deep-learning-virtual-machine)
   - [Google Mobile Vision](#google-mobile-vision)
   - [Google Video Intelligence](#google-video-intelligence)
@@ -579,6 +580,12 @@ Cons:
 - Automation of ML: AutoML - Vision, NLP, Speech, etc.
 - Specialised Hardware: Tensor Processing Units (TPUs)
 - SQL-supported ML: [BQML](https://cloud.google.com/blog/big-data/2018/07/bridging-the-gap-between-data-and-insights)
+
+# [Google Cloud Natural language](https://cloud.google.com/natural-language/)
+- entiry recognition: extract information about people, places, events, and much more mentioned in text documents, news articles, or blog posts
+- sentiment analysis: understand the overall sentiment expressed in a block of text
+- multilingual support
+- syntax analysis: extract tokens and sentences, identify parts of speech (PoS) and create dependency parse trees for each sentence
 
 ## [Google Deep Learning Virtual Machine](https://cloud.google.com/deep-learning-vm/docs/)
 - VMs with CPU and GPU 
