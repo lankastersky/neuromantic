@@ -220,10 +220,10 @@ Code repositories
   - https://github.com/tensorflow/models/tree/master/research/deeplab
   - [Deeplab demo on python](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   - https://github.com/lankastersky/deeplab_background_segmentation (android)
-- https://github.com/facebookresearch/Detectron, see links to articles at the end of the page
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
   - https://github.com/facebookresearch/Detectron
+  - see links to articles at the end of the page
 - [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN, 2017](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4)
 
 ## Interpretability
