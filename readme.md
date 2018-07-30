@@ -11,7 +11,7 @@
     - [Food Recognition](#food-recognition)
     - [Image Captioning](#image-captioning)
     - [Person Detection](#person-detection)
-    - [Semantic segmentation](#semantic-segmentation)
+    - [Semantic Segmentation](#semantic-segmentation)
   - [Interpretability](#interpretability)
   - [Programming and ML](#programming-and-ml)
     - [Predict defects](#predict-defects)
@@ -221,6 +221,11 @@ Code repositories
   - [Deeplab demo on python](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   - https://github.com/lankastersky/deeplab_background_segmentation (android)
 - [Rethinking Atrous Convolution for Semantic Image Segmentation by Liang-Chieh Chen et al, 2017](https://arxiv.org/pdf/1706.05587.pdf)
+- [
+MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Direction Features by Liang-Chieh Chen et al, 2017](https://arxiv.org/abs/1712.04837)
+  - present a model, called MaskLab, which produces three outputs: box detection, semantic segmentation, and direction prediction	
+  - built on top of the Faster-RCNN object detector
+  - evaluated on the COCO instance segmentation benchmark and shows comparable performance with other state-of-art models
 - [Mask R-CNN by Kaiming He et al, 2017](https://arxiv.org/abs/1703.06870)
   - https://github.com/facebookresearch/Detectron
   - see links to articles at the end of the page
@@ -426,6 +431,8 @@ Return the name of a concept given a definition or description:
   - https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 
 ### Object detection
+Here are video-specific methods. See also [Semantic Segmentation](#semantic-segmentation).
+
 - [Training and serving a realtime mobile object detector in 30 minutes with Cloud TPUs, 2018](https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193)
   - includes checkpoints
 - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
