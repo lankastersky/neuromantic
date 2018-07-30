@@ -557,6 +557,7 @@ Cons:
 
 ## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
+- [Samples for usage](https://github.com/GoogleCloudPlatform/cloudml-samples)
 
 ## [Google Deep Learning Virtual Machine](https://cloud.google.com/deep-learning-vm/docs/)
 - VMs with CPU and GPU 
@@ -618,8 +619,10 @@ Tools to help you configure, organize, log and reproduce experiments
   - https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite/java/demo
     - TF classify using tflite model
   - [Freeze tensorflow model graph](https://www.tensorflow.org/mobile/tflite/devguide#freeze_graph)
-    
+- [TensorFlow Estimator APIs Tutorials](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials)
+
 # Playgrounds
+- [Training Data Analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for Google Cloud Platform courses 
 - [SEEDBANK](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples
 - [AI Lab: Learn to Code with the Cutting-Edge Microsoft AI Platform, 2018](https://blogs.technet.microsoft.com/machinelearning/2018/06/19/ai-lab-learn-about-experience-code-with-the-cutting-edge-microsoft-ai-platform/)
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
