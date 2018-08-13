@@ -70,6 +70,7 @@
   - [Supervisely](#supervisely)
   - [Syn Bot Oscova](#syn-botoscova)
   - [TensorFlow](#tensorflow)
+  - [Turi Create](#turi-create)
 - [Playgrounds](#playgrounds)
 - [IDEs](#ides)
 - [Repositories](#repositories)
@@ -687,6 +688,10 @@ Lobe is an easy-to-use _visual_ tool (no coding required) that lets you build cu
     - TF classify using tflite model
   - [Freeze tensorflow model graph](https://www.tensorflow.org/mobile/tflite/devguide#freeze_graph)
 - [TensorFlow Estimator APIs Tutorials](https://github.com/GoogleCloudPlatform/tf-estimator-tutorials)
+
+## [Turi Create](https://github.com/apple/turicreate)
+Apple python framework that simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+- Export models to Core ML for use in iOS, macOS, watchOS, and tvOS apps.
 
 # Playgrounds
 - [Training Data Analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for Google Cloud Platform courses 
