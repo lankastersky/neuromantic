@@ -51,6 +51,7 @@
   - [ARCore](#arcore)
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
+  - [Google Cloud Dataprep](#google-cloud-dataprep)
   - [Google Cloud ML Engine](#google-cloud-ml-engine)
   - [Google Cloud Natural language](#google-cloud-natural-language)
   - [Google Deep Learning Virtual Machine](#google-deep-learning-virtual-machine)
@@ -579,6 +580,9 @@ Pros:
 Cons:
 - limited to image recognition (2018-Q1)
 - doesn't allow to download a trained model
+
+## [Google Cloud Dataprep](https://cloud.google.com/dataprep/)
+Intelligent data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis. Cloud Dataprep is serverless and works at any scale. Easy data preparation with clicks and no code.
 
 ## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
