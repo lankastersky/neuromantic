@@ -61,6 +61,7 @@
   - [Gogle Vision API](#google-vision-api)
   - [Experiments Frameworks](#experiments-frameworks)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Lobe](#lobe)
   - [Microsoft Azure Bot Service](#microsoft-azure-bot-service)
   - [Microsoft Azure Machine Learning](#microsoft-azure-machine-learning)
   - [Microsoft Cognitive Services](#microsoft-cognitive-services)
@@ -642,6 +643,9 @@ Tools to help you configure, organize, log and reproduce experiments
 ## Jupyter Notebook
 - [Top 5 Best Jupyter Notebook Extensions](https://www.kdnuggets.com/2018/03/top-5-best-jupyter-notebook-extensions.html)
 - [Version Control for Jupyter Notebook](https://towardsdatascience.com/version-control-for-jupyter-notebook-3e6cef13392d)
+
+## [Lobe](https://lobe.ai/)
+Lobe is an easy-to-use _visual_ tool (no coding required) that lets you build custom deep learning models, quickly train them, and ship them directly in your app without writing any code.
 
 ## [Microsoft Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/)
 
