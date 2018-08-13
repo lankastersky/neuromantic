@@ -49,6 +49,8 @@
 - [Tools](#tools)
   - [Amazon SageMaker](#amazon-sagemaker)
   - [ARCore](#arcore)
+  - [Core ML](#core-ml)
+  - [Create ML](#create-ml)
   - [Firebase ML Kit](#firebase-ml-kit)
   - [Google Cloud AutoML](#google-cloud-automl)
   - [Google Cloud Dataprep](#google-cloud-dataprep)
@@ -550,12 +552,18 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - Auto-scale Online Serving: You need to specify the number of nodes
 - Training Job Monitoring: No monitoring
 
-
 ## [ARCore](https://developers.google.com/ar/develop/)
 - https://github.com/google-ar/arcore-android-sdk
 - https://github.com/google-ar/sceneform-android-sdk
 - [Cloud Anchors android codelab](https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors/#0)
 - https://github.com/google-ar/arcore-ios-sdk
+
+## [Core ML](https://developer.apple.com/documentation/coreml)
+iOS framework from Apple to integrate machine learning models into your app.
+
+## [Create ML](https://developer.apple.com/documentation/create_ml)
+Apple framework used with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
+- [Introducing Creat ML](https://developer.apple.com/videos/play/wwdc2018/703/) on wwdc2018
 
 ## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
 - [ML Kit: Machine Learning SDK for mobile developers (Google I/O '18)](https://www.youtube.com/watch?v=Z-dqGRSsaBs)
@@ -692,6 +700,7 @@ Lobe is an easy-to-use _visual_ tool (no coding required) that lets you build cu
 ## [Turi Create](https://github.com/apple/turicreate)
 Apple python framework that simplifies the development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 - Export models to Core ML for use in iOS, macOS, watchOS, and tvOS apps.
+- [A Guide to Turi Create](https://developer.apple.com/videos/play/wwdc2018/712/) from wwdc2018
 
 # Playgrounds
 - [Training Data Analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for Google Cloud Platform courses 
