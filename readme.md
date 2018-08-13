@@ -563,7 +563,7 @@ iOS framework from Apple to integrate machine learning models into your app.
 
 ## [Create ML](https://developer.apple.com/documentation/create_ml)
 Apple framework used with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
-- [Introducing Creat ML](https://developer.apple.com/videos/play/wwdc2018/703/) on wwdc2018
+- [Introducing Create ML](https://developer.apple.com/videos/play/wwdc2018/703/) on wwdc2018
 
 ## [Firebase ML Kit](https://firebase.google.com/docs/ml-kit/)
 - [ML Kit: Machine Learning SDK for mobile developers (Google I/O '18)](https://www.youtube.com/watch?v=Z-dqGRSsaBs)
