@@ -75,6 +75,7 @@
   - [TensorFlow](#tensorflow)
   - [Turi Create](#turi-create)
 - [Playgrounds](#playgrounds)
+  - [Google AIY](#google-aiy)
 - [IDEs](#ides)
 - [Repositories](#repositories)
 - [Models](#models)
@@ -440,6 +441,7 @@ Return the name of a concept given a definition or description:
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python, 2018](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
 - [Image Classification using Flowers dataset on Cloud ML Enginge, 2018](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
 - [Android & TensorFlow: Artistic Style Transfer, 2018](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/index.html#0) codelab
+- [The TensorFlow Poet tutorial](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0) shows how to retrain a tensorflow graph to classify images of flowers.
 
 ## Uber
 - [Engineering More Reliable Transportation with Machine Learning and AI at Uber, 2017](https://eng.uber.com/machine-learning/)
@@ -711,6 +713,10 @@ Apple python framework that simplifies the development of custom machine learnin
 - [SEEDBANK](http://tools.google.com/seedbank/) - Collection of Interactive Machine Learning Examples
 - [AI Lab: Learn to Code with the Cutting-Edge Microsoft AI Platform, 2018](https://blogs.technet.microsoft.com/machinelearning/2018/06/19/ai-lab-learn-about-experience-code-with-the-cutting-edge-microsoft-ai-platform/)
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
+
+## [Google AIY](https://aiyprojects.withgoogle.com)
+[Vision Kit](https://aiyprojects.withgoogle.com/vision/) - Do-it-yourself intelligent camera. Experiment with image recognition using neural networks on Raspberry Pi.
+[Voice Kit](https://aiyprojects.withgoogle.com/voice/) - Do-it-yourself intelligent speaker. Experiment with voice recognition and the Google Assistant on Raspberry Pi.
 
 # IDEs
 - https://colab.research.google.com
