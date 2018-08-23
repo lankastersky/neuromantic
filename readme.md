@@ -715,8 +715,8 @@ Apple python framework that simplifies the development of custom machine learnin
 - [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
 
 ## [Google AIY](https://aiyprojects.withgoogle.com)
-[Vision Kit](https://aiyprojects.withgoogle.com/vision/) - Do-it-yourself intelligent camera. Experiment with image recognition using neural networks on Raspberry Pi.
-[Voice Kit](https://aiyprojects.withgoogle.com/voice/) - Do-it-yourself intelligent speaker. Experiment with voice recognition and the Google Assistant on Raspberry Pi.
+- [Vision Kit](https://aiyprojects.withgoogle.com/vision/) - Do-it-yourself intelligent camera. Experiment with image recognition using neural networks on Raspberry Pi.
+- [Voice Kit](https://aiyprojects.withgoogle.com/voice/) - Do-it-yourself intelligent speaker. Experiment with voice recognition and the Google Assistant on Raspberry Pi.
 
 # IDEs
 - https://colab.research.google.com
