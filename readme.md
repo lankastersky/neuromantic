@@ -449,6 +449,8 @@ Return the name of a concept given a definition or description:
 ## Video recognition
 
 ### Pose recognition
+- [Everybody Dance Now by CAROLINE CHAN et al, 2018](https://arxiv.org/pdf/1808.07371.pdf)
+  - [Motion retargeting video](https://www.youtube.com/watch?v=PCBTZh41Ris&feature=youtu.be)
 - [Real-time Human Pose Estimation in the Browser with TensorFlow.js, 2018](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) (Medium post)
   - [Pose Detection in the Browser: PoseNet Model](https://github.com/tensorflow/tfjs-models/tree/master/posenet) (github)
 - [Enabling full body AR with Mask R-CNN2Go by Fei Yang et al, 2018](https://research.fb.com/enabling-full-body-ar-with-mask-r-cnn2go/)
