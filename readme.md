@@ -63,7 +63,7 @@
   - [Google Speech API](#google-speech-api)
   - [Google Translation API](#google-translation-api)
   - [Google Video Intelligence](#google-video-intelligence)
-  - [Gogle Vision API](#google-vision-api)
+  - [Google Vision API](#google-vision-api)
   - [Experiments Frameworks](#experiments-frameworks)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lobe](#lobe)
@@ -72,7 +72,7 @@
   - [Microsoft Cognitive Services](#microsoft-cognitive-services)
   - [Microsoft Cognitive Toolkit](#microsoft-cognitive-toolkit)
   - [Supervisely](#supervisely)
-  - [Syn Bot Oscova](#syn-botoscova)
+  - [Syn Bot Oscova](#syn-bot-oscova)
   - [TensorFlow](#tensorflow)
   - [Turi Create](#turi-create)
 - [Playgrounds](#playgrounds)
@@ -656,7 +656,7 @@ Intelligent data service for visually exploring, cleaning, and preparing structu
 - Explicit Content Detection - Detect adult content within a video
 - Video Transcription - Automatically transcribes video content in English
 
-## [Gogle Vision API](https://cloud.google.com/vision/)
+## [Google Vision API](https://cloud.google.com/vision/)
 - Object recognition: detect broad sets of categories within an image, ranging from modes of transportation to animals
 - Facial sentiment and logos: Analyze facial features to detect emotions: joy, sorrow, anger; detect logos
 - Extract text: detect and extract text within an image, with support of many languages and automatic language identification
