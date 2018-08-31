@@ -1,5 +1,6 @@
 ﻿# TOC
 - [Use Cases](#use-cases)
+  - [3D recognition](#3d-recognition)
   - [Audio recognition](#audio-recognition)
     - [Speech to Text](#speech-to-text)
   - [Data Agumentation](#data-augmentation)
@@ -111,6 +112,12 @@
 
 # Use Cases
 - [Sample Projects for Data Scientists in Training by V Granville, 2018](https://www.datasciencecentral.com/profiles/blogs/sample-projects-for-data-scientists-in-training)
+
+## 3D Recognition
+- https://github.com/IsaacGuan/PointNet-Plane-Detection
+  - accuracy around 85% for 100 epochs using TensorFlow
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation, 2017](https://github.com/IsaacGuan/PointNet-Plane-Detection)
+  - https://github.com/charlesq34/pointnet
 
 ## Audio Recognition
 - [CNN Architectures for Large-Scale Audio Classification, S. Hershey et al, 2017](https://research.google.com/pubs/pub45611.html)
