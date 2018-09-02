@@ -96,6 +96,7 @@
     - [Long-Short Term Memory Networks](#long-short-term-memory-networks)
     - [Recurrent Neural Networks](#recurrent-neural-networks)
     - [Symmetrically Connected Networks](#symmetrically-connected-networks)
+  - [Reinforcement Learning](#reinforcement-learning)
 - [Guidelines](#guidelines)
   - [Deep learning](#deep-learning)
 - [Interview preparation](#interview-preparation)
@@ -440,7 +441,6 @@ Return the name of a concept given a definition or description:
 - The Relationship Between Dimensions of Love, Personality, and Relationship Length (Gorkan Ahmetoglu, Viren Swami, Tomas Chamorro-Premuzic)
 
 ## Search
-- [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 - [Can word2vec be used for search?](https://www.reddit.com/r/MachineLearning/comments/4mw927/can_word2vec_be_used_for_search/)
   - alternative search queries can be built using approximate nearest neighbors in embedding vectors space of terms (using https://github.com/spotify/annoy e.g.)
   - [Improving Document Ranking with Dual Word Embeddings by Eric Nalisnick et al, 2016](https://www.microsoft.com/en-us/research/publication/improving-document-ranking-with-dual-word-embeddings/?from=http%3A%2F%2Fresearch.microsoft.com%2Fapps%2Fpubs%2Fdefault.aspx%3Fid%3D260867)
@@ -858,6 +858,11 @@ Back-propagation problems:
 - Boltzmann machines (stochastic recurrent neural network with hidden units)
  -  Restricted Boltzmann Machines by Salakhutdinov and Hinton, 2014
  - [Deep Boltzmann Machines by Salakhutdinov and Hinton, 2012](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
+
+## Reinforcement Learning
+- [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research, 2018](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
+  - https://github.com/google/dopamine
+- [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 
 # Guidelines
 - [AI at Google: our principles, 2018](https://blog.google/topics/ai/ai-principles/)
