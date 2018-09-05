@@ -447,6 +447,7 @@ Return the name of a concept given a definition or description:
 
 ## Transfer Learning
 - [Life-Long Disentangled Representation Learning with Cross-Domain Latent Homologies by Alessandro Achille et al, 2018](https://arxiv.org/abs/1808.06508)
+  - possible solution of catastrophic forgetting
 - [Deep Learning & Art: Neural Style Transfer – An Implementation with Tensorflow in Python, 2018](https://www.datasciencecentral.com/profiles/blogs/deep-learning-amp-art-neural-style-transfer-an-implementation)
 - [Image Classification using Flowers dataset on Cloud ML Enginge, 2018](https://cloud.google.com/ml-engine/docs/flowers-tutorial)
 - [Android & TensorFlow: Artistic Style Transfer, 2018](https://codelabs.developers.google.com/codelabs/tensorflow-style-transfer-android/index.html#0) codelab
