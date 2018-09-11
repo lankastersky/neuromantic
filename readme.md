@@ -934,6 +934,7 @@ Back-propagation problems:
 - [Statistics is Easy! by Dennis Shasha, 2010](https://www.amazon.com/Statistics-Second-Synthesis-Lectures-Mathematics/dp/160845570X)
 
 # Datasets
+- https://ai.google/tools/datasets/
 - https://toolbox.google.com/datasetsearch
   - [Making it easier to discover datasets, 2018](https://www.blog.google/products/search/making-it-easier-discover-datasets/)
 - [Microsoft Research Open Data](https://msropendata.com/)
