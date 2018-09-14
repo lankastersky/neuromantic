@@ -120,6 +120,9 @@
   - accuracy around 85% for 100 epochs using TensorFlow
 - [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation, 2017](https://github.com/IsaacGuan/PointNet-Plane-Detection)
   - https://github.com/charlesq34/pointnet
+  
+### Semantic Segmentation
+- [SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks by John McCormac et al, 2016](https://arxiv.org/abs/1609.05130)
 
 ## Audio Recognition
 - [CNN Architectures for Large-Scale Audio Classification, S. Hershey et al, 2017](https://research.google.com/pubs/pub45611.html)
