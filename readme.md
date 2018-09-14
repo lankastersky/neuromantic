@@ -1,6 +1,7 @@
 ﻿# TOC
 - [Use Cases](#use-cases)
   - [3D recognition](#3d-recognition)
+    - [Semantic Segmentation](#semantic-segmentation)
   - [Audio recognition](#audio-recognition)
     - [Speech to Text](#speech-to-text)
   - [Data Agumentation](#data-augmentation)
@@ -13,7 +14,7 @@
     - [Food Recognition](#food-recognition)
     - [Image Captioning](#image-captioning)
     - [Person Detection](#person-detection)
-    - [Semantic Segmentation](#semantic-segmentation)
+    - [Semantic Segmentation](#semantic-segmentation-1)
   - [Interpretability](#interpretability)
   - [Programming and ML](#programming-and-ml)
     - [Predict defects](#predict-defects)
