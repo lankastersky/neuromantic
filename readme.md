@@ -106,6 +106,7 @@
 - [MOOC](#mooc)
   - [Google oriented courses](#google-oriented-courses)
 - [Datasets](#datasets)
+  - [3D](#3d)
   - [Images](#images)
   - [Videos](#videos)
 - [Research groups](#research-groups)
@@ -940,6 +941,10 @@ Back-propagation problems:
 - [Microsoft Research Open Data](https://msropendata.com/)
   - users can also copy datasets directly to an Azure based Data Science virtual machine
   
+## 3D
+- [ScanNet](http://www.scan-net.org/) - RGB-D video dataset annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations
+- [SceneNet](https://robotvault.bitbucket.io/scenenet-rgbd.html) - Photorealistic Images of Synthetic Indoor Trajectories with Ground Truth
+
 ## Audios
 - [The VU sound corpus](https://github.com/CrowdTruth/vu-sound-corpus) - based on https://freesound.org/ database
   - See article [The VU Sound Corpus by Emiel van Miltenburg et al](http://www.lrec-conf.org/proceedings/lrec2016/pdf/206_Paper.pdf)
