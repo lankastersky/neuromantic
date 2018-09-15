@@ -496,13 +496,19 @@ Detects when one video (shot/scene/chapter) ends and another begins
 - [Video Scene Segmentation Using Markov Chain Monte Carlo by Yun Zha et al, 2006](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1658031)
 - [Automatic Video Scene Segmentation based on Spatial-Temporal Clues and Rhythm by Walid Mahdi et al, 2000](https://arxiv.org/abs/1412.4470)
 
-### Video captioning
+### Video Captioning
+- [Temporal Relational Reasoning in Videos by Bolei Zhou et al, 2018](https://arxiv.org/abs/1711.08496) - Recognizing and forecasting activities by a few frames
+  - https://www.youtube.com/watch?time_continue=54&v=JBwSk6nJOyM
+  - https://github.com/metalbubble/TRN-pytorch
+  - http://relation.csail.mit.edu/
+  - http://news.mit.edu/2018/machine-learning-video-activity-recognition-0914
+  
 - [DeepStory: Video Story QA by Deep Embedded Memory Networks by Kyung-Min Kim et al, 2017](https://arxiv.org/abs/1707.00836)
   - https://github.com/Kyung-Min/Deep-Embedded-Memory-Networks
 - [Video Understanding: From Video Classification to Captioning by Jiajun Sun et al, 2017](http://cs231n.stanford.edu/reports/2017/pdfs/709.pdf)
 - [Unsupervised Learning from Narrated Instruction Videos by Jean-Baptiste Alayrac et al, 2015](https://arxiv.org/abs/1506.09215)
 
-### Video classification
+### Video Classification
 - [Learnable pooling with Context Gating for video classification by Antoine Miech et al, 2018](https://arxiv.org/abs/1706.06905)
   - Rank #1 at [Google Cloud & YouTube-8M Video Understanding Challenge](https://www.kaggle.com/c/youtube8m)
   - Slow for inference/training
