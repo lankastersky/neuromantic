@@ -962,6 +962,7 @@ Back-propagation problems:
 
 
 ## Images
+- [Conceptual Captions: A New Dataset and Challenge for Image Captioning, 2018](https://ai.googleblog.com/2018/09/conceptual-captions-new-dataset-and.html)
 - [Landmarks 2018](https://research.googleblog.com/2018/03/google-landmarks-new-dataset-and.html)
 - [ImageNet](http://www.image-net.org/)
 - [COCO](http://cocodataset.org/#home)
