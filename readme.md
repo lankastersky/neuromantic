@@ -316,6 +316,7 @@ MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Di
 - https://www.deepcode.ai
 
 ## NLP
+- [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) - OpenAI
 - [SentEval: An Evaluation Toolkit for Universal Sentence Representations by A. Conneau et al, 2018](https://arxiv.org/abs/1803.05449)
   - https://github.com/facebookresearch/SentEval
   - the benchmarks may not be appropriate for domain-specific problems
