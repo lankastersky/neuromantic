@@ -435,6 +435,8 @@ Return the name of a concept given a definition or description:
   - [Microsoft researchers build a bot that draws what you tell it to, 2018](https://blogs.microsoft.com/ai/drawing-ai/)
 
 ### Text to Speech
+- [Efficient Neural Audio Synthesis by Nal Kalchbrenner et al, 2018](https://arxiv.org/abs/1802.08435)
+  - [Pytorch implementation of Deepmind's WaveRNN model](https://github.com/fatchord/WaveRNN) on github
 - [Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention by Hideyuki Tachibana et al, 2017](https://arxiv.org/abs/1710.08969)
   - https://github.com/Kyubyong/
 - https://github.com/r9y9/ (Ryuichi Yamamoto)
