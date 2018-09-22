@@ -324,6 +324,8 @@ MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Di
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/)
 
 ### Chatbots
+- https://ipavlov.ai/ - open-source conversational AI framework built on TensorFlow and Keras
+  - https://github.com/deepmipt/DeepPavlov
 - [Behind the Chat: How E-commerce Robot Assistant AliMe Works, 2018](https://medium.com/mlreview/behind-the-chat-how-e-commerce-bot-alime-works-1b352391172a)
 - [How I Used Deep Learning To Train A Chatbot To Talk Like Me (Sorta), 2017](https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me)
   - Short-Text Conversations generative model based on Tensorflow’s embedding_rnn_seq2seq() with custom dataset. Deployed as a Facebook chatbot using heroku (hosting)+express(frontend)+flask(backend)
