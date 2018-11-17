@@ -312,6 +312,8 @@ MaskLab: Instance Segmentation by Refining Object Detection with Semantic and Di
   - you can use similar techniques to search video, audio, and other objects
 
 ### Writing code
+- https://github.com/capergroup/bayou
+  - [NEURAL SKETCH LEARNING FOR CONDITIONAL PROGRAM GENERATION by Vijayaraghavan Murali et al, 2018](https://arxiv.org/pdf/1703.05698.pdf)
 - [Program Synthesis in 2017-18](https://alexpolozov.com/blog/program-synthesis-2018/)
 - https://www.deepcode.ai
 
