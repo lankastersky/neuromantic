@@ -37,6 +37,7 @@
   - [Performance](#performance)
   - [Personality recognition](#personality-recognition)
   - [Search](#search)
+  - [Robotics](#robotics)
   - [Transfer Learning](#transfer-learning)
   - [Uber](#uber)
   - [Video recognition](#video-recognition)
@@ -451,6 +452,10 @@ Return the name of a concept given a definition or description:
 - Mining Facebook Data for Predictive Personality Modeling (Dejan Markovikj,Sonja Gievska, Michal Kosinski, David Stillwell)
 - Personality Traits Recognition on Social Network — Facebook (Firoj Alam, Evgeny A. Stepanov, Giuseppe Riccardi)
 - The Relationship Between Dimensions of Love, Personality, and Relationship Length (Gorkan Ahmetoglu, Viren Swami, Tomas Chamorro-Premuzic)
+
+## Robotics
+- [Grasp2Vec: Learning Object Representations from Self-Supervised Grasping](https://sites.google.com/site/grasp2vec/)
+  - Achieved a success rate of 80 percent on objects seen during data collection and 59% on novel objects the robot hasn’t encountered before
 
 ## Search
 - [Can word2vec be used for search?](https://www.reddit.com/r/MachineLearning/comments/4mw927/can_word2vec_be_used_for_search/)
