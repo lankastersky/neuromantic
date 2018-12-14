@@ -890,6 +890,13 @@ Back-propagation problems:
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 
 # Guidelines
+- [AI Transformation Playbook by Andrew Ng, 2018](https://landing.ai/ai-transformation-playbook/?utm_source=MLYList&utm_medium=ButtonLink&utm_campaign=Playbook)
+  - Steps for transforming your enterprise with AI, which I will explain in this playbook:
+    - Execute pilot projects to gain momentum
+    - Build an in-house AI team
+    - Provide broad AI training
+    - Develop an AI strategy
+    - Develop internal and external communications
 - [AI at Google: our principles, 2018](https://blog.google/topics/ai/ai-principles/)
 - [Rules of Machine Learning: Best Practices for ML Engineering by Martin Zinkevich, 2018](https://developers.google.com/machine-learning/rules-of-ml/)
 - [Practical advice for analysis of large, complex data sets by PATRICK RILEY, 2016](http://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html)
