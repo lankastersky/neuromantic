@@ -890,6 +890,8 @@ Back-propagation problems:
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
 
 # Guidelines
+- [Stanford CS-230 cheatsheets](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
+  - The top concepts of Deep Learning, CNNs and RNNs summarized in 3 short pages
 - [AI Transformation Playbook by Andrew Ng, 2018](https://landing.ai/ai-transformation-playbook/?utm_source=MLYList&utm_medium=ButtonLink&utm_campaign=Playbook)
   - Steps for transforming your enterprise with AI, which I will explain in this playbook:
     - Execute pilot projects to gain momentum
