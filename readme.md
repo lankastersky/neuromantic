@@ -885,6 +885,7 @@ Back-propagation problems:
  - [Deep Boltzmann Machines by Salakhutdinov and Hinton, 2012](http://proceedings.mlr.press/v5/salakhutdinov09a/salakhutdinov09a.pdf)
 
 ## Reinforcement Learning
+- [Deep Reinforcement Learning Doesn't Work Yet, 2018](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [Introducing a New Framework for Flexible and Reproducible Reinforcement Learning Research, 2018](https://ai.googleblog.com/2018/08/introducing-new-framework-for-flexible.html)
   - https://github.com/google/dopamine
 - [Neural Architecture Search with Reinforcement Learning by Barret Zoph et al, 2017](https://arxiv.org/abs/1611.01578)
