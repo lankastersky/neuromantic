@@ -56,10 +56,11 @@
   - [Apple Create ML](#apple-create-ml)
   - [Apple Natural Language Framework](#apple-natural-language-framework)
   - [Firebase ML Kit](#firebase-ml-kit)
-  - [Google Cloud AutoML](#google-cloud-automl)
-  - [Google Cloud Dataprep](#google-cloud-dataprep)
-  - [Google Cloud ML Engine](#google-cloud-ml-engine)
-  - [Google Cloud Natural language](#google-cloud-natural-language)
+  - [Google AutoML](#google-automl)
+  - [Google Datalab](#google-datalab)
+  - [Google Dataprep](#google-dataprep)
+  - [Google ML Engine](#google-ml-engine)
+  - [Google Natural language](#google-cloud-natural-language)
   - [Google Deep Learning Virtual Machine](#google-deep-learning-virtual-machine)
   - [Google Mobile Vision](#google-mobile-vision)
   - [Google Speech API](#google-speech-api)
@@ -620,7 +621,7 @@ Apple framework used with familiar tools like Swift and macOS playgrounds to cre
   - [Custom model iOS example](https://github.com/firebase/quickstart-ios/tree/master/mlmodelinterpreter)
   - [android examples](https://github.com/firebase/quickstart-android/tree/master/mlkit)
 
-## [Google Cloud AutoML](https://cloud.google.com/automl/)
+## [Google AutoML](https://cloud.google.com/automl/)
 
 Pros:
 - let users train their own custom machine learning algorithms from scratch, without having to write a single line of code
@@ -631,10 +632,15 @@ Cons:
 - limited to image recognition (2018-Q1)
 - doesn't allow to download a trained model
 
-## [Google Cloud Dataprep](https://cloud.google.com/dataprep/)
+## [Google Datalab](https://cloud.google.com/datalab/)
+- Powerful interactive tool created to explore, analyze, transform and visualize data and build machine learning models on Google Cloud Platform. It runs on Google Compute Engine and connects to multiple cloud services easily so you can focus on your data science tasks.
+- Built on Jupyter (formerly IPython), which boasts a thriving ecosystem of modules and a robust knowledge base. 
+- Enables analysis of your data on Google BigQuery, Cloud Machine Learning Engine, Google Compute Engine, and Google Cloud Storage using Python, SQL, and JavaScript (for BigQuery user-defined functions).
+
+## [Google Dataprep](https://cloud.google.com/dataprep/)
 Intelligent data service for visually exploring, cleaning, and preparing structured and unstructured data for analysis. Cloud Dataprep is serverless and works at any scale. Easy data preparation with clicks and no code.
 
-## [Google Cloud ML Engine](https://cloud.google.com/ml-engine/)
+## [Google ML Engine](https://cloud.google.com/ml-engine/)
 - [Samples & Tutorials](https://cloud.google.com/ml-engine/docs/tutorials)
 - [Samples for usage](https://github.com/GoogleCloudPlatform/cloudml-samples)
 - Distributed Training: Specify number of nodes, types, (workers/PS), associated accelerators, and sizes
@@ -648,7 +654,7 @@ Intelligent data service for visually exploring, cleaning, and preparing structu
 - Specialised Hardware: Tensor Processing Units (TPUs)
 - SQL-supported ML: [BQML](https://cloud.google.com/blog/big-data/2018/07/bridging-the-gap-between-data-and-insights)
 
-# [Google Cloud Natural language](https://cloud.google.com/natural-language/)
+# [Google Natural language](https://cloud.google.com/natural-language/)
 - entiry recognition: extract information about people, places, events, and much more mentioned in text documents, news articles, or blog posts
 - sentiment analysis: understand the overall sentiment expressed in a block of text
 - multilingual support
