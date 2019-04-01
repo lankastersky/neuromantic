@@ -554,6 +554,9 @@ Detects when one video (shot/scene/chapter) ends and another begins
   - 63.3% on UCF-101
 
 ## Visualization
+- [Google Datalab](#google-datalab)
+- [Google Dataprep](#google-dataprep)
+- [Tableau](#tableau)
 - [Google Brain: Big Picture Group](https://research.google.com/bigpicture/)
 - [Deeplearn.js](https://github.com/tensorflow/tfjs-core) - open source hardware-accelerated machine intelligence library for the web
 - [Facets](https://pair-code.github.io/facets/) - open source visualizations for machine learning datasets
