@@ -76,6 +76,7 @@
   - [Microsoft Cognitive Toolkit](#microsoft-cognitive-toolkit)
   - [Supervisely](#supervisely)
   - [Syn Bot Oscova](#syn-bot-oscova)
+  - [Tableau](#tableau)
   - [TensorFlow](#tensorflow)
   - [Turi Create](#turi-create)
 - [Playgrounds](#playgrounds)
@@ -725,6 +726,10 @@ Lobe is an easy-to-use _visual_ tool (no coding required) that lets you build cu
 - MS Visual Studio is required (doesn't work with VS Code)
 - activating Deep Learning feature requires [license activating](https://developer.syn.co.in/tutorial/bot/activate-license.html)
 - number of requests to the server is limited by the license
+
+## [Tableau](https://www.tableau.com/)
+- Data visualization tool created by Tableau Software.
+- Connects to files, relational and Big Data sources, allows transforming data into dashboards that look amazing and are also interactive.
 
 ## [TensorFlow](https://www.tensorflow.org/)
 - [TensorFlow Hub](https://www.tensorflow.org/hub/)
